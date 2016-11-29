@@ -1,0 +1,209 @@
+2016-11-26 18:11:40 [scrapy] INFO: Scrapy 1.2.1 started (bot: inventtory_spiders)
+2016-11-26 18:11:40 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'inventtory_spiders.spiders', 'SPIDER_MODULES': ['inventtory_spiders.spiders'], 'BOT_NAME': 'inventtory_spiders', 'LOG_STDOUT': True, 'LOG_FILE': 'scrapy_log_files/uspto_apps_applicant_test2.txt', 'DOWNLOAD_DELAY': 1}
+2016-11-26 18:11:40 [scrapy] INFO: Enabled extensions:
+['scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.corestats.CoreStats']
+2016-11-26 18:11:40 [scrapy] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.chunked.ChunkedTransferMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2016-11-26 18:11:40 [scrapy] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2016-11-26 18:11:40 [scrapy] INFO: Enabled item pipelines:
+[]
+2016-11-26 18:11:40 [scrapy] INFO: Spider opened
+2016-11-26 18:11:40 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2016-11-26 18:11:40 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6023
+2016-11-26 18:11:40 [stdout] INFO: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J OR AANM/Sidebotham-Christopher-G OR AANM/Roitburg-Leon&d=PG01
+2016-11-26 18:11:41 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01> (referer: None) ['partial']
+2016-11-26 18:11:41 [stdout] INFO: total number of records is: 9
+2016-11-26 18:11:41 [stdout] INFO: total numbers of pages is: 1
+2016-11-26 18:11:42 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01) ['partial']
+2016-11-26 18:11:44 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=9&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01) ['partial']
+2016-11-26 18:11:44 [stdout] INFO: We made it!
+2016-11-26 18:11:44 [scrapy] ERROR: Spider error processing <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=9&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01)
+Traceback (most recent call last):
+  File "c:\python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\inventtory_spiders\spiders\USPTO_patent_apps_applicant.py", line 161, in parse_patent
+    states = location[city_index:state_index]
+NameError: global name 'location' is not defined
+2016-11-26 18:11:45 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=8&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01) ['partial']
+2016-11-26 18:11:45 [stdout] INFO: We made it!
+2016-11-26 18:11:45 [scrapy] ERROR: Spider error processing <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=8&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01)
+Traceback (most recent call last):
+  File "c:\python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\inventtory_spiders\spiders\USPTO_patent_apps_applicant.py", line 161, in parse_patent
+    states = location[city_index:state_index]
+NameError: global name 'location' is not defined
+2016-11-26 18:11:46 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=7&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01) ['partial']
+2016-11-26 18:11:46 [stdout] INFO: We made it!
+2016-11-26 18:11:46 [scrapy] ERROR: Spider error processing <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=7&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01)
+Traceback (most recent call last):
+  File "c:\python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\inventtory_spiders\spiders\USPTO_patent_apps_applicant.py", line 161, in parse_patent
+    states = location[city_index:state_index]
+NameError: global name 'location' is not defined
+2016-11-26 18:11:47 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=6&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01) ['partial']
+2016-11-26 18:11:48 [stdout] INFO: We made it!
+2016-11-26 18:11:48 [scrapy] ERROR: Spider error processing <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=6&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01)
+Traceback (most recent call last):
+  File "c:\python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\inventtory_spiders\spiders\USPTO_patent_apps_applicant.py", line 161, in parse_patent
+    states = location[city_index:state_index]
+NameError: global name 'location' is not defined
+2016-11-26 18:11:49 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=5&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01) ['partial']
+2016-11-26 18:11:49 [stdout] INFO: We made it!
+2016-11-26 18:11:49 [scrapy] ERROR: Spider error processing <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=5&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01)
+Traceback (most recent call last):
+  File "c:\python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\inventtory_spiders\spiders\USPTO_patent_apps_applicant.py", line 161, in parse_patent
+    states = location[city_index:state_index]
+NameError: global name 'location' is not defined
+2016-11-26 18:11:50 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=4&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01) ['partial']
+2016-11-26 18:11:50 [stdout] INFO: We made it!
+2016-11-26 18:11:50 [scrapy] ERROR: Spider error processing <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=4&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01)
+Traceback (most recent call last):
+  File "c:\python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\inventtory_spiders\spiders\USPTO_patent_apps_applicant.py", line 161, in parse_patent
+    states = location[city_index:state_index]
+NameError: global name 'location' is not defined
+2016-11-26 18:11:51 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=3&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01) ['partial']
+2016-11-26 18:11:51 [stdout] INFO: We made it!
+2016-11-26 18:11:51 [scrapy] ERROR: Spider error processing <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=3&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01)
+Traceback (most recent call last):
+  File "c:\python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\inventtory_spiders\spiders\USPTO_patent_apps_applicant.py", line 161, in parse_patent
+    states = location[city_index:state_index]
+NameError: global name 'location' is not defined
+2016-11-26 18:11:53 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=2&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01) ['partial']
+2016-11-26 18:11:53 [stdout] INFO: We made it!
+2016-11-26 18:11:53 [scrapy] ERROR: Spider error processing <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=2&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01)
+Traceback (most recent call last):
+  File "c:\python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\inventtory_spiders\spiders\USPTO_patent_apps_applicant.py", line 161, in parse_patent
+    states = location[city_index:state_index]
+NameError: global name 'location' is not defined
+2016-11-26 18:11:54 [scrapy] DEBUG: Crawled (200) <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01) ['partial']
+2016-11-26 18:11:54 [stdout] INFO: We made it!
+2016-11-26 18:11:54 [scrapy] ERROR: Spider error processing <GET http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&p=1&f=G&l=50&d=PG01&S1=((Lewis-Randall-J.AANM.+OR+Sidebotham-Christopher-G.AANM.)+OR+Roitburg-Leon.AANM.)&OS=AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G+OR+AANM/Roitburg-Leon&RS=((AANM/Lewis-Randall-J+OR+AANM/Sidebotham-Christopher-G)+OR+AANM/Roitburg-Leon)> (referer: http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=AANM/Lewis-Randall-J%20OR%20AANM/Sidebotham-Christopher-G%20OR%20AANM/Roitburg-Leon&d=PG01)
+Traceback (most recent call last):
+  File "c:\python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 22, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\inventtory_spiders\spiders\USPTO_patent_apps_applicant.py", line 161, in parse_patent
+    states = location[city_index:state_index]
+NameError: global name 'location' is not defined
+2016-11-26 18:11:54 [scrapy] INFO: Closing spider (finished)
+2016-11-26 18:11:54 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 8179,
+ 'downloader/request_count': 11,
+ 'downloader/request_method_count/GET': 11,
+ 'downloader/response_bytes': 583221,
+ 'downloader/response_count': 11,
+ 'downloader/response_status_count/200': 11,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2016, 11, 26, 18, 11, 54, 733000),
+ 'log_count/DEBUG': 12,
+ 'log_count/ERROR': 9,
+ 'log_count/INFO': 19,
+ 'request_depth_max': 2,
+ 'response_received_count': 11,
+ 'scheduler/dequeued': 11,
+ 'scheduler/dequeued/memory': 11,
+ 'scheduler/enqueued': 11,
+ 'scheduler/enqueued/memory': 11,
+ 'spider_exceptions/NameError': 9,
+ 'start_time': datetime.datetime(2016, 11, 26, 18, 11, 40, 682000)}
+2016-11-26 18:11:54 [scrapy] INFO: Spider closed (finished)

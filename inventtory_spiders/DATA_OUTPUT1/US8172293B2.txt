@@ -1,0 +1,396 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4028&p=81&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8172293B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8172293B2
+
+
+patent_name: 
+Vehicle electronic device support systems
+
+
+patent_publish_date: 
+May 8, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ Embodiments of a vehicle electronic device support system comprise a
+     vehicle console and an electronic device holder disposed anterior to the
+     vehicle console, wherein the vehicle console comprises a vehicle console
+     bin comprising an auxiliary port, and the electronic device holder is
+     configured to secure an electronic device. The electronic device holder
+     comprises an opening at the bottom of the electronic device holder which
+     extends into the vehicle console bin, which is configured to pass a cord
+     of an electronic device through the opening of the electronic device
+     holder into the vehicle console bin for connection with the auxiliary
+     port.
+ 
+
+
+inventors: 
+Lota; Charan Singh (Canton, MI), Rhee; Que-Whang (Ann Arbor, MI) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Toyota Motor Engineering & Manufacturing North America, Inc.  (Erlanger,  KY)   
+
+
+family_ID: 
+40843973
+
+
+application_number: 
+11/971,414
+
+
+filed_date: 
+January 9, 2008
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20090174209 A1
+
+
+prior_pub_data_publication_date: 
+Jul 9, 2009
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3465614, 3465614, September 1969, Reynolds,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4680928, 4680928, July 1987, Nishikawa et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4838126, 4838126, June 1989, Wilfinger et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4876923, 4876923, October 1989, Crandall et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5275069, 5275069, January 1994, Baba et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5310033, 5310033, May 1994, Shibayama,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5466036, 5466036, November 1995, Stroeters et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5743010, 5743010, April 1998, Zaguskin et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5996866, 5996866, December 1999, Susko et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6086129, 6086129, July 2000, Gray,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6203088, 6203088, March 2001, Fernandez,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6354651, 6354651, March 2002, Mori,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6419059, 6419059, July 2002, Nobu et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6419314, 6419314, July 2002, Scheerhorn,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6446305, 6446305, September 2002, Kneeland,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6478204, 6478204, November 2002, Lange,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6499785, 6499785, December 2002, Eguchi,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6616206, 6616206, September 2003, Luginbill,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6666492, 6666492, December 2003, Schmidt et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6702352, 6702352, March 2004, Nakanishi,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6709041, 6709041, March 2004, Hotary et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6719343, 6719343, April 2004, Emerling,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6719344, 6719344, April 2004, Ono,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6726267, 6726267, April 2004, Kim,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6761388, 6761388, July 2004, Lein,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6788528, 6788528, September 2004, Enners et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6796591, 6796591, September 2004, Yanagita,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6851636, 6851636, February 2005, Klopp, III,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6942267, 6942267, September 2005, Sturt,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7066436, 7066436, June 2006, Honda,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7175217, 7175217, February 2007, Lota,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7192070, 7192070, March 2007, Radu,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7269002, 7269002, September 2007, Turner et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7270359, 7270359, September 2007, Sparks et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7341297, 7341297, March 2008, Nakamura,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7413229, 7413229, August 2008, Kukucka et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7469951, 7469951, December 2008, Welschholz et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7566040, 7566040, July 2009, Lota,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20020005424&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2002/0005424, January 2002, Lange,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20020135194&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2002/0135194, September 2002, Schwarz,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20030064748&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2003/0064748, April 2003, Stulberger,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20030155786&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2003/0155786, August 2003, Kim,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20050014536&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2005/0014536, January 2005, Grady,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20050147951&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2005/0147951, July 2005, Rohrbach,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20050211523&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2005/0211523, September 2005, Takahashi,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20050248169&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2005/0248169, November 2005, Clark,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060052144&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0052144, March 2006, Seil et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060058073&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0058073, March 2006, Kim,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060071497&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0071497, April 2006, Radu,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060277555&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0277555, December 2006, Howard et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070090241&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0090241, April 2007, Risse,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070102945&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0102945, May 2007, Mulvihill,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070114974&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0114974, May 2007, Grady,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070170332&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0170332, July 2007, Akerstedt et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070176449&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0176449, August 2007, Kukucka et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070182187&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0182187, August 2007, Lota,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070205622&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0205622, September 2007, Whitens
+
+
+references_primary_examiner: 
+Dayoan; Glenn
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+Westbrook; Sunsurraye
+
+
+other_references_attorney_agent_or_firm: 
+Dinsmore & Shohl LLP
+
+
+patent_claims: 
+What is claimed is:  1.  A vehicle electronic device support system comprising: an electronic device holder disposed anterior to a vehicle console, wherein the electronic device holder comprises:
+a support cavity disposed at a lower portion of the electronic device holder, wherein the support cavity comprises a retractable mechanism having a retracted position and an extended position, wherein the retractable mechanism is configured to deflect
+linearly within the support cavity in a direction away from an electronic device to the retracted position upon insertion of the electronic device, the retractable mechanism being spring biased toward the extended position to engage and secure a bottom
+section at a face of the electronic device at a location inside the support cavity such that the retractable mechanism is located inside the support cavity in both the retracted position and the extended position;  and a moveable door configured to cover
+the support cavity while in a closed position, and further configured to allow insertion of an electronic device into the support cavity while in an open position;  wherein the retractable mechanism is moveable between the retracted and extended
+positions within the support cavity independently of the position of the moveable door, the moveable door moving between the open and closed positions independently of the position of the retractable mechanism.
+ 2.  The vehicle electronic device support system of claim 1 wherein the moveable door comprises a disengagement button configured for adjusting the moveable door from a closed position to a partially open position upon actuation.
+ 3.  The vehicle electronic device support system of claim 2 wherein the moveable door is pivotable from the partially open position to a fully open position.
+ 4.  The vehicle electronic device support system of claim 1 further comprising an electronic cord storage compartment disposed above the retractable mechanism, wherein the cord storage compartment is configured to store an electronic cord while
+the moveable door is in a closed position.
+ 5.  The vehicle electronic device support system of claim 1 wherein the retractable mechanism of the support cavity is operable to accommodate electronic devices of various widths, various heights, and combinations thereof.
+ 6.  The vehicle electronic device support system of claim 1 wherein the retractable mechanism comprises a spring loaded bar.
+ 7.  The vehicle electronic device support system of claim 1 wherein the support cavity comprises a bumper disposed within the support cavity such that the bumper contacts one face of an electronic device, and the retractable mechanism contacts
+an opposite face of the electronic device.
+ 8.  The vehicle electronic device support system of claim 7 wherein the bumper comprises rubber.
+ 9.  The vehicle electronic device support system of claim 1 wherein the moving door is operable to accommodate electronic devices of various heights.
+ 10.  The vehicle electronic device support system of claim 1 wherein the retractable door is spring loaded.
+ 11.  A vehicle electronic device support system comprising;  a vehicle console having a vehicle console bin with a manually accessible auxiliary port disposed within the vehicle console bin;  an electronic device holder disposed anterior to the
+vehicle console and offset along the length of the vehicle from the vehicle console bin, the electronic device holder comprising an opening at the bottom of the electronic device holder which extends into the vehicle console bin, wherein in use, the
+vehicle console bin being sized to allow an operator access to a cord of an electronic device that passes through the opening between the electronic device holder and the vehicle console bin such that the operator manually connects the cord with the
+auxiliary port;  wherein the opening passes through a vertical wall between the vehicle console bin and the electronic device holder.
+ 12.  The vehicle electronic device support system of claim 11 further comprising a moveable upper panel disposed over and configured to cover the vehicle console bin and thereby cover a cord disposed within the vehicle console bin.
+ 13.  The vehicle electronic device support system of claim 12 wherein the upper panel comprises at least one cupholder.
+ 14.  The vehicle electronic device support system of claim 12 wherein the upper panel comprises at least storage compartment.
+ 15.  The vehicle electronic device support system of claim 12 wherein the upper panel is operable to move by swiveling or sliding.
+ 16.  A vehicle electronic device support system comprising: a vehicle console including a vehicle console bin;  an electronic device holder disposed anterior to the vehicle console comprising a support cavity disposed at a lower portion of the
+electronic device holder, wherein the support cavity comprises a retractable mechanism having a retracted position and an extended position, wherein the retractable mechanism is configured to deflect linearly within the support cavity in a direction away
+from an electronic device upon insertion of the electronic device, the retractable mechanism being spring biased toward the extended position to engage and secure a bottom section at a rear face of the electronic device at a location inside the support
+cavity such that the retractable mechanism is located inside the support cavity in both the retracted position and the extended position;  a moveable door that is moveable relative to the retractable mechanism between an open position and a closed
+position such that in the closed position the moveable door is configured to cover the support cavity, and is further configured to allow insertion of an electronic device into the support cavity while in the open position;  and an opening between the
+electronic device holder which extends into the vehicle console bin, wherein the opening is configured to receive a cord of an electronic device from the electronic device holder into the vehicle console bin;  wherein the retractable mechanism is
+moveable between the retracted and extend positions within the support cavity independently of the position of the moveable door, the moveable door moving between the open and closed positions independently of deflection of the retractable mechanism.
+ 17.  The vehicle electronic device support system of claim 16 wherein the retractable mechanism of the support cavity is operable to accommodate electronic devices of various widths, various heights, and combinations thereof.
+ 18.  A vehicle electronic device support system of claim 16 further comprising an auxiliary port disposed within the vehicle console bin, wherein the auxiliary port is operable to be connected to the cord of the electronic device. 
+
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+TECHNICAL FIELD
+ Embodiments of the present invention are generally directed to ergonomic vehicle electronic device support systems configured to maximize the space and aesthetic appeal of the vehicle console.
+BACKGROUND
+ Use of electronic devices, such as cellular phones and handheld electronic music devices (e.g. MP3 players and iPods.RTM.), have become increasingly prevalent in vehicles.  In conjunction with this increased use, integrating these electronic
+devices into automobiles is desirable.  Some vehicles offer iPod holders integrated into the armrest; however, this location forces drivers to twist their torso in order to push buttons on the device or view the display.  Additionally, drivers lose the
+armrest for driving comfort.  Other vehicles use electronic device holders in one of the cupholders; however, this also requires the twisting of the torso when operating the device, and further causes a driver to lose at least one cup position.
+ In addition to the ergonomic and spacing issues, integrating electronic devices into a vehicle may affect the styling and appearance of the vehicle interior.  For example, the cords of these electronic devices may block access to other internal
+components of the vehicle as well as diminish the appearance of the vehicle interior.  Accordingly, there is a need for ergonomic electronic device systems configured to support electronic devices in an ergonomic and aesthetically pleasing location,
+while maximizing the space and utility of the vehicle console.
+SUMMARY
+ In accordance with one embodiment, a vehicle electronic device support system is provided.  The vehicle electronic device support system comprises a vehicle console, and an electronic device holder disposed anterior to the vehicle console.  The
+electronic device holder comprises a support cavity disposed at a lower portion of the electronic device holder, wherein the support cavity comprises a retractable mechanism configured to deflect at least partially horizontally upon insertion of an
+electronic device.  The retractable mechanism is configured to secure a bottom section of the electronic device inside the cavity.  The moveable door is configured to cover the support cavity while in a closed position, and is further configured to allow
+insertion of an electronic device into the support cavity while in an open position.
+ In accordance with another embodiment, a vehicle electronic device support system comprising a vehicle console and an electronic device holder disposed anterior to the vehicle console is provided.  The vehicle console comprises a vehicle console
+bin having an auxiliary port, and the electronic device holder comprises an opening at the bottom of the electronic device holder in communication with the vehicle console bin.  The vehicle electronic device support system is configured to pass a cord of
+an electronic device through the opening of the electronic device holder into the vehicle console bin for connection with the auxiliary port.
+ In accordance with yet another embodiment, the vehicle electronic device support system comprises a vehicle console and an electronic device holder disposed anterior to the vehicle console.  The vehicle console comprises a vehicle console bin
+having an auxiliary port, and the electronic device holder comprises a support cavity disposed at a lower portion of the electronic device holder.  The support cavity comprises a retractable mechanism configured to deflect at least partially horizontally
+upon insertion of an electronic device.  The retractable mechanism being configured to secure a bottom section of the electronic device inside the cavity.  The electronic device holder comprises a moveable door configured to cover the support cavity
+while in a closed position, and is further configured to allow insertion of an electronic device into the support cavity while in an open position.  The electronic device holder also comprises an opening at the bottom of the electronic device holder
+which extends into the vehicle console bin, wherein the vehicle electronic device support system is configured to pass a cord of an electronic device through the opening of the electronic device holder into the vehicle console bin for connection with the
+auxiliary port.
+ These and additional objects and advantages provided by the embodiments of the present invention will be more fully understood in view of the following detailed description, in conjunction with the drawings. BRIEF DESCRIPTION OF THE
+DRAWINGS
+ The following detailed description of specific embodiments of the present invention can be best understood when read in conjunction with the drawings enclosed herewith.  The drawing sheets include:
+ FIG. 1 is a side cross-sectional view of a vehicle electronic device support system comprising an electronic device holder according to one or more embodiments of the present invention;
+ FIG. 2 is a side cross-sectional view of an electronic device holder according to one or more embodiments of the present invention;
+ FIG. 3A is a front view of an electronic device holder in a closed position according to one or more embodiments of the present invention;
+ FIG. 3B is a front view of an electronic device holder in an open position according to one or more embodiments of the present invention;
+ FIG. 3C is a front view of an electronic device holder comprising an electronic device disposed therein according to one or more embodiments of the present invention;
+ FIG. 4A is a front view of the vehicle electronic support system illustrating how a cord of an electronic device is routed from the electronic device holder to the auxiliary port of the vehicle console bin according to one or more embodiments of
+the present invention;
+ FIG. 4B is a front view of the vehicle electronic support system of FIG. 4A with the upper panel disposed over the vehicle console bin and thereby hiding the routed cord according to one or more embodiments of the present invention; and
+ FIG. 5 is a front view of an electronic device holder comprising an electronic cord stored inside the electronic storage compartment according to one or more embodiments of the present invention.
+ The embodiments set forth in the drawings are illustrative in nature and not intended to be limiting of the invention defined by the claims.  Moreover, individual features of the drawings and the invention will be more fully apparent and
+understood in view of the detailed description.
+DETAILED DESCRIPTION
+ Embodiments of the present invention are directed to vehicle electronic device support systems comprising electronic device holders positioned anteriorly to the vehicle console.  As used herein, the "vehicle console" refers to the central panel
+disposed between the driver seat and the passenger seat, which may or may not extend up to the dashboard of the vehicle.  The electronic device holders are configured to support electronic devices in an ergonomic location such as on the dashboard of a
+vehicle, and are further configured to rout a cord of an electronic device internally within the vehicle console, so that the styling, appearance and security of the vehicle console (or the vehicle itself) is not negatively impacted by loose, visible
+cords.
+ Referring to the embodiments of FIGS. 1 and 4A-4B, the vehicle electronic device support system 1 comprises an electronic device holder 20 disposed anterior to the vehicle console 3.  As shown in FIG. 1, electronic device holder 20 may be on the
+dashboard 2, which is anterior to the vehicle console 3.  The electronic device holder 20 is configured to support handheld electronic devices (e.g., cell phones, PDAs, and electronic music devices, for example, MP3 players like Microsoft's Zune.RTM.  or
+Apple's iPod.RTM.).  By placing the electronic device holder 20 inside the dashboard 2, an electronic device 100 is placed in a forward position relative to the vehicle console, so that drivers are not forced to twist their torso in order to push buttons
+on the electronic device 100 to view the display of the electronic device 100.
+ Referring to FIGS. 1 and 2, the electronic device holder 20 comprises a support cavity 24 disposed at a lower portion of the electronic device holder 20.  The support cavity 24 may comprise a retractable mechanism 25 configured to deflect
+horizontally upon insertion of an electronic device 100.  The retractable mechanism 25 may be configured to secure a bottom section of the electronic device 100 inside the support cavity 24.  The retractable mechanism 25 enables the support cavity 24 to
+accommodate electronic devices 100 of various widths.  As shown in FIG. 1, the retractable mechanism 25 may comprise a variety of suitable components, for example, a spring loaded bar or rod 27.  The support cavity 24 may also comprise a bumper 26
+disposed within the support cavity 24.  As shown in FIG. 2, the bumper 26 is disposed diametrically opposite the retractable mechanism 25, so that an electronic device 200 is contacted on one face by the bumper 26, and is contacted on an opposite face by
+the retractable mechanism 25 of the support cavity 24.  Like the retractable mechanism 25, many components are contemplated for use in the bumper assembly 26.  For example, the bumper 26 may be spring biased like the retractable mechanism 25.  In
+addition, the bumper 26 may further comprise components that facilitate rotational movement, lateral movement, up/down motion, or combinations thereof.  Moreover, the bumper 26 may comprise a rubber stop or another surface component, which will limit
+movement of the electronic device 100 by providing surface friction.
+ In operation or use, the insertion of the electronic device 100 into the cavity 24 acts to compress the spring 27, and reciprocally, the spring 27 provides a force on the bottom section of the electronic device 100, thereby securing the
+electronic device inside the cavity 24.  In addition to these forces provided by the spring 27 and the bumper 26, the moveable door 22 also provides a force on the upper section of the electronic device 100 to secure the electronic device 100.  By
+securing the electronic device 100, the retractable mechanism 25 prevents rattling of the electronic device 100 while driving, and also steadies the electronic device 100 during hard accelerations or sharp turns.
+ Referring again to FIG. 2, the electronic device holder 20 may also comprise a moveable door 22 disposed above the support cavity 24.  Referring to FIG. 3A, the moveable door 22 covers the support cavity 24 when in a closed position.  Referring
+to FIGS. 3B and 3C, when the door 22 is opened (e.g., by being flipped upward), the electronic device holder 20 is then operable to receive an electronic device 100.  Referring to the embodiment of FIG. 3A, the moveable door 22 may comprise a
+disengagement button 21.  The disengagement button 21 releases the locking mechanism that secures moveable door in a closed position and allows the moveable door 22 to adjust from a closed position to a partially open position.  From this partially open
+position, the moveable door 22 may be configured to pivot of flip to a full open position.  This two stage opening procedure prevents an electronic cord from being jammed when the moveable door 22 is opened or closed.
+ As shown in FIG. 2, the moveable door 22 is operable to accommodate electronic devices 100 of various heights.  The moveable door 22 may contact an upper portion of the electronic device 100, thereby providing additional support to the
+electronic device 100 inside the electronic device holder 20.  The moveable door 22 may comprise various components, e.g. springs, hinges, etc.
+ Referring to FIGS. 1 and 4A, the vehicle electronic device support system 1 may also comprise a vehicle console bin 30 comprising an auxiliary port 32.  As shown, the electronic device 100 is disposed anterior to the vehicle console bin 30, such
+as on the dashboard 2.  Referring to FIG. 1, the electronic device holder 20 and vehicle console bin 30 are joined by an opening 28 at the bottom of the electronic device holder 20 which extends into the vehicle console bin 30, such a through dash 2. 
+Referring to FIGS. 1 and 4A, the cord 150 of an electronic device 100 (e.g., power cord, auxiliary cord or both) is passed through this opening 28 into the vehicle console bin 30 for connection with the auxiliary port 32.
+ The auxiliary port 32 may comprise a power source for powering the electronic device 100, and/or may comprise a port for integrating the electronic device 100 into the vehicle's electronic components.  For example, inserting the cord 150 into
+the auxiliary port 32 may enable the music stored on the electronic device 100 to be played through the vehicle's sound system.  Alternatively, an auxiliary port 32 may a power source.
+ It should be understood that the electronic device support system contemplated herein includes an apparatus or components (e.g., an opening) for spatial communication between the dash and the vehicle console.  Accordingly, it will be understood
+that the locations where a vehicle dash and console begin and end are not limitations, but rather indicia for locating a forwardly (or anteriorly) placed electronic device holder and a rearwardly (or posteriorly) placed vehicle console so that spatial
+communication between these components exists to secure and/or hide electronic device wires running from the electronic device (e.g., held by the electronic device holder) to one or more power/auxiliary ports (e.g., held by the vehicle console).
+ Referring to FIG. 4B, the vehicle console 3 may also comprise a moveable upper panel 40 disposed over and configured to cover the vehicle console bin 30, as well as the cord 150 extending within the vehicle console bin 30.  When the moveable
+upper panel 40 is covering the vehicle console bin 30, the upper panel 40 may be secured through a latching mechanism 44 as shown in the embodiment of FIG. 4B.  The latching mechanism 44 may be located at the interface of the vehicle console 2 and the
+dashboard 3.  When the upper panel 40 is removed or simply moved as shown in FIG. 4A, the vehicle console bin 30, and any items stored therein, may be accessed.  Many types of motion for the upper panel 40 are contemplated herein, for example, sliding or
+swiveling.  In further embodiments, the upper panel 40 may comprise at least one cupholder 42, at least one storage compartment 46, or combinations thereof.  As shown in FIG. 2B, the electronic device 100 may be used without losing use of the cupholder
+42 or storage compartments 46.
+ Accordingly, the driver of a vehicle having the electronic device support system described herein can retract the electronic device within the electronic device holder and close the panel to the vehicle storage bib to effectively conceal the
+existence of the electronic device (e.g., the electronic device and the wires are not in plain view through a vehicle window).
+ Referring to a further embodiment as shown in FIG. 5, the vehicle electronic support system 1 comprises an electronic cord storage compartment 29 disposed above the retractable mechanism 25.  The cord storage compartment 29 is configured to
+store an electronic cord 150.  This is especially helpful when the driver removes an electronic device 100, but not the cord 150 from the vehicle electronic device support system 1.  Instead of storing the cord 150 inside the vehicle console bin 30 to
+ensure the cord 150 is hidden, the cord 150 may be stored inside the storage compartment 29, which provides sufficient space so that the moveable door 22 may be closed, thereby hiding the cord 150.
+ Having described the invention in detail and by reference to specific embodiments thereof, it will be apparent that modifications and variations are possible without departing from the scope of the invention defined in the appended claims.  More
+specifically, although some aspects of the present invention are identified herein as preferred or particularly advantageous, it is contemplated that the present invention is not necessarily limited to these preferred aspects of the invention.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

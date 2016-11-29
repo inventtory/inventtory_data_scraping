@@ -1,0 +1,363 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4073&p=82&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8162382B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8162382B2
+
+
+patent_name: 
+Tractor cabin comprising at least one fairing with an air deflector and     air deflector for a tractor cabin
+
+
+patent_publish_date: 
+April 24, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ A tractor cabin includes a frame with an upper cabin portion, a front
+     cabin portion, a rear cabin portion and side cabin portions and at least
+     one fairing connected to the frame. The at least one fairing includes at
+     least one air deflector. The deflector is adjustable in its tilt angle
+     with respect to the frame. The deflector includes a deflector body with a
+     variable deflection along a longitudinal elongation of the deflector
+     body. An air deflector is also provided.
+ 
+
+
+inventors: 
+Hjelm; Linus (Goteborg, SE), Bergqvist; Bjorn (Askim, SE) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Volvo Lastvagnar AB  (Goteborg,  SE)   
+
+
+family_ID: 
+40002437
+
+
+application_number: 
+12/597,752
+
+
+filed_date: 
+May 14, 2007
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20100060029 A1
+
+
+prior_pub_data_publication_date: 
+Mar 11, 2010
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3596974, 3596974, August 1971, Adams,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3929369, 3929369, December 1975, Blair,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3934923, 3934923, January 1976, Lissaman et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3947065, 3947065, March 1976, Geiger,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3951445, 3951445, April 1976, Tatom,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3971586, 3971586, July 1976, Saunders,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4036519, 4036519, July 1977, Servais et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4047747, 4047747, September 1977, Beers,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4056279, 4056279, November 1977, Dorsch,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4082341, 4082341, April 1978, Gore,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4084846, 4084846, April 1978, Wiley et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4087124, 4087124, May 1978, Wiley, Jr.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4102548, 4102548, July 1978, Kangas,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4156543, 4156543, May 1979, Taylor et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4245862, 4245862, January 1981, Buckley, Jr.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4290639, 4290639, September 1981, Herpel,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4375898, 4375898, March 1983, Stephens,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4458937, 4458937, July 1984, Beckmann et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4462628, 4462628, July 1984, Gregg,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4470628, 4470628, September 1984, Husted,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4509786, 4509786, April 1985, Gregg,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4607874, 4607874, August 1986, Peairs,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4611796, 4611796, September 1986, Orr,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4685715, 4685715, August 1987, Hardin,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4779915, 4779915, October 1988, Straight,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4904015, 4904015, February 1990, Haines,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5092648, 5092648, March 1992, Spears,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5429411, 5429411, July 1995, Spears,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5522637, 5522637, June 1996, Spears,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5536062, 5536062, July 1996, Spears,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5538316, 5538316, July 1996, Bartholomew,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5595419, 5595419, January 1997, Spears,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5653493, 5653493, August 1997, Spears,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5685597, 5685597, November 1997, Reid,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6139090, 6139090, October 2000, Stidd,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6183041, 6183041, February 2001, Wilson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6428084, 6428084, August 2002, Liss,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6527334, 6527334, March 2003, Oliver,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6641196, 6641196, November 2003, Hanagan,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6846035, 6846035, January 2005, Wong et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6886882, 6886882, May 2005, Farlow et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7118164, 7118164, October 2006, Frank et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7121614, 7121614, October 2006, Kawai,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7226119, 7226119, June 2007, Weaver,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7374229, 7374229, May 2008, Noll et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7712822, 7712822, May 2010, Pfaff,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7862067, 7862067, January 2011, Alguera,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7876202, 7876202, January 2011, Liljeblad et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20030230677&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2003/0230677, December 2003, Milliere,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070257513&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0257513, November 2007, Schwartz,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090184539&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0184539, July 2009, Pursley,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20100201152&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2010/0201152, August 2010, Smith,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20110115254&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2011/0115254, May 2011, Skopic
+
+
+references_primary_examiner: 
+Patel; Kiran B
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+
+
+
+other_references_attorney_agent_or_firm: 
+WRB-IP LLP
+
+
+patent_claims: 
+The invention claimed is:  1.  Tractor cabin comprising a frame with an upper cabin portion, a front cabin portion, a rear cabin portion and side cabin portions and at least one fairing connected
+to the frame, wherein the at least one fairing comprises at least one air deflector, wherein the deflector is adjustable with respect to a tilt angle of the deflector relative to the frame, wherein the deflector comprises a deflector body adapted to vary
+in deflection along a length of the deflector body.
+ 2.  The tractor cabin according to claim 1, wherein at least a portion of the deflector body is formed of a flexible material.
+ 3.  The tractor cabin according to claim 1, wherein the deflector comprises at least one portion formed integrally of one piece with the deflection of the portion being adapted to vary along the length of the deflector.
+ 4.  The tractor cabin according to claim 1, wherein actuator means are provided for varying the tilt angle and/or the curvature of the deflector with respect to the frame.
+ 5.  The tractor cabin according to claim 4, wherein the tilt angle of the deflector is selectively switchable between a minimum and a maximum angle at different portions of the deflector body.
+ 6.  The tractor cabin according to claim 4, wherein the curvature of the deflector is adapted to vary.
+ 7.  The tractor cabin according to claim 1, wherein the deflector is a side air deflector which is connected to a deflector hood on the upper cabin portion.
+ 8.  The tractor cabin according to claim 7, wherein the deflector comprises at least one portion formed integrally of one piece with the deflection of the portion being adapted to vary along the length of the deflector and the deflector portion
+formed integrally of one piece spans a major portion of a vertical edge of the frame.
+ 9.  The tractor cabin according to claim 1, wherein the deflector includes a deflector hood on the upper cabin portion and a rigid deflector portion is arranged between the deflector hood and the deflector body.
+ 10.  The tractor cabin according to claim 1, wherein the length of the deflector body extends between a first end and a second end of the deflector body, and at least one of the first end and the second end is fixed to a rigid structure. 
+
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+BACKGROUND AND SUMMARY
+ The invention relates to a tractor cabin comprising at least one fairing with an air deflector and an air deflector for a tractor cabin.
+ It is known in the art to provide fairings for tractor cabins of tractor trailer combinations in order to improve the aerodynamic properties and thus reduce fuel consumption of tractor trailer combinations.  Usually, a deflector hood is
+installed on an upper portion of the tractor cabin and side air deflectors are provided for improving the wind flow around the tractor and a trailer connected to the tractor.
+ U.S.  Pat.  No. 5,536,062 A1 discloses fairings for a tractor trailer combination wherein segmented panels form an air deflector comprising opposing segmented side pivotal panels, opposing segmented upper side pivotal panels and opposing
+segmented lower side pivotal panels.  The use of wing members either fixed or variably mounted on or about the various panels allows conditioning the wind flow.
+ It is desirable to provide a tractor cabin, particularly for a tractor trailer combination, with improved aerodynamic behaviour.  It is desirable to provide an air deflector for a tractor cabin with improved aerodynamic behaviour.
+ A tractor cabin according to an aspect of the invention comprises a frame with an upper cabin portion, a front cabin portion, a rear cabin portion and side cabin portions and at least one fairing connected to the frame, wherein the at least one
+fairing comprises at least one air deflector, wherein the deflector is adjustable in its tilt angle with respect to the frame.  The deflector comprises a deflector body with a variable deflection along a longitudinal elongation of the deflector body. 
+This allows having locally different deflection along the longitudinal elongation of the deflector and adjusting the deflection as a function of operation parameters of the tractor cabin, for example, there are different legal limits for the width of the
+tractor cabin in various countries.  The invention allows, according to aspects thereof, for adjustment of the span width of side air deflectors of a fairing on the fly according to an actual legal limit when the tractor trailer combination travels from
+one country to another country.  Preferably, the longitudinal elongation of the deflector is parallel to an edge of the cabin frame to which the deflector is coupled, e.g. the longitudinal elongation (or length) of a side air deflector is parallel to a
+vertical edge of the cabin frame, whereas the longitudinal elongation of a deflector on the upper cabin portion is parallel to a horizontal edge of the cabin frame.  The transversal elongation represents the width of the deflector.
+ Preferably, at least a portion of the deflector body can be formed of a torsional flexible material.  Preferably, the side air deflector as a whole is made of such a torsional flexible material.  By coupling appropriate actuators to the
+deflector at convenient locations, the deflection of the deflector can be varied in fine and/or coarse increments along the longitudinal deflector elongation.
+ The deflector can comprise at least one portion formed integrally of one piece with the deflection of the portion being variable along the longitudinal elongation of the deflector.  In a convenient embodiment, the complete bodies of the side air
+deflectors are integrally formed of one piece each.
+ Actuator means can conveniently be provided for varying the tilt angle and/or the curvature of the deflector with respect to the frame.  The deflector can be tilted outwards with respect to the cabin frame to provide a wider span width or it can
+be tilted inwards depending on operation parameters of the vehicle, e.g. on a vehicle speed, a wind speed or a legal limit of the allowable span width of the tractor and the side air deflector connected to the cabin, respectively, and the like.
+ Preferably, the tilt angle of the deflector is selectively switchable between a minimum and a maximum angle at different portions of the deflector body.  By changing the tilt angle, the deflector span width, e.g. of the side air deflector, can
+be increased or decreased without varying the curvature of the deflector and, vice versa, by changing the curvature, the deflector span width can be increased or decreased without changing the tilt angle.  This can be done differentially along the
+longitudinal elongation of the deflector.  However, both parameters can also be varied simultaneously as well.  The deflector can also be an air deflector on the upper cabin portion.  A skilled person will choose a variation appropriate to the actual
+situation and/or result which shall be achieved by varying the deflector.
+ The curvature of the deflector can be variable, particularly continuously variable.  This can be generated by an appropriate distribution of actuators on or in the deflector body.
+ Preferably, the deflector can be a side air deflector which is connected to a deflector hood on the upper cabin portion.  Alternatively or additionally, the deflector can also be an air deflector on the upper cabin portion.
+ As side air deflector, the deflector portion formed integrally of one piece can favourably span a major portion of a vertical edge of the frame.  A rigid deflector portion can be arranged between the deflector hood and the deflector with
+variable deflection.  The rigid portion can be an integral part of the otherwise torsional flexible deflector body.  By this embodiment it can avoided to hinge a separate side air deflector to the rigid part above it, thus avoiding a detrimental effect
+on the wind flow such as aerodynamic drag.  A mismatch in the joint area between the adjustable portion and the upper fixed portion can be obviated.
+ According to another aspect of the invention, an air deflector is suggested, particularly for a tractor cabin, with a longitudinal elongation and a transversal elongation, comprising a deflector body with a variable deflection along the
+longitudinal elongation of the deflector body.  Thus, a span width of a deflector can easily be adjusted to a desired value.
+ Preferably, at least a portion of the deflector body is formed of a torsional flexible material.  Thus it is possible to provide a deflector causing no or only minor aerodynamical drag due to a mismatch between deflector portions of different
+deflection and/or orientation.
+ Favourably, at least one portion can be formed integrally of one piece with the deflection of the portion being variable along the longitudinal elongation of the deflector.
+ According to an advantageous embodiment, actuator means can be provided for varying a tilt angle and/or a curvature of the deflector body.  The actuator means can be at least any one of the group of e.g. pneumatic actuators distributed on or in
+the deflector body comprising inflatable cavities and/or ducts which cause the deflector body to bend when activated and to relax when deactivated (or vice versa); and/or hydraulic or pneumatic drives attached to the deflector body causing the body to
+tilt with respect to the cabin frame; and/or electric nanoactuators such as nanostructures, e.g. nanotubes, made of Buckminster fullerene materials which can be activated by application of an electrical voltage and which can extend or contract and bend
+or tilt the deflector body; and/or piezoelectric actuators, and/or elastomer material which can be reversibly deformed; and/or shape memory materials, which can change shape, dimension and/or stiffness by experiencing an activation signal; and/or a
+elastically deformable plate material with an hydraulic adjusting mechanism for bending or unbending the material; and the like.
+ Preferentially, the tilt angle of the deflector can be selectively switchable between a minimum and a maximum angle at different portions of the deflector body.  Thus, the span widths of side air deflectors can be switched between desired
+values.  It is possible to provide different tilt angles along the longitudinal elongation of the deflector.
+ Additionally or alternatively, the curvature of the deflector can be variable, particularly continuously variable, along the longitudinal elongation.
+ It is understood that while the invention is described mounted on a tractor having a trailer pivotally and detachably mounted thereto that the invention can be applicable to other types of trucks such as van type trucks, having the trailer
+section rigidly and permanently attached to the tractor section. BRIEF DESCRIPTION OF THE DRAWINGS
+ The present invention together with the above-mentioned and other objects and advantages may best be understood from the following detailed description of the embodiment, but not restricted to the embodiment, wherein is shown schematically:
+ FIG. 1 a side view of a preferred tractor trailer combination with a preferred side air deflector according to the invention; and;
+ FIG. 2 a top view of the tractor trailer combination of FIG. 1.
+ In the drawings, equal or similar elements are referred to by equal reference numerals.
+DETAILED DESCRIPTION
+ FIG. 1 depicts a side view of a preferred tractor 10 with a tractor cabin 12 comprising a frame 20 with an upper cabin portion 24, a front cabin portion 22, a rear cabin portion 26 and side cabin portions 28 and at least one fairing 100
+connected to the frame 20.
+ The fairing 100 comprises an air deflector 110 mounted on the upper cabin portion 24 and a side air deflectors 130 with an opposing side air deflector (not shown), wherein the deflector 130 is adjustable in its tilt angle with respect to the
+frame 20.  The side air deflector 130 at its upper end is connected to a fixed, rigid deflector portion 120.
+ The deflector 130 comprises a deflector body 132 with a variable deflection along a longitudinal elongation 160 of the deflector body 132, which is made of a torsional flexible material with a torsional flexibility intentionally built into the
+material.
+ The longitudinal elongation 160 is parallel to a vertical edge 30 at the rear cabin portion 26 of the cabin frame 20 with a transversal elongation 170 directing parallel to a vehicle axis.  The deflector 130 guides an air stream impinging on the
+front cabin portion 22 away from a gap 40 between the tractor 10 and a trailer 50 attached to the tractor 10.  Typically, the tractor cabin 12 has a smaller span width near the upper cabin portion 24 than in lower areas of the frame 20.  With the side
+air deflector 130 attached, a horizontal line 140 indicates a first local span width of the deflector 130 and a horizontal line 150 indicates a second local span width of the deflector 130.
+ The deflector 130 is formed of a portion 134 formed integrally of one piece with the deflection of the portion 134 being variable along the longitudinal deflector elongation 160, wherein the fixed deflector portion 120 is integrated in the
+portion 134.
+ Actuator means 200 (shown schematically in FIG. 2) are provided for varying the tilt angle and/or the curvature of the deflector 130 with respect to the frame 20.
+ As can be seen in the top view of the tractor trailer combination in FIG. 2 with reference to FIG. 1, the span width of the deflector 130 at the horizontal line 140 is smaller than at the horizontal line 150.  A forward driving direction is
+indicated by an arrow 60.  The trailer 50 is broader than the cabin 12 which is smaller than a width limit 16 for trailer cabins 12.  The width limit 16 can be a legal limit for the cabin width for several countries and be less than a legal limit for the
+cabin width for other countries.
+ A side air deflector 130 overlaps with a major fraction of a gap 40 between a rear cabin portion 26 of the tractor cabin 12 and the trailer 50 and prevents an air stream to enter the gap 40.
+ At the upper line 140, the contour of the deflector portion 130a is within the width limit 16, whereas the solid line at the lower horizontal line 150 indicates that a part of the contour of the deflector portion 130b is outside the width limit
+16.  This situation is exemplary if the tractor trailer combination drives in a country with a bigger cabin width limit than width limit 16.  As can be seen, the curvatures of the deflector portions 130a and 130b can be different.  The curvature can be
+adjusted by actuator means (not shown) or by using a flexible material which self adjusts the curvature depending on the air stream experienced by the air deflector 130.
+ The deflector portion 130a includes a small tilt .alpha.  angle between a line principally perpendicular to the rear portion 26 of the tractor cabin 12, and the deflector portion 130b includes a small tilt angle .beta.  between a line
+principally perpendicular to the rear part of the tractor cabin 12 and the foot of the deflector portion 130a starting from its interface with the frame 20.  If the tractor trailer combination drives in a country with a legal cabin width limit equal to
+width limit 16, the deflector portion 130b can be pulled back by reducing the tilt angle .beta.  and/or the curvature of the deflector portion 130b, as indicated by the dashed line 130c.  In this case, the deflector portion 130c starts parallel to the
+perpendicular lines mentioned above with no tilt angle included.
+ The invention has been described for side air deflectors 130.  However, it is understood, that the same principle can be applied to the deflector hood.  Additionally, the shape of the deflector 130 can be changed not only with respect to legal
+width limits but also to a desired air deflection, which may depend on a vehicle speed, a specific trailer type attached to the tractor and the like.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

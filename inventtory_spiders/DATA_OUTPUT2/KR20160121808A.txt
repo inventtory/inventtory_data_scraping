@@ -1,0 +1,90 @@
+document_url: 
+https://worldwide.espacenet.com/data/publicationDetails/biblio?DB=EPODOC&II=8&ND=3&adjacent=true&locale=en_EP&FT=D&date=20161021&CC=KR&NR=20160121808A&KC=A
+
+
+key_identifier: 
+KR20160121808A
+
+
+patent_country: 
+South Korea
+
+
+patent_country_code: 
+KR
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+KR20160121808A
+
+
+patent_name: 
+Taxi service using mobile communications terminals
+
+
+page_bookmark: 
+KR20160121808 (A)
+                     -Taxi service using mobile communications terminals
+
+
+inventors: 
+
+
+
+applicants: 
+
+
+
+classification_international: 
+G06Q50/30,H04W4/00,H04W4/02,H04W88/02
+
+
+classification_cooperative: 
+
+
+
+application_number: 
+KR20150051474 20150413
+
+
+priority_numbers: 
+KR20150051474 20150413,KR20150051474 20150413
+
+
+abstract: 
+본 발명은 이동 통신 단말기를 이용한 택시 서비스에 관한 것이다.
+
+
+patent_description: 
+이동 통신 단말기를 이용한 택시 서비스{Taxi service using mobile communications terminals} ,    본 발명은 이동 통신 단말기를 이용한 택시 서비스에 관한 것이다. ,    택시 이용자가 자신의 이동 통신 단말기로 택시 애플리케이션에 가입한다. ,    택시 가사도 자신의 이동 통신 단말기로 택시 애플리케이션에 가입한다. ,    택시 이용자가 자신의 목적지를 입력한다. ,    택시 기사에게 자신의 택시가 위치한 곳의 사전 결정된 범위 내에서 호출한 택시 이용자들의 택시 목적지를 실시간으로 음성으로 알려준다.,    택시 기사는 이 음성 신호에 응답하되, 자신의 음성 또는 해당 호출자를 클릭한다. 음성으로 할 때에 해당 목적지를 소리 내면 해당 목적지의 이용자에게 자신의 연락처 및 위치가 전송된다.
+
+
+original_claims: 
+
+
+
+claims_tree: 
+
+
+
+cited_documents: 
+
+
+
+citing_documents: 
+
+
+
+INPADOC_legal_status: 
+
+
+
+INPADOC_patent_family: 
+Patent 1: Taxi service using mobile communications terminals Inventor: , Inventor:, , Applicant: , Applicant:, , CPC:  IPC: G06Q50/30, H04W4/00, H04W4/02, (+1) Publication info: KR20160121808 (A), 2016-10-21, Global Dossier Priority date: 2015-04-13
+
+
+

@@ -1,0 +1,361 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4074&p=82&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8162381B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8162381B2
+
+
+patent_name: 
+Inflatable drag reduction device for vehicles
+
+
+patent_publish_date: 
+April 24, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ Inflatable drag reduction device (20, 22) for vehicles, comprising an
+     inflatable bag of a durable, flexible and generally air-tight material,
+     arranged for attachment to the vehicle. The bag comprises of a plurality
+     of conjoined panels and an air duct arranged for allowing the inflow of
+     air into the interior of the bag when the vehicle is in motion. The bag
+     further comprises internal ribs of a generally non-elastic material
+     attached to the internal surfaces of the panels, that assist the bag in
+     assuming a predetermined geometrical shape in which the panels are
+     prevented from billowing outward.
+ 
+
+
+inventors: 
+Tertnes; Roald (Mjolkeraen, NO) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Tecama Holding AS  (Mjolkeraen,  NO)   
+
+
+family_ID: 
+40934023
+
+
+application_number: 
+12/992,267
+
+
+filed_date: 
+May 15, 2009
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+Issue Date,  , 61053227, May 15, 2008
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20110101730 A1
+
+
+prior_pub_data_publication_date: 
+May 5, 2011
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2737411, 2737411, March 1956, Potter,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4601508, 4601508, July 1986, Kerian,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4702509, 4702509, October 1987, Elliott, Sr.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4741569, 4741569, May 1988, Sutphen,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4978162, 4978162, December 1990, Labbe,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5058945, 5058945, October 1991, Elliott et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5236347, 5236347, August 1993, Andrus,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5375903, 5375903, December 1994, Lechner,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6409252, 6409252, June 2002, Andrus,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6467833, 6467833, October 2002, Travers,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6742616, 6742616, June 2004, Leban,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6789839, 6789839, September 2004, Samuelson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7147270, 7147270, December 2006, Andrus et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7243980, 7243980, July 2007, Vala,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7374230, 7374230, May 2008, Breidenbach,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7866734, 7866734, January 2011, Mracek,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060273625&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0273625, December 2006, Andrus
+
+
+references_primary_examiner: 
+Dayoan; Glenn
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+Blankenship; Gregory
+
+
+other_references_attorney_agent_or_firm: 
+Abel; Christian D.
+
+
+patent_claims: 
+The invention claimed is:  1.  An inflatable drag reduction device for vehicles, comprising an inflatable bag of a durable, flexible non-elastic and generally air-tight material, arranged for
+attachment to the vehicle, said bag comprising a plurality of conjoined panels, the bag further comprising an air duct arranged for allowing the inflow of air into the interior of the bag when the vehicle is in motion, the bag further comprising internal
+planar ribs of a generally non-elastic material, each such rib having two ends, a planar surface and an outer and inner edge, wherein said outer edge of each rib is attached to the internal surface of a panel and wherein each end is attached to an end of
+an adjacent rib , the ribs being arranged such that the surface of the ribs are aligned transversely to the vertical axis of the bag when in an inflated state, and further wherein the shape and dimensions of the ribs are chosen so as to cause the device,
+when in an inflated state, to assume a predetermined geometrical shape in the plane perpendicular to the vertical axis of the bag when in the inflated state, said shape in the perpendicular plane corresponding to the shape of the cojoined ribs, whereby
+the panels are prevented from outward billowing by the ribs and to thus be maintained in an essentially planar orientation.
+ 2.  An inflatable drag reduction device according to claim 1, further comprising attachment arrangement adapted for removable engagement with receiving members attached to the vehicle.
+ 3.  An inflatable drag reduction device according claim 2, further comprising a weighted body arranged in the interior of the device and connected by a line or cord to one or more of the panels via a pulley, said weight and cord arranged such
+that, when the device is inflated by the pressure of air entering through the duct, the cord will pull the weighted body into a raised position, and further such that, when the internal air pressure is reduced the weighted body will fall to a lower
+position whereby the cord pulls the inflatable device into a compact, collapsed configuration.
+ 4.  An inflatable drag reduction device according to claim 3, wherein the device is adapted for attachment to the rear of the vehicle, and the predetermined geometrical shape of the device in the inflated state has a triangular cross section.
+ 5.  An inflatable drag reduction device according to claim 3, wherein the device is adapted for attachment between two sections of a multi-section vehicle, and the predetermined geometrical shape of the device in the inflated state has a
+rectangular cross section.
+ 6.  An inflatable drag reduction device according to claim 3, wherein the cojoined ribs form an internal opening collectively forming a vertical channel, and further wherein the cord attached to the weighted body passes through the channel and
+is attached at a lower panel of the device.
+ 7.  An inflatable drag reduction device according to claim 2, wherein the receiving member attached to the vehicle comprise attachment rings located at the upper rear corners of the vehicle, and wherein the attachment arrangement comprises hooks
+through which pass cords, at least one end of said cords being attached to the upper corners of a rear panel of the device, whereby the hooks can be attached to the rings, and the cord pulled through the hooks so as to hoist the device into place.
+ 8.  An inflatable drag reduction device according to claim 7, wherein the attachment rings are connected to a cincture strap, adapted for removable mounting around the rear of the vehicle or a section of the vehicle.
+ 9.  An inflatable drag reduction device according to claim 3, wherein the weighted body is movable arranged in a vertical sleeve in the interior of the device.
+ 10.  An inflatable drag reduction device according to claim 1, wherein the duct is arranged at the side of the vehicle.
+ 11.  An inflatable drag reduction device according to claim 10, wherein the duct is arranged at the top of the vehicle.
+ 12.  An inflatable drag reduction device according to claim 1 further comprising a tensioning cord arranged in the interior of the device, between a bottom panel and a top panel of the device, the length of the cord selected to as to prevent the
+outward billowing of the top and bottom panels, and to thus gold said panels in an essentially planar orientation.
+ 13.  An inflatable drag reduction device according to claim 1, wherein the ribs and the co-joined panels are both made of the same flexible, non-elastic material.  
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+BACKGROUND OF THE
+INVENTION
+ 1.  Field of the invention
+ The present invention relates to inflatable devices for reducing air drag on moving vehicles.
+ 2.  Prior art
+ It is well known that a moving vehicle, and in particular a moving tractor trailer having a rectangular shape, will create an area of low pressure at the rear of the vehicle causing a significant amount of drag.  The opening between sections of
+a tandem trailer will also experience turbulence and/or drag forces.  Among other things, the drag forces cause increased fuel consumption.
+ A number of prior art devices have been proposed that attempt to improve the aerodynamic shape of a vehicle, in particular a tractor trailer, by providing an inflatable attachment at the rear of such a vehicle, or between sections of a tandem
+vehicle.  Examples of such prior art devices include U.S.  Pat.  Nos.  6,409,252; 5,236,347; 4,978,162; 4,741,569; 4,688, 841; and CA2,470,291.
+ While all of these references are based upon the principle of creating a more streamlined shape for a moving vehicles, the inflatable devices disclosed therein do not assume an optimal and stable shape at highway speeds, and are cumbersome and
+difficult to install. BRIEF DESCRIPTION OF THE DRAWINGS
+ FIG. 1 is a perspective view of a first embodiment of the device attached to the rear of a tractor trailer, and a second embodiment of the device attached between sections of a tandem trailer.
+ FIG. 2 is a perspective view of the attachment arrangement for the first embodiment.
+ FIG. 3 and FIG. 4 are sectional side views showing the internal arrangement of various components of the first embodiment.
+ FIG. 5 is a transparent perspective view showing internal structure of the first embodiment.
+ FIG. 6 is a transparent perspective view showing internal structure of the first embodiment as well as an embodiment of an air intake duct.
+ FIG. 7 and FIG. 8 are perspective views of components of the attachment arrangement for the first and, second embodiments.
+ FIG. 9 is a perspective view of a first embodiment of the device attached to the rear of a tractor trailer.
+ FIG. 10 is an illustration of the lines of pulling forces experienced by the first and second embodiments caused by the expansion of the device when a vehicle is moving at highway speeds.
+ FIG. 11 is a side elevational view of the first embodiment partially expanded.
+ FIG. 12 is a perspective view of an alternative embodiment of an attachment ring
+ FIGS. 13 and 14 are perspective views of an alternative arrangement for an air intake duct.
+DETAILED DESCRIPTION
+ FIG. 1 shows a device 20 according to one aspect of the invention for attachment to the rear of a transport trailer, and a device 22 according to another aspect of the invention for attachment between sections of a tandem trailer.  The device
+according to the invention is inflatable, and is therefore constructed of a durable, flexible and generally airtight material.
+ According to one aspect of the invention, devices 20 and 22 are modular, meaning that they may be easily attached to existing trailers without the need for modifications to the trailer itself.  FIG. 2 shows one embodiment of a removable
+attachment arrangement for the device according to the invention, in this instance showing an attachment arrangement for device 20.  For ease of illustration FIG. 2 shows the device in the geometric shape that it will assume when inflated by moving air,
+but it should be understood that the device would actually be collapsed in an uninflated state.
+ As seen in FIG. 2, the removable attachment arrangement comprises a cincture strap 24 secured around the outside perimeter of the trailer.  Attachment rings 26 are connected to the cincture strap 24 and arranged at the upper corners of the
+trailer, as shown in more detail in FIG. 7.  While the preferred embodiment contemplates a removable attachment arrangement, according to another aspect of the invention an attachment ring member 27, as shown in FIG. 12, can be permanently affixed to the
+upper corners of the back of the vehicle.  In some cases the container may have openings in the corners of the appropriate size, in which case those openings may be employed instead of an attachment ring.
+ Each attachment ring 26 is adapted to receive the lip of a removable hook member 28.  As shown in FIG. 8, hook members 28 comprise a clasp 30 and a collar 32.  Collar 32 is adapted for receiving one end of a mounting pole 34 as shown in FIG. 2,
+which is used to lift the hook member 28 up and into engagement with attachment rings 26.  According to one aspect of the invention, collar 32 and the corresponding end of pole 34 are rectangular to permit rotational manipulation of the pole, however any
+appropriate shape could be employed.
+ As shown in FIG. 2, an attachment strap 36 is attached to each of the upper corners of the back side of device 20 or 22 at attachment points 38.  Each strap 36 passes through clasp 30 of its corresponding hook 28, and thereafter through one of
+two slits 40 integrated into the lower corners of the back side of the device.  Straps 36 further comprise an adjustable attachment loop 42 at their lower ends.
+ The device according to the invention is easily mounted to any existing trailer by first securing cincture strap 24 near the rear of the trailer.  Pole 34 is inserted into collars 32 of hook members 28 and used to lift them into engagement with
+rings 26.  The user secures adjustable loop 42 to a convenient structure near the bottom of the trailer, such as a bumper or the like, and pulls on the free end of strap 36 until the upper corners of the device are raised into position.  Loop 42 is
+thereupon tightened and secured.  The mounted device will, in an uninflated, collapsed state, have a shape similar to that illustrated in FIG. 4.  For the device according to a second embodiment 22 for use between trailer sections of a tandem trailer,
+only one side of the device will be mounted to the back end of one trailer section, with the other side free as shown in FIG. 1.
+ As seen in FIG. 1, the first embodiment of the invention assumes a triangular cross section when inflated.  FIGS. 3, 4, 5 and 6 show the internal structure of the first embodiment, one function of which is to maintain the stability and shape of
+the triangular cross section when subjected to strong airflows at highway speeds.  While the following description relates to the triangular cross section of the first embodiment, it will be appreciated by one skilled in the art that corresponding
+structures can be employed for the rectangular cross section of the second embodiment.
+ As seen in FIG. 5, the device comprises a plurality of internal rib members 44.  Rib members 44 are preferably made of a nonelastic material and according to one aspect of the invention of the same material as the outer panels of the device. 
+The rib members are in the form of three strips sewn together at adjacent ends, and sewn into the material along their outer edges to the inside surface of the side panels of the device.  A vertical triangular channel will thus be formed in the interior
+of the device.  The ribs serve to impart rigidity to the device, allowing it to maintain the triangular cross section when subjected to the forces depicted in FIG. 10.  A tension cord 46 is attached to the top panel and bottom panel of the device.  When
+inflated, the ribs prevent the device from billowing outward from the sides, and tension cord 46 prevents the device from billowing out at the top and bottom.
+ The device further comprises means for automatically assuming the compact, collapsed configuration shown in FIG. 4 when the vehicle slows below a predetermined speed.  The device therefore further comprises a vertical, internal sleeve member 48
+affixed to the inside surface of the back side of the device.  According to one aspect of the invention, the sleeve is preferably sewn from the same material as the device.  A weight member 50 is arranged in the sleeve, and connected by a cord 52, via a
+pulley 54, to a fan-shaped plurality of cords 56 attached to the bottom panel of the device, shown in FIG. 6.  Pulley 54 is suspended from a strap 55.  When the vehicle is in motion, air pressure from air entering in through an air duct 58 will cause an
+increase in the air pressure inside the device, tending to causing it to expand.  Air duct 58 is preferable located slightly to the side of the vehicle as shown in FIG. 9, and is secured to the vehicle a strap 59.  When the vehicle reaches a
+predetermined speed, the inside air pressure will exceed the weight of member 50, which will be raised inside sleeve 48, as depicted in FIG. 3.  When the vehicle slows below a predetermined speed, the weight of member 50 will exceed the pressure acting
+on the inside of the device, and fall inside sleeve 48, drawing the device closed by pulling on cords 56, whereby the device will assume a collapsed shape as shown in FIG. 4.
+ The length of cord 52 may be chosen so as to determine the degree of tapering of the top and bottoms panels of the device.  The illustrations shown in the figures show a preferred embodiment having a degree of taper of zero degrees, wherein the
+side panels of the device are essentially rectangular.  In such case the length of cord 52 will be essentially equal to the height of the trailer section.  By choosing a shorter length for cord 52 (and making corresponding adjustments to the geometric
+shape of the side panels), a greater degree of taper can be selected.  According to one aspect of the invention, the degree of taper is 17 degrees or less.
+ An alternative arrangement for an air intake duct 58, on the top of the bag, is shown in FIGS. 13 and 14.  The upper edge of the inflatable device is illustrated in FIGS. 13 and 14 by reference number 65.  Reference number 66 shows a portion of
+the duct arranged inside the inflatable device.  The duct further comprise an opening 62, an strap lock 63 attached to duct 58 where strap 69 goes into and around duct 58.  Strap 69 is attached in the bag in a zone 67 and has an overlapping joint
+attached with a ring 64.  The exposed portion of duct 58 can be regulated by opening the strap lock 63 and retracting/pushing in the duct to the desired position, in order to arrive at an optimal position in relation to the vehicle.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

@@ -1,0 +1,384 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27719&p=555&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US3934922B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US3934922B2
+
+
+patent_name: 
+ Aerodynamic drag reduction devices for surface vehicles
+
+
+patent_publish_date: 
+January 27, 1976
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+Apparatus combined with or combinable with a vehicle body having a
+     longitudinally elongated corner from which body surfaces extend at an
+     angle, one of the surfaces presented forwardly toward oncoming air flow,
+     and the other surface extending generally rearwardly away from that
+     corner, the apparatus comprising
+A. means for preventing, reducing, or delaying separation of the flow
+     boundary layer from said other surface rearwardly of said corner at normal
+     operating speeds of the vehicle,
+B. said means comprising a longitudinally elongated protrusion having a
+     substantially smooth, arcuate outer surface projecting smoothly outwardly
+     of a first of said body surfaces said protrusion surface having a first
+     longitudinally elongated terminal extent merging toward said first body
+     surface in spaced relation to said corner, and second longitudinally
+     elongated terminal extent merging toward a second of said body surfaces
+     proximate said corner.
+ 
+
+
+inventors: 
+**Please see images for: ( Certificate of Correction )  **MacCready, Jr.; Paul B (Pasadena, CA), Lissaman; Peter B. S. (Pasadena, CA) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Aerovironment Inc.  (Pasadena,  CA)   
+
+
+family_ID: 
+24001472
+
+
+application_number: 
+
+
+
+filed_date: 
+September 5, 1974
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+
+
+
+prior_pub_data_publication_date: 
+
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2037942, 2037942, April 1936, Stalker,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2208075, 2208075, July 1940, Jabelmann,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2737411, 2737411, March 1956, Potter,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2964352, 2964352, December 1960, Werner,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3415566, 3415566, December 1968, Kerrigan,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3425740, 3425740, February 1969, DeVaughn,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3834752, 3834752, September 1974, Cook et al.
+
+
+references_primary_examiner: 
+Sheridan; Robert G.
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+Underwood; Donald W.
+
+
+other_references_attorney_agent_or_firm: 
+Haefliger; William W.
+
+
+patent_claims: 
+We claim: 1.  In combination,
+a. a vehicle body having an exterior front wall, an exterior side wall and an exterior top wall, said side wall meeting said front wall at a vertical corner, and said top wall meeting said front wall at a horizontal corner,
+b. means for preventing, reducing, or delaying separation of the flow boundary layer from said side and top walls rearwardly of said corners at normal operating speeds of the vehicle,
+c. said means comprising two cooperating elongated protrusions respectively extending parallel to said two corners, each protrusion having a substantially smooth, arcuate outer surface projecting smoothly outwardly of said front wall, said
+protrusion surface having first elongated extent merging toward said front wall at a shallow angle therefrom and in a generally transverse direction extending away from the corner paralleling that protrusion and terminally joined to and extending along
+said front wall in spaced relation to said corner such that the first elongated extent substantially merges with the front wall, and second elongated extent merging generally toward said corner and terminally joined to and extending along said body
+proximate said corner such that the second elongated extent substantially merges with a body wall proximate said corner whereby each corner is enveloped by one protrusion,
+d. said two protrusions extending generally perpendicular toward one another and mating proximate the intersection of said corners.
+2.  The combination of claim 1 wherein each protrusion extends outwardly of said front wall to maximum extent between 2 and 20 inches.
+3.  The combination of claim 1 wherein each protrusion surface has a generally hook-shaped cross-section in planes normal to the direction of elongation.
+4.  The combination of claim 1 including a generally wedge shaped element projecting outwardly from at least one protrusion, for inhibiting separation of the flow from the body wall rearwardly of said one protrusion.
+5.  The combination of claim 1 including a flow turning spaced outwardly of at least one protrusion.
+6.  The combination of claim 1 wherein the bulk of each said protrusion projects forwardly of said front wall.
+7.  The combination of claim 1 wherein each protrusion comprises a one-piece, thin-walled molded unit consisting of glass fibers and resin.
+8.  The combination of claim 1 including a protrusion extending lengthwise proximate a corner formed by the intersection of the top and side walls.
+9.  For combination with a vehicle body having an exterior front wall, an exterior side wall and an exterior top wall, said side wall meeting said front wall at a vertical corner, and said top wall meeting said front wall at a horizontal corner,
+a. means for preventing, reducing, or delaying separation of the flow boundary layer from said side and top walls rearwardly of said corners at normal operating speeds of the vehicle,
+b. said means comprising two cooperating elongated protrusions respectively extending parallel to said two corners, each protrusion having a substantially smooth, arcuate outer surface projecting smoothly outwardly of said front wall, said
+protrusion surface having first elongated extent merging toward said front wall at a shallow angle therefrom and in a generally transverse direction extending away from the corner paralleling that protrusion and terminally joined to and extending along
+said front wall in spaced relation to said corner such that the first elongated extent substantially merges with the front wall, and second elongated extent merging generally toward said corner and terminally joined to and extending along said body
+proximate said corner such that the second elongated extent substantially merges with a body wall proximate said corner whereby each corner is enveloped by one protrusion,
+c. said two protrusions extending generally perpendicularly toward one another and mating proximate the intersection of said corners.
+10.  In combination
+a. a vehicle body having two elongated intersecting corners from each of which body surfaces extend at an angle, one of said surfaces presented forwardly toward oncoming relative air flow and other surfaces extending generally rearwardly away
+from said corners, said surfaces defining said corners,
+b. means for preventing, reducing, or delaying separation of the flow boundary layer from said other surfaces rearwardly of said corners at normal operating speeds of the vehicle,
+c. said means comprising two cooperating elongated protrusions respectively extending parallel to said two corners, each protrusion having a substantially smooth, arcuate outer surface projecting smoothly outwardly of a first of said body
+surfaces which extends toward each of said two corners, said protrusion surface having first elongated extent merging toward said first body surface in a generally transverse direction extending away from the corner paralleling that protrusion and
+terminally joined to said first body surface in spaced relation to said corner, and second elongated extent merging generally toward said corner and terminally joined to said body proximate said corner whereby each corner is enveloped by one protrusion,
+d. said two protrusions extending generally perpendicularly toward one another proximate the intersection of said corners,
+e. each protrusion including an inflatable section, and means to inflate said section to present said arcuate outer surface, as defined.
+11.  The combination of claim 10 wherein at least one protrusion includes a web section attached to said inflatable section and defining said elongated extent.
+12.  The combination of claim 10 wherein said means to inflate said section includes a duct having an open air inlet presented toward oncoming airflow, the duct communicable with a hollow defined by the inflatable section.
+13.  The combination of claim 10 wherein said means to inflate said section includes a gas pressure source communicable with a hollow defined by the inflatable section.
+14.  The combination of claim 1 wherein each protrusion comprises a thin-walled metallic unit.
+15.  In combination with a truck that includes a cab having a roof, and a box-like body rearwardly of the cab, the body having an exterior front wall facing forwardly toward the cab, said front wall extending downwardly substantially below the
+level of the cab roof, the body also having laterally opposite exterior side walls, and an exterior top wall, said side walls meeting said front wall at vertical corners, and said top wall meeting said front wall at a horizontal corner, the improvement
+that comprises,
+a. first and second protrusions respectively extending adjacent and along said vertical corners in enveloping relation therewith, each of said protrusions being linearly elongated in a vertical direction throughout its length from an upper
+location above the level of the cab roof to a lower location substantially below the cab roof level, each protrusion having two vertically elongated edge portions respectively attached in merging relationship to said body exterior front wall and to one
+body side wall, each protrusion having a vertically elongated mid-portion which is forwardly convex throughout the major vertical length of the protrusion,
+b. a third protrusion extending adjacent and along said horizontal corner in enveloping relation therewith, said third protrusion being linearly elongated in a horizontal and lateral direction throughout its length, said third protrusion having
+two horizontally elongated edge portions respectively attached in merging relationship to said body exterior front wall and to said body exterior top wall, said third protrusion having a horizontally elongated mid-portion which is forwardly convex
+throughout the major horizontal length of the protrusion,
+c. said third protrusion having opposite end portions respectively mating with upper end portions of said first and second protrusions,
+d. said protrusion convex mid-portions and edge portions configured to prevent, reduce or delay the separation of the air flow boundary layers from said exterior side and top walls rearwardly of said protrusions. 
+
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+BACKGROUND OF THE INVENTION
+This invention relates generally to reducing aerodynamic drag imposed on vehicles such as trucks, trailers, trains, etc., and more particularly concerns the provision of means to prevent, reduce, or delay separation of boundary layer air flow
+about such vehicles thereby enhancing fuel savings.
+Many vehicles (trucks, trailers, trains) are constructed in a box like fashion with sharp 90.degree.  corners.  This is done both for ease in fabrication and to maximize the number of rectangular crates or other load shapes that can be carried. 
+When such vehicles move, the sharp edges cause the air to separate at the corners and cause the box like body to have high aerodynamic drag, thus requiring more propulsive power.  While rounding off such corners can reduce drag, this expedient is
+undesirable from two points of view; first it reduces the interior storage capacity (frequently by much more than the actual reduction in storage area because of the modular nature of the crates or payload); and secondly, it is often not convenient or
+possible to modify existing vehicles this way, since much of the structure is in edge framing.  Thus, there is a clear need for means which will achieve the effect of a rounded corner without requiring extensive body rework and without reducing interior
+capacity.
+SUMMARY OF THE INVENTION
+It is a major object of the invention to provide a solution or solutions to the above difficulties and problems.  The invention is particularly adapted for use with a vehicle body having a longitudinally elongated corner from which body surfaces
+extend at an angle, one of the surfaces presented forwardly toward oncoming relative air flow, and the other surface extending generally rearwardly away from the corner.  In this environment, the invention basically comprises:
+A. MEANS FOR PREVENTING, REDUCING, OR DELAYING SEPARATION OF THE FLOW BOUNDARY LAYER FROM SAID OTHER SURFACE REARWARDLY OF SAID CORNER AT NORMAL OPERATING SPEEDS OF THE VEHICLE,
+B. SAID MEANS COMPRISING A LONGITUDINALLY ELONGATED PROTRUSION HAVING A SUBSTANTIALLY SMOOTH, ARCUATE OUTER SURFACE PROJECTING SMOOTHLY OUTWARDLY OF A FIRST OF SAID BODY SURFACES, SAID PROTRUSION SURFACE HAVING A FIRST LONGITUDINALLY ELONGATED
+TERMINAL EXTENT MERGING TOWARD SAID FIRST BODY SURFACE IN SPACED RELATION TO SAID CORNER, AND SECOND LONGITUDINALLY ELONGATED TERMINAL EXTENT MERGING TOWARD A SECOND OF SAID BODY SURFACES PROXIMATE SAID CORNER.
+As will appear, the protrusion typically extends outwardly of the first body surface to maximum extent between 2 and 20 inches; it may have generally hook-shaped cross sections particularly when formed as a one-piece thin-walled molded unit; and
+a vortex generator and/or a flow turning vane may be incorporated with the protrusion as will be seen.  Further, the protrusion or protrusions may be incorporated on side walls as well as front facing walls of vehicles, and may be inflatable.
+These and other objects and advantages of the invention, as well as the details of illustrative embodiments, will be more fully understood from the following description and drawings, in which: DRAWING DESCRIPTION
+FIG. 1 is a perspective showing an application of the invention;
+FIG. 2 is an enlarged vertical section taken on lines 2--2 of FIG. 1;
+FIG. 3-7 are views like FIG. 2, showing variations; and FIG. 8 is a section on lines 8--8 of FIG. 1; and
+FIG. 9 is a fragmentary side elevation showing the side wall of a trailer body incorporating the invention; DETAILED DESCRIPTION
+In FIGS. 1 and 2, a vehicle body, as for example a truck trailer body 10, has a longitudinally elongated corner 11 from which body surfaces extend at an angle.  One of the surfaces, such as surface 12a of upstanding front wall 12, is presented
+forwardly toward oncoming relative air flow indicated by arrow 13, and the other surface 14a of horizontal top wall 14 extends generally rearwardly away from corner 11.  Surfaces 12a and 14a typically extend at about a 90.degree.  angle.
+In accordance with the invention, means is provided to prevent or substantially reduce or delay separation of the air flow boundary layer from the other surface 14a rearwardly of the corner 11 at normal operating speeds of the vehicle, as for
+example about 30 to 60 miles per hour.  Such means comprises a longitudinally elongated protrusion 15 having a substantially smooth, arcuate outer surface 16 projecting smoothly outwardly of a first of the body surfaces, such as surface 12a in FIG. 2. 
+The protrusion surface 16 is generally forwardly convex at 16c in planes normal to the longitudinal direction indicated by arrows 17 in FIG. 1; surface 16 has a first longitudinally elongated extent 16a merging or tapering toward the first surface 12a in
+spaced relation to the corner 11; and surface 16 has a second longitudinally elongated extent 16b merging toward the second 14a of the body surfaces, proximate the corner.  The protrusion 15 may be molded of reinforced thin-walled plastic material, such
+as glass fibers and resin, and the longitudinal terminal flaps 15a and 15b defining surfaces 16a and 16b may be bonded or otherwise attached to the body surfaces 12 a and 14a, as shown.  Note the general "hook-shape" of the illustrated thin-walled
+protrusion.  The radius of curvature of the protrusion surface at 16 must exceed the thickness of the local air flow boundary layer that exists at walls 12 and 14 before the addition of the protrusion; and one may determine, by design or testing, the
+protrusion shape that results in the least boundary layer separation over the normal vehicle operating speed range.  For best results, the maximum projection t of the protrusion from the wall should be between 2 and 20 inches.  Other possible shapes of
+surface 16a are shown at 16a' and 16a".
+Similar protrusion 18 may be located adjacent the upright corners or edges 19 defined by the vehicle body front wall 12 and upright side walls 20, as seen in FIGS. 1 and 8.  All of such protrusions contribute substantially to reductions in drag
+otherwise induced by air flow past the sharp corners 11 and 19, and consequently fuel savings result.  Note the diagonal interfitting of the protrusions 15 and 18 at loci 21, this being one form of mating of the protrusions.  The FIG. 9 modification
+shows similar horizontal and vertical protrusions 22 and 23 extending along the top horizontal and front and rear vertical edges of the truck or vehicle body side wall 20.  This construction reduces the side thrust exerted on the body by sideward wind
+gusts, and thereby reducing steering difficulties in gusty locations.
+FIG. 3 shows the addition of a vortex generator 25 projecting forwardly from, or outstanding from the nose of the protrusion 15.  The generator element may have wedge or wing shape; it causes an exchange of momentum across the boundary layer that
+forms on the protrusion, and tends to keep the flow further downstream from separating.  Such generators may be spaced along the longitudinal extent of the protrusions.  FIG. 4 illustrates the addition of flow turning or deflection vane 26 spaced
+outwardly of the nose of the protrusions, the vane extending chordwise generally parallel to the surface of the protrusion which it overlies.  A strut 27 connects the vane to the protrusion.  The vane also aids in keeping the flow further downstream from
+separating.  Note flow arrows 28.
+In that form of the invention seen in FIG. 5, the modified protrusion 30 projects outwardly from body surface 14a rather than from surface 12a presented toward the oncoming flow.  In this case, the first terminal extent 31a of the protrusion
+surface 31 merges toward the other body surface 14a in remotely spaced relation to corner 11, and the second terminal extent 31b of the protrusion merges toward the one body surface 12a proximate the corner 11.  FIG. 6 shows a modified form of the FIG. 5
+design, with a vane 32 mounted to the nose of the protrusion 30, as by a strut 33.  Vanes 26 and 32 may be longitudinally elongated, i.e., extend lengthwise of the protrusion noses.  Vane 32 also extends chordwise generally parallel to that portion of
+the protrusion surface which it overlies.
+In FIG. 7, an inflated section 40a of a protrusion 40 is located adjacent corner or edge 41 which is elongated in a direction normal to the plane of that view.  In uninflated condition, that section may collapse close to or flatly adjacent the
+surface of body wall 42 presented toward oncoming air flow as indicated by arrow 43.  At the option of the vehicle operator, an inflating means, may be operated to inflate the protrusion to the position shown.  One such means may include a gas pressure
+source 44 connected via piping 45, valve 46 and piping 47 with the interior 48 of the protrusion.  Valve may have three positions, one in which only the source 44 communicates with the space 48, another in which the pipe 47 is closed-off to prevent
+escape of gas from space 48, and a third in which gas is released from space 48 to outlet 49.  A flexible web section 40b of the protrusion is attached to the body wall 42 at 50, and at 51 to the protrusion section 40a, to be stretched into the position
+shown upon inflation of section 40a.  Section 40a and 40b may consist of rubber or plastic.  Accordingly, the operator may or may not use the drag reduction means, at this option.
+An alternate source of inflation pressure is shown at 60, and comprises a duct 61 with an inlet exposed to ram effect of on-coming air, thereby to provide "self-inflation."
+In an actual test, a truck such as shown in FIG. 1 was extensively operated with and without protrusions, and gas mileage records were kept.  The truck was operated at various speeds under 55 miles per hour, on a predetermined course that
+required both stop and go city driving conditions as well as expressway driving conditions.  After protrusions as at 15 and 18 in FIG. 1, and 22 in FIG. 9, were added, it was found that fuel consumption was reduced by about 17.2%.  The protrusions 15 and
+18 projected outwardly by an amount t = 8 inches, and the protrusions 22 projected outwardly by an amount t = 5 inches.
+The protrusion may alternately consist of a metallic sheet, or other suitable material, and may alternately be solid instead of thin-walled.
+It is also contemplated that the protrusions may be removably fastened, as by suitable fasteners to the vehicle body, so as to be capable of removal and storage, or use, whenever desired.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

@@ -1,0 +1,422 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4135&p=83&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8152218B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8152218B2
+
+
+patent_name: 
+Integral pelvic impact energy-absorbing pre-crush protective construction     for vehicle door
+
+
+patent_publish_date: 
+April 10, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ A door trim substrate having a construction which includes, in
+     combination, an energy-absorbing pre-crush protective portion and a
+     pelvic bolster portion is provided for use in a vehicle. The pre-crush
+     protective portion is configured so as to protect the pelvic bolster
+     portion from pre-crush in a vehicle side-impact event. The pre-crush
+     portion is defined by a rib cassette structure which is preferably
+     integrally molded into the door trim substrate below the pelvic bolster
+     portion.
+ 
+
+
+inventors: 
+Hall; Ian Brewster (Ann Arbor, MI), Deng; Zhibing (Northville, MI), Bhojan; Rabin (Northville, MI), Pinkerton; John (Canton, MI) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Ford Global Technologies, LLC  (Dearborn,  MI)   
+
+
+family_ID: 
+41315471
+
+
+application_number: 
+12/119,542
+
+
+filed_date: 
+May 13, 2008
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20090284041 A1
+
+
+prior_pub_data_publication_date: 
+Nov 19, 2009
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3808743, 3808743, May 1974, Renner et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3964208, 3964208, June 1976, Renner et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3989275, 3989275, November 1976, Finch et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4272103, 4272103, June 1981, Schmid et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4769951, 4769951, September 1988, Kaaden,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4783114, 4783114, November 1988, Welch,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4786100, 4786100, November 1988, Kleemann et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5066064, 5066064, November 1991, Garnweidner,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5141279, 5141279, August 1992, Weller,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5395135, 5395135, March 1995, Lim et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5435619, 5435619, July 1995, Nakae et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5482344, 5482344, January 1996, Walker et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5542738, 5542738, August 1996, Walker et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5573298, 5573298, November 1996, Walker et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5580119, 5580119, December 1996, Uchida et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5588692, 5588692, December 1996, Gandhi et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5595415, 5595415, January 1997, Beaulat,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5603548, 5603548, February 1997, Gandhi et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5707098, 5707098, January 1998, Uchida et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5716093, 5716093, February 1998, Sadr,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5749600, 5749600, May 1998, Yamada et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5857702, 5857702, January 1999, Suga et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5865496, 5865496, February 1999, Odan et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5927020, 5927020, July 1999, Kobrehel,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5934730, 5934730, August 1999, Yagishita et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5934743, 5934743, August 1999, Nohr et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6036251, 6036251, March 2000, Yagishita et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6196621, 6196621, March 2001, VanAssche et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6203096, 6203096, March 2001, Noda et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6302472, 6302472, October 2001, Rahmstorf et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6474721, 6474721, November 2002, Nishikawa et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6568743, 6568743, May 2003, Jayasuriya et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6631940, 6631940, October 2003, Dauvergne et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6688671, 6688671, February 2004, Fukutomi,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6742830, 6742830, June 2004, Zimmerman et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6808224, 6808224, October 2004, Obara,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6851740, 6851740, February 2005, Peng,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6890018, 6890018, May 2005, Koa et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6955391, 6955391, October 2005, Peng,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7014249, 7014249, March 2006, Karuppaswamy et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7040688, 7040688, May 2006, White et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7198319, 7198319, April 2007, Schroder et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7334813, 7334813, February 2008, Mellor,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7357444, 7357444, April 2008, Cowelchuk et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7441826, 7441826, October 2008, Frank,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090134660&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0134660, May 2009, Pinkerton et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090152848&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0152848, June 2009, Sadr et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090152849&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0152849, June 2009, Saraf et al.
+
+
+references_primary_examiner: 
+Patel; Kiran B.
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+
+
+
+other_references_attorney_agent_or_firm: 
+Shook, Hardy & Bacon LLP
+
+
+patent_claims: 
+What is claimed is:  1.  A door assembly for use in a vehicle, the door assembly comprising: an outer panel;  an inner door panel disposed adjacent said outer panel;  a pelvic impact
+energy-absorbing construction disposed adjacent said inner door panel, said pelvic impact energy-absorbing construction having a pelvic bolster portion and a pre-crush protector portion extending vehicle-outward from said pelvic bolster portion, said
+bolster portion and said pre-crush protector portion being integral portions of said pelvic impact energy-absorbing construction.
+ 2.  The door assembly of claim 1, wherein said pelvic bolster portion 62 and said pre-crush protector portion are an integral construction.
+ 3.  The door assembly of claim 1, wherein said pelvic bolster portion 62 and said pre-crush protector portion are a molded component.
+ 4.  The door assembly of claim 1, wherein said pre-crush protector portion is composed of a plurality of intersecting walls.
+ 5.  The door assembly of claim 4, wherein said plurality of walls interconnect substantially at right angles.
+ 6.  A door assembly for use in a vehicle, the door assembly comprising: an outer panel;  an inner door panel disposed adjacent said outer panel;  a pelvic impact energy-absorbing construction disposed adjacent said inner door panel, said pelvic
+impact energy-absorbing construction having a pelvic bolster portion and a pre-crush protector portion, said pre-crush protector portion extending from said pelvic bolster portion, said pre-crush protector portion being composed of a plurality of
+intersecting walls, said bolster portion and said pre-crush protector portion being integral portions of said pelvic impact energy-absorbing construction.
+ 7.  The door assembly of claim 6, wherein said pelvic bolster portion and said pre-crush protection portion are an integral construction.
+ 8.  The door assembly of claim 6, wherein said pelvic bolster portion and said pre-crush protection portion are a molded component.
+ 9.  The door assembly of claim 6, wherein said plurality of walls interconnect substantially at right angles.  
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+TECHNICAL FIELD
+ The present invention relates generally to collapsible door structures for use with vehicle doors.  More particularly, the present invention relates to a door trim substrate having an energy-absorbing pre-crush protector portion and a pelvic
+bolster portion.  The pre-crush protector portion is configured so as to protect the pelvic bolster portion from pre-crush in a vehicle side-impact event.
+BACKGROUND OF THE INVENTION
+ Side impact events in vehicles have been identified as one of the top priorities for both research and regulation with government requirements continuing to become more stringent.  As a result of the multiple test dummy sizes, the pelvic bolster
+stiffness target must be well maintained in all side impact scenarios.  Particularly, in a side impact event, the pelvic bolster may deform prior to occupant contact (so-called "pre-crush") as the bolster is constrained between the door trim panel and
+the intruding door sheetmetal.  Data illustrate that the amount of deformation of the pelvic bolster varies with different test modes and occupant sizes.  These variations alter the targeted pelvic bolster stiffness and have great effect on occupant
+performance as seen in many tests.  Since the pelvic bolster stiffness is typically optimized as contact stiffness with the test dummies, protection of the pelvic bolster from pre-crush becomes critical for occupant performance in side impact.
+ Accordingly, as in so many areas of vehicle technology, there is room in the art of vehicle door design for an alternative configuration to known pelvic bolster structures which provides effective protection that can be adapted to a variety of
+shapes while maintaining relatively low manufacturing and assembly costs.
+SUMMARY OF THE INVENTION
+ The present invention generally provides a door assembly in which the energy absorption characteristics are integrated in the door trim substrate by providing a door substrate having an energy-absorbing pre-crush protective portion and a pelvic
+bolster portion.  The pre-crush protective portion is configured so as to protect the pelvic bolster portion from pre-crush in a vehicle side-impact event.  More particularly, the door assembly includes an outer sheetmetal, an inner door panel disposed
+adjacent said outer sheetmetal, a bolster portion disposed adjacent the inner door panel, and a pre-crush protector portion disposed adjacent the bolster portion.  The pre-crush protector portion is deeper than the bolster portion with the additional
+depth generally extending vehicle-outward toward the outer sheetmetal.  The bolster portion and the pre-crush protector portion may be integrally formed from a polymerizable material.  In the event of a side-impact event, the pre-crush protector portion
+would absorb the impact energy, thus leaving intact the bolster portion to absorb energy from the occupant as the occupant intrudes upon the bolster portion.
+ The door substrate having the pelvic bolster portion and the pre-crush protector portion may be formed from any of a variety of polymerizable materials, but is preferably formed from molded polypropylene (PP).  This arrangement is preferable
+over, for example, foam, insofar as an integrally-molded substrate of this configuration is able to generate load more quickly than foam.  Accordingly, higher forces earlier in the event allow for a reduction in peak loads later.  In addition, the
+lateral stiffness of both the bolster portion and the pre-crush protector portion may be designed to vary significantly over the surface of the bolster so that occupants of different sizes, who would sit in different locations in the vehicle, would see
+different loads.  Simulations have shown that the component design of the disclosed invention meets the requisite loading curves.
+ Other advantages and features of the invention will become apparent when viewed in light of the detailed description of the preferred embodiment when taken in conjunction with the attached drawings and the appended claims. BRIEF
+DESCRIPTION OF THE DRAWINGS
+ For a more complete understanding of this invention, reference should now be made to the embodiments illustrated in greater detail in the accompanying drawings and described below by way of examples of the invention wherein:
+ FIG. 1 illustrates a sectional view of a door assembly of the known art shown prior to an impact event;
+ FIG. 2 illustrates a view of the door assembly of FIG. 1 but showing the assembly initially after an impact event;
+ FIG. 3 illustrates a view of the door assembly of FIG. 2 but showing the assembly later after the impact event;
+ FIG. 4 illustrates a view of the door assembly of FIG. 3 but showing the assembly still later after the impact event;
+ FIG. 5 illustrates a view of the door assembly of FIG. 4 but showing the assembly even later after the impact event;
+ FIG. 6 illustrates the vehicle door substrate with a construction which is a combination pelvic bolster portion and energy-absorbing pre-crush protector portion;
+ FIG. 7 illustrates a detailed view of the view of combination pelvic bolster portion and energy-absorbing pre-crush protector portion construction of FIG. 6;
+ FIG. 8 illustrates a sectional view of a door assembly of the disclosed invention prior to an impact event;
+ FIG. 9 illustrates a view of the door assembly of FIG. 8 but showing the assembly initially after an impact event;
+ FIG. 10 illustrates a view of the door assembly of FIG. 9 but showing the assembly later after the impact event;
+ FIG. 11 illustrates a view of the door assembly of FIG. 10 but showing the assembly still later after the impact event;
+ FIG. 12 illustrates a view of the door assembly of FIG. 11 but showing the assembly even later after the impact event;
+ FIG. 13 illustrates a perspective view of a segment of the first alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention;
+ FIG. 14 illustrates a perspective view of a segment of the second alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention;
+ FIG. 15 illustrates a perspective view of a segment of the third alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention;
+ FIG. 16 illustrates a perspective view of a segment of the fourth alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention;
+ FIG. 17 illustrates a perspective view of a segment of the fifth alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention;
+ FIG. 18 illustrates a top plan view of the fifth alternate embodiment shown in FIG. 17;
+ FIG. 19 illustrates a perspective view of a segment of the sixth alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention;
+ FIG. 20 illustrates a perspective view of a segment of the seventh alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention;
+ FIG. 21 illustrates a perspective view of a segment of the eighth alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention;
+ FIG. 22 illustrates a perspective view of a segment of the ninth alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention;
+ FIG. 23 illustrates a perspective view of a segment of the tenth alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention; and
+ FIG. 24 illustrates a perspective view of a segment of the eleventh alternate embodiment of the energy-absorbing pre-crush protector portion of the disclosed invention.
+DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT
+ In the following figures, the same reference numerals will be used to refer to the same components.  In the following description, various operating parameters and components are described for different constructed embodiments.  These specific
+parameters and components are included as examples and are not meant to be limiting.
+ With reference to FIG. 1, a sectional view of a door assembly of the known art, generally illustrated as 10, is shown prior to an impact event, or at T1.  The door assembly 10 is illustrated in operational relationship with a rocker panel 12 of
+a vehicle 14.  It should be appreciated that the rocker panel 12 is stationary and connected to the structure of the vehicle 14 and the vehicle door 10 is movable and connected to the remaining structure of the vehicle 14 as is known in the art.
+ As seen in FIG. 1, the vehicle door 10 includes an outer panel 16 and an inner panel, generally indicated as 18, joined together in conventional fashion to form a space 20 therebetween.  The door 10 also includes an aperture 22 at an upper end
+for receiving a window 24, which may move in and out of the space 20.  A window regulator device, a door latch, a guard beam, and other components (not shown) of a vehicle door as known in the art may also be housed entirely or substantially within the
+space 20.
+ A door trim panel 26 is mounted on the inner panel 18 to form a space 28 therebetween.  A window regulator device, a door latch, a guard beam, and other components (not shown) of a vehicle door as known in the art may also be housed entirely or
+substantially within the space 28.  The door trim panel 26 includes an arm rest 30 generally facing the occupant seating area.  The trim panel 26 is conventionally fixedly secured to the inner panel 18 by fasteners as are known in the art, such as screw
+and clip fasteners.
+ As is known in the art, a pelvic bolster 32 is provided within the space 28 defined between the door trim panel 26 and the inner panel 18.  According to known arrangements, the known pelvic bolsters are foam material blocks that are polyurethane
+foam, expanded polypropylene, and the like.  Known pelvic bolster designs vary in shapes and thicknesses, thus the pelvic bolster 32 is provided for illustrative purposes only.
+ In the early stages of an impact event at T2, as illustrated in FIG. 2, an impacting force, generally illustrated as F, presses the outer panel 16 vehicle-inward.  At this stage of the impact event only the outer panel 16 is changed, while a
+vehicle occupant O is not directly impacted.
+ At T3, as shown in FIG. 3, the impacting force F forces the outer panel 16 vehicle-inward substantially contacting and impacting upon the inner panel 18, which itself begins to deform.
+ At T4, as shown in FIG. 4, the impacting force F has now moved both the outer panel 16 and the inner panel 18 vehicle-inward, impacting upon the bolster 32 which begins to deform, constrained as it is between the intruding panels 16 and 18 and
+the door trim panel 26.  Extending from the upper and lower ends of the bolster 32 are areas 34 and 36 shown for illustrative purposes to demonstrate how the operative thickness of the bolster 32 is compromised prior to contact with the occupant O. It is
+to be understood that the amount of deformation of the bolster 32 varies under different circumstances.
+ The unsatisfactory result from a pre-crushed pelvic bolster is demonstrated in FIG. 5, which shows the arrangement at T5 in which the outer panel 16, the inner panel 18, the now-deformed bolster 32, and the door trim panel 26 have been moved
+vehicle-inward in actual or in near contact with the occupant O. However, as the bolster 32 has already been fully or substantially crushed by the movement of the force F, the illustrated arrangement can provide less than an optimal occupant performance
+in a side impact event.
+ By providing an arrangement whereby an energy-absorbing pre-crush protector portion is provided in conjunction with a pelvic bolster portion, the desired optimal occupant performance in a side impact event can be achieved.  FIGS. 6 through 12
+illustrate this arrangement which defines the disclosed invention.
+ With reference to FIG. 6, a vehicle door 50 is shown.  The interior panel has been removed to illustrate a door trim substrate 52.  As is known in the art, the door trim substrate 52 includes a variety of supporting structures, including, for
+example, a first armrest support structure 54 and a second armrest support structure 56.  It is to be understood that any of a great variety of support structures may be provided in a variety of different configurations.
+ A door pocket closeout 58 is formed on the door trim substrate 52 as is known in the art.  Adjacent the door pocket closeout 58 is a pelvic impact energy-absorbing construction 60 which includes a pelvic bolster portion 62 and an
+energy-absorbing pre-crush protector portion 64.  The construction 60 is preferably, but not absolutely, integral with the door trim substrate 52.  A more detailed view of the construction 60 is illustrated in FIG. 7.
+ As illustrated, the pelvic bolster portion 62 is positioned generally above the energy-absorbing pre-crush protector portion 64.  Each of the pelvic bolster portion 62 and the energy-absorbing pre-crush protector portion 64 define distinct
+sections of the construction 60.  Both the pelvic bolster portion 62 and the energy-absorbing pre-crush protector portion 64 are preferably formed integrally as the construction 60 as illustrated, although this may not necessarily be the case and the
+pelvic bolster portion 62 may be formed separate from the energy-absorbing pre-crush protector portion 64.  In addition, it is preferred that both the pelvic bolster portion 62 and the energy-absorbing pre-crush protector portion 64 be composed of a
+polymerized material having the illustrated rib cassette configuration comprising a plurality of intersecting walls 70 and 72 which in some instances as illustrated define right angles 74.  However, it is to be understood that the pelvic bolster portion
+62 may be formed from other energy absorbing materials such as, for example, polyurethane foam, while the row or rows of ribs that define the energy-absorbing pre-crush protector portion 64 would be used as the in-molded pre-crush protector.  According
+to this arrangement, the pelvic bolster portion 62 is configured to provide a certain desired and selected loading curve, while the energy-absorbing pre-crush protector portion 64 is configured to shield the pelvic bolster portion 62.
+ FIG. 8 in general shows the door assembly of the disclosed invention prior to an impact event.  FIGS. 9 through 12 show the same door assembly at progressive stages of an impact event.
+ With reference particularly to FIG. 8, a sectional view of the door assembly 50 shown and is illustrated at T1 or at a time prior at to an impact event.  The door assembly 50 is illustrated in operational relationship with a rocker panel 102 of
+a vehicle 104.  As is known the rocker panel 102 is stationary and connected to the structure of the vehicle 104 and the vehicle door 50 is movable and connected to the remaining structure of the vehicle 104 as is known in the art.
+ The vehicle door 50 includes an outer panel 106 and an inner door panel 108, joined together in conventional fashion to form a space 110 therebetween.  The door trim substrate 52 is attached to the inner panel 108 by known methods.  The door 50
+also includes an aperture 112 at an upper end for receiving a window 114, which may move in and out of the space 110.  As is the case with known vehicle door arrangements, a window regulator device, a door latch, a guard beam, and other components (not
+shown) of a vehicle door as known in the art may also be housed entirely or substantially within the space 110.
+ A door trim panel 116 is mounted on the inner panel 108 to form a space 118 therebetween.  As is the case with known vehicle door arrangements, a window regulator device, a door latch, a guard beam, and other components (not shown) of a vehicle
+door as known in the art may also be housed entirely or substantially within the space 118.  The door trim panel 116 includes an arm rest 120 generally facing the occupant seating area in which an occupant O' is seated.  Preferably, the trim panel 116 is
+fixedly secured to the inner panel 108 by suitable fasteners (not shown) such as a screw and clip arrangement.  Other fastening means may also be used, such as Christmas tree fasteners, push pins, or other fasteners known to those skilled in the art.
+ Preferably the outer panel 106 and the inner panel 108 are made of a metal material or other suitable material.  The door trim panel 116 is made of a suitable material such as plastic, cloth, vinyl, leather, carpeting, cardboard, wood fiber, or
+a combination thereof.
+ The impact energy-absorbing construction 60 having the pelvic bolster portion 62 and the energy-absorbing pre-crush protector portion 64 is fitted to the door trim substrate 52.  As noted above, preferably, but not absolutely, the door
+construction is integral with the door trim substrate 52.  The pelvic bolster portion 62 and the energy-absorbing pre-crush protector portion 64 may be any of a variety of crush strengths, shapes and thicknesses as required for protection of the pelvis
+and leg regions of the occupant O'.
+ FIG. 9 illustrates the early stages of an impact event.  At this stage, T2, an impacting force, generally illustrated as F', presses the outer panel 106 vehicle-inward.  At this stage of the impact event only the outer panel 106 is changed,
+while a vehicle occupant O' is not directly impacted.
+ At T3, as shown in FIG. 10, the impacting force F' forces the outer panel 106 vehicle-inward substantially contacting and impacting upon the inner panel 108, which itself begins to deform.
+ FIG. 11 illustrates the impact event at T4 in which the impacting force F' has now moved both the outer panel 106 and the inner panel 108 vehicle-inward, impacting upon the impact energy-absorbing construction 60.  As illustrated, only the
+energy-absorbing pre-crush protector portion 64 is being deformed as the energy-absorbing pre-crush protector portion 64 is directly constrained between the panels 106 and 108 and the door trim panel 116.  The pelvic bolster portion 62 deforms only
+slightly, if at all, as the energy-absorbing pre-crush protector portion 64 is primarily and perhaps exclusively itself deformed.
+ As shown in FIG. 12, at T5 the impact energy-absorbing construction 60, having a substantially or entirely un-deformed pelvic bolster portion 62, spared being crushed by the sacrificial energy-absorbing pre-crush protector portion 64 of the
+construction 60, provides optimal occupant performance in a side impact.  As illustrated in FIG. 12, the occupant O' receives proper and appropriate support upon a side impact event.
+ As illustrated in FIG. 7, the energy-absorbing pre-crush protection portion 64 is preferably of a rib cassette construction which is composed of a series of intersecting walls.  However, other configurations of the energy-absorbing pre-crush
+protector portion may be of a variety of configurations as are illustrated in FIGS. 13 through 24.  Preferably although not absolutely the protector portion illustrated in FIGS. 13 through 24 is composed of a polymerized material.
+ With reference to FIG. 13, a segment of an energy-absorbing pre-crush protector portion 130 is illustrated.  The pre-crush protector portion 130 includes a plurality of crushable elements 132 formed on a base wall 134.  Each crushable element
+132 includes a top wall 136 and a plurality of upright side walls 138.
+ With reference to FIG. 14, a segment of an energy-absorbing pre-crush protector portion 140 is illustrated.  The pre-crush protector portion 140 includes a plurality of crushable elements 142 formed on a base wall 144.  Each crushable element
+142 includes a top wall 146, a pair of opposed angled walls 148, and a pair of opposed upright walls 150.
+ With reference to FIG. 15, a segment of an energy-absorbing pre-crush protector portion 160 is illustrated.  The pre-crush protector portion 160 includes a plurality of crushable elements 162 formed on a base wall 164.  Each crushable element
+162 includes an elongated top wall 166, a first upright side wall 168, an angled side wall 170, and a pair of opposed upright end walls 172.
+ With reference to FIG. 16, a segment of an energy-absorbing pre-crush protector portion 180 is illustrated.  The pre-crush protector portion 180 includes a plurality of crushable elements 182 formed on a base wall 183.  Each crushable element
+182 includes a top wall 184, a first pair of opposed angled walls 186, a second pair of opposed angled walls 188, and a pair of opposed upright walls 190.
+ With reference to FIGS. 17 and 18, a segment of an energy-absorbing pre-crush protector portion 200 is illustrated.  The pre-crush protector portion 200 includes a plurality of crushable elements 202 formed on a base wall 203.  Each crushable
+element 202 includes an angled sidewall 204 and an upright wall 206.  As illustrated the upright wall 206 of one crushable element 202 is spaced apart from the upright wall 206 of an adjacent crushable element 202.  A pair of spaced apart supporting
+walls 208 and 210 (shown in broken lines in FIG. 18) provides supplemental support to each crushable element 202.  A greater or lesser number of supporting walls may be incorporated.
+ With reference to FIG. 19, a segment of an energy-absorbing pre-crush protector portion 220 is illustrated.  The pre-crush protector portion 220 includes a plurality of crushable elements 222 formed on a base wall 224.  Each crushable element
+222 includes a substantially circular top wall 226 and a conical side wall 228.
+ With reference to FIG. 20, a segment of an energy-absorbing pre-crush protector portion 230 is illustrated.  The pre-crush protector portion 230 includes a plurality of crushable elements 232 formed on a base wall 234.  Each crushable element
+232 includes a substantially oval top wall 236 and an elongated conical side wall 238.
+ With reference to FIG. 21, a segment of an energy-absorbing pre-crush protector portion 240 is illustrated.  The pre-crush protector portion 240 includes a plurality of crushable elements 242 formed on a base wall 244.  Each crushable element
+242 includes a substantially oval and angled top wall 246 and a conical side wall 248.
+ With reference to FIG. 22, a segment of an energy-absorbing pre-crush protector portion 250 is illustrated.  The pre-crush protector portion 250 includes a plurality of crushable elements 252 formed on a base wall 254.  Each crushable element
+252 includes a plurality of like-shaped upright inner walls 356, a top wall 258, and a plurality of like-shaped upright outer walls 260.
+ With reference to FIG. 23, a segment of an energy-absorbing pre-crush protector portion 270 is illustrated.  The pre-crush protector portion 270 includes a plurality of crushable elements 272 formed on a base wall 274.  Each crushable element
+272 includes a plurality of inner walls 276, a top wall 278, a pair of like-shaped upright and adjacent walls 280, and an upright front wall 282.
+ With reference to FIG. 24, a segment of an energy-absorbing pre-crush protector portion 290 is illustrated.  The pre-crush protector portion 290 includes a plurality of crushable elements 292 formed on a base wall 294.  Each crushable element
+292 includes a tubular configuration having an inner wall 296, a top wall 298, and an outer wall 300.
+ The foregoing discussion discloses and describes exemplary embodiments of the present invention.  One skilled in the art will readily recognize from such discussion and from the accompanying drawings and claims that various changes,
+modifications and variations can be made therein without departing from the true spirit and fair scope of the invention as defined by the following claims.
+ A door trim substrate having a construction that includes, in combination, an energy-absorbing pre-crush protective portion and a pelvic bolster portion is provided for use in a vehicle.  The pre-crush protective portion is configured to protect
+the pelvic bolster portion from pre-crush in a vehicle side-impact event.  The pre-crush portion is defined by a rib cassette structure that is preferably integrally molded into the door trim substrate below the pelvic bolster.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

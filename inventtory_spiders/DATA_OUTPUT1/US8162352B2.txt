@@ -1,0 +1,498 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4090&p=82&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8162352B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8162352B2
+
+
+patent_name: 
+Travel trailer having improved turning radius
+
+
+patent_publish_date: 
+April 24, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ A travel trailer configured to be coupled to and towed by a vehicle is
+     provided. The travel trailer has a compartment that is attached to a
+     chassis which includes a front end and a rear end. A plurality of wheels
+     are attached to the chassis adjacent the rear end, and a hitch assembly
+     is attached to the chassis adjacent the front end. The compartment at the
+     front end of the chassis forms first and second corners. A recess,
+     directed inwardly toward the interior of the compartment, is located at
+     each corner of the compartment. Cavities formed by each recess may
+     receive a portion of the vehicle while the vehicle is engaged in a turn.
+ 
+
+
+inventors: 
+**Please see images for: ( Certificate of Correction )  **Rhymer; John M. (Nappanee, IN), Lantz; Douglas M. (Middlebury, IN), Tuttle; Scott J. (Elkhart, IN) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Heartland Recreational Vehicles, LLC  (Elkhart,  IN)   
+
+
+family_ID: 
+35908932
+
+
+application_number: 
+12/967,836
+
+
+filed_date: 
+December 14, 2010
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20110227315 A1
+
+
+prior_pub_data_publication_date: 
+Sep 22, 2011
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F0827185, 827185, July 1906, Sawtelle,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F1521635, 1521635, January 1925, Lewis,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F1677577, 1677577, July 1928, Amiot,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F1715221, 1715221, May 1929, Carpenter,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F1837374, 1837374, December 1931, Samuel,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2038975, 2038975, April 1936, Willets,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2123930, 2123930, July 1938, Brown,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2284898, 2284898, June 1942, Hartman,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2351151, 2351151, June 1944, Sattler,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2731680, 2731680, January 1956, Bolt,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2743940, 2743940, May 1956, Bohlen,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2761699, 2761699, September 1956, Martin,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2842972, 2842972, July 1958, Houdart,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2925727, 2925727, February 1960, Harris et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2954260, 2954260, September 1960, Wright,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3042423, 3042423, July 1962, Bock,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3046047, 3046047, July 1962, Ferrera,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3059795, 3059795, October 1962, Schroeder,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3103750, 3103750, September 1963, Jarman,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3137041, 3137041, June 1964, Mullen,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3254914, 3254914, June 1966, Steck,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3316680, 3316680, May 1967, Chrastek,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3351373, 3351373, November 1967, Christin,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3425179, 3425179, February 1969, Haroldson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3511529, 3511529, May 1970, Cutsinger,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3558181, 3558181, January 1971, Peterson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3606704, 3606704, September 1971, Denton,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3608908, 3608908, September 1971, Yamamoto et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3608953, 3608953, September 1971, Bernard,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3664082, 3664082, May 1972, Zintel,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3697098, 3697098, October 1972, Fisher,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3716267, 3716267, February 1973, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3751870, 3751870, August 1973, Vesei,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3811723, 3811723, May 1974, Anderson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3811821, 3811821, May 1974, Ariyama et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3823961, 3823961, July 1974, Korodi,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3830024, 3830024, August 1974, Wamke,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3861716, 3861716, January 1975, Baxter et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3887226, 3887226, June 1975, Hart,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3913286, 3913286, October 1975, Boutacoff,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3972542, 3972542, August 1976, Dirks et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4015375, 4015375, April 1977, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4019299, 4019299, April 1977, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4027439, 4027439, June 1977, Willard,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4049310, 4049310, September 1977, Yoder,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4065892, 4065892, January 1978, Lawrence,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4067158, 4067158, January 1978, Lawrence,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4068860, 4068860, January 1978, Meyers et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4106258, 4106258, August 1978, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4128269, 4128269, December 1978, Stewart,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4131301, 4131301, December 1978, Werner,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4133571, 4133571, January 1979, Fillios,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4222604, 4222604, September 1980, Human,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4232884, 4232884, November 1980, DeWitt,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4253283, 4253283, March 1981, May,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4312159, 4312159, January 1982, Paul,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4441289, 4441289, April 1984, Ikuo et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4480866, 4480866, November 1984, Komatsu,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4500132, 4500132, February 1985, Yoder,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4517781, 4517781, May 1985, LeBlanc,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4630548, 4630548, December 1986, Wiger et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4657300, 4657300, April 1987, Penny et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4669243, 4669243, June 1987, Gore et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4863189, 4863189, September 1989, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4930809, 4930809, June 1990, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4930837, 4930837, June 1990, Marsha et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4955631, 4955631, September 1990, Meyer,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4955661, 4955661, September 1990, Mattice,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5028072, 5028072, July 1991, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5071152, 5071152, December 1991, Ducote,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5090749, 5090749, February 1992, Lee,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5092650, 5092650, March 1992, Perlot,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5113625, 5113625, May 1992, Davis,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5127697, 5127697, July 1992, St. Marie,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5135248, 5135248, August 1992, Keiserman,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5143417, 5143417, September 1992, Philley et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5154469, 5154469, October 1992, Morrow,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5201546, 5201546, April 1993, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5226583, 5226583, July 1993, Imashimizu et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5237782, 5237782, August 1993, Cooper,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5332276, 5332276, July 1994, Blodgett, Jr.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5333420, 5333420, August 1994, Eden,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5353558, 5353558, October 1994, Shea, Sr. et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5359821, 5359821, November 1994, Merriman,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5398986, 5398986, March 1995, Koob,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5417468, 5417468, May 1995, Baumgartner et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5468008, 5468008, November 1995, Hecht,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5474331, 5474331, December 1995, Booher,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5488809, 5488809, February 1996, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5491933, 5491933, February 1996, Miller et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5505515, 5505515, April 1996, Turner,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5553989, 5553989, September 1996, Ullman,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5567003, 5567003, October 1996, Gill,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5577351, 5577351, November 1996, Dewald, Jr. et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5579622, 5579622, December 1996, DeVon et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5586802, 5586802, December 1996, Dewald, Jr. et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5620224, 5620224, April 1997, DiBiagio et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5640814, 5640814, June 1997, Godfrey,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5671573, 5671573, September 1997, Tadros et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5706612, 5706612, January 1998, Tillett,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5746473, 5746473, May 1998, Crean,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5758918, 5758918, June 1998, Schneider et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5784849, 5784849, July 1998, DeVon et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5787650, 5787650, August 1998, Miller et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5788306, 5788306, August 1998, DiBiagio et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5791715, 5791715, August 1998, Nebel,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5833296, 5833296, November 1998, Schneider,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5857733, 5857733, January 1999, Dewald, Jr. et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5890728, 5890728, April 1999, Zilm,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5902001, 5902001, May 1999, Schneider,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5970676, 5970676, October 1999, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5984396, 5984396, November 1999, Schneider,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5992121, 5992121, November 1999, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6018921, 6018921, February 2000, Lindsay,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6170903, 6170903, January 2001, Crean,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6176045, 6176045, January 2001, McManus et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6182401, 6182401, February 2001, McManus et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6231115, 6231115, May 2001, Crean,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6343830, 6343830, February 2002, Ingram et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6502894, 6502894, January 2003, Ingram et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6792630, 6792630, September 2004, Palmatier et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6802521, 6802521, October 2004, Boughton,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6807735, 6807735, October 2004, Crean,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6808195, 6808195, October 2004, Smith,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6832809, 6832809, December 2004, Wang et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6846000, 6846000, January 2005, Grinde et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6860545, 6860545, March 2005, Ingram et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6866283, 6866283, March 2005, Alguera et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6866330, 6866330, March 2005, Jones et al.
+
+
+references_primary_examiner: 
+Boehler; Anne Marie
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+Stabley; Michael
+
+
+other_references_attorney_agent_or_firm: 
+Faegre Baker Daniels
+
+
+patent_claims: 
+What is claimed is:  1.  A fifth wheel travel trailer, including: a compartment having a front end, a rear end, a floor and a deck located at the front end at a position higher than the floor;  a
+hitch connected to the deck at a location higher than the floor, the hitch being configured to couple to a mating hitch on a towing vehicle;  an outer front wall located adjacent the deck;  an outer side wall located adjacent the deck and connected to
+the front wall to form a corner;  a panel located between the side wall and the front wall at the corner;  and a chassis having a forwardmost edge member at the front end of the compartment and a side frame member positioned relative to the forwardmost
+edge member to define a recess, the panel being directed inwardly at an acute angle relative to vertical from the corner toward the interior of the compartment and upwardly from the forwardmost edge member, the panel providing clearance for a portion of
+the towing vehicle so as to permit the towing vehicle to make a tighter turn without striking the travel trailer.
+ 2.  The travel trailer of claim 1, wherein the panel is planar.
+ 3.  The travel trailer of claim 1, wherein the panel forms an angle between itself and the side wall that is greater than 90 degrees.
+ 4.  The travel trailer of claim 1, wherein the panel forms an angle between itself and the front wall that is greater than 90 degrees.
+ 5.  The travel trailer of claim 1, wherein the panel extends above the deck.
+ 6.  The travel trailer of claim 1, wherein the hitch couples to the mating hitch at a pivot location, the panel being located substantially rearward of the pivot location.
+ 7.  The travel trailer of claim 6, wherein the panel is located entirely rearward of the pivot location.
+ 8.  The travel trailer of claim 1, further including a cap attached to the compartment, the cap including a middle portion extending upwardly from the forwardmost edge member.
+ 9.  The travel trailer of claim 8, wherein the middle portion is disposed forward of the forwardmost edge member.
+ 10.  The travel trailer of claim 1, wherein the panel has a width that is less than one half an overall width of the deck.
+ 11.  The travel trailer of claim 1, wherein the panel has a width that tapers with distance away from the forwardmost edge member.
+ 12.  The travel trailer of claim 1, wherein the panel has a width that varies with vertical distance from the deck.
+ 13.  The travel trailer of claim 1, wherein the recess is located rearward of the forwardmost edge member.
+ 14.  A fifth wheel travel trailer, including: a compartment having a front end, a rear end, a floor and a deck located at the front end at a position higher than the floor;  a hitch connected to the deck at a location higher than the floor, the
+hitch being configured to couple to a mating hitch on a towing vehicle;  an outer front wall located adjacent the deck;  an outer side wall located adjacent the deck and connected to the front wall to form a corner;  a panel located between the side wall
+and the front wall at the corner;  and a chassis having a forwardmost edge member at the front end of the compartment and a side frame member positioned relative to the forwardmost edge member to define a recess, the panel being directed inwardly toward
+the interior of the compartment and upwardly from the forwardmost edge member, the panel providing clearance for a portion of the towing vehicle so as to permit the towing vehicle to make a tighter turn without striking the travel trailer, wherein the
+forwardmost edge member is located between the hitch and the panel.
+ 15.  A fifth wheel travel trailer for use with a towing vehicle having a cab, the travel trailer including: a chassis having a forwardmost edge member;  a compartment defining a first interior space having a first deck and a first interior
+height above the first deck, and a second interior space having a second deck and a second interior height above the second deck, the second deck being disposed higher than the first deck;  and a cap attached the compartment, the cap including a pair of
+recessed portions extending upwardly from the forwardmost edge member, and positioned rearward of the forwardmost edge member, to provide clearance to permit the vehicle to make a tighter turn without the cab striking the cap.
+ 16.  The fifth wheel travel trailer of claim 15, wherein the second interior height is greater than one half the first interior height.
+ 17.  The fifth wheel travel trailer of claim 15, wherein the chassis includes a frame that defines the second deck, the frame having corners at a front end of the compartment, the pair of recessed portions being received by cavities formed at
+the corners of the frame.
+ 18.  The fifth wheel travel trailer of claim 17, further including a hitch connected to the frame and configured to couple to a mating hitch attached to bed of the towing vehicle.
+ 19.  The fifth wheel travel trailer of claim 15, wherein the recessed portions extend inward toward the second interior space.
+ 20.  The fifth wheel travel trailer of claim 15, wherein the recessed portions are disposed between a side wall of the trailer and forward surface of the trailer.
+ 21.  The fifth wheel travel trailer of claim 15, wherein the chassis also includes a side frame member positioned relative to the forwardmost edge member to define a recess for receiving a recessed portion of the cap.
+ 22.  The fifth wheel travel trailer of claim 21, further including a hitch attached to the chassis and coupled to a mating hitch on the vehicle at a pivot location, the recessed portions being located substantially rearward of the pivot
+location.
+ 23.  The fifth wheel travel trailer of claim 22, wherein the recessed portions are located entirely rearward of the pivot location.
+ 24.  The fifth wheel travel trailer of claim 15, wherein the cap further includes a middle portion extending upwardly from the forwardmost edge member between the recessed portions, the middle portion being disposed forward of the forwardmost
+edge member.
+ 25.  The fifth wheel travel trailer of claim 15, further including a pair of sidewalls positioned on opposite sides of the second deck, each recessed portion being positioned adjacent a different one of the pair of sidewalls.
+ 26.  The fifth wheel travel trailer of claim 15, wherein one recessed portion faces away from a centerline of the trailer in one direction and the other recessed portion faces away from the centerline in another, different direction.
+ 27.  The fifth wheel travel trailer of claim 15, wherein each recessed portion has a width that is less than one half an overall width of the second deck.
+ 28.  The fifth wheel travel trailer of claim 27, wherein the width of each recessed portion tapers with distance away from the forwardmost edge member.
+ 29.  The fifth wheel travel trailer of claim 15, wherein each recessed portion has a width that varies with vertical distance from the second deck.
+ 30.  The fifth wheel travel trailer of claim 15, wherein each recessed portion is an inward directed corner.
+ 31.  The fifth wheel travel trailer of claim 15, wherein the pair of recessed portions are positioned entirely rearward of the forwardmost edge member.
+ 32.  The fifth wheel travel trailer of claim 15, wherein the recessed portions are substantially planar.
+ 33.  A fifth wheel travel trailer, including: a compartment having a front end, a rear end, a floor and a deck located at the front end at a position higher than the floor;  a hitch connected to the deck at a location higher than the floor, the
+hitch being configured to couple to a mating hitch on a towing vehicle at a pivot location;  an outer front wall located adjacent the deck rearward of the pivot location;  an outer side wall located adjacent the deck and connected to the front wall to
+form a corner;  a panel located between the side wall and the front wall at the corner;  and a chassis having a forwardmost edge member at the front end of the compartment and a side frame member positioned relative to the forwardmost edge member to
+define a recess, the panel being received by the recess and providing clearance for a portion of the towing vehicle so as to permit the towing vehicle to make a tighter turn without striking the travel trailer.
+ 34.  A fifth wheel travel trailer for use with a towing vehicle having a cab, the travel trailer including: a chassis having a forwardmost edge;  a hitch attached to the chassis and coupled to a mating hitch on the vehicle at a pivot location; 
+a compartment defining a first interior space having a first deck and a first interior height above the first deck, and a second interior space having a second deck and a second interior height above the second deck, the second deck being disposed higher
+than the first deck;  and a cap attached to the compartment, the cap including a middle portion disposed rearward of the pivot location and a pair of recessed portions extending upwardly from the forwardmost edge, and positioned rearward of the
+forwardmost edge to provide clearance to permit the vehicle to make a tighter turn without the cab striking the cap.
+ 35.  A fifth wheel travel trailer for use with a towing vehicle having a cab, the travel trailer including: a compartment defining a first interior space having a first deck and a second interior space having a second, uppermost deck positioned
+higher than the first deck;  a cap at a front end of the compartment, the cap including an outer front wall extending upwardly from the uppermost deck and a pair of opposite outer side walls extending upwardly from the uppermost deck;  upper portions of
+the sidewalls being connected to the front wall at respective upper junctures each forming an upper corner portion;  lower portions of the side walls being connected to the front wall at respective lower junctures each forming a lower corner portion
+between the front wall and a respective sidewall;  and a hitch attached to the uppermost deck and coupled to a mating hitch on the vehicle at a pivot location;  the lower corner portions being located entirely rearward of the pivot location and recessed
+inwardly of the respective upper corner portions when viewed vertically to provide clearance to permit the vehicle to make a tighter turn without the cab striking the cap.
+ 36.  A fifth wheel travel trailer for use with a towing vehicle having a cab, the travel trailer including: a compartment defining a first interior space having a first deck and a second interior space having a second, uppermost deck positioned
+higher than the first deck;  and a cap at a front end of the compartment, the cap including an outer front wall extending upwardly from the uppermost deck and a pair of opposite outer side walls extending upwardly from the uppermost deck;  upper portions
+of the sidewalls being connected to the front wall at respective upper junctures each forming an upper corner portion;  lower portions of the side walls being connected to the front wall at respective lower junctures each forming a lower corner portion
+between the front wall and a respective sidewall, the lower corner portions being recessed inwardly of the respective upper corner portions when viewed vertically to provide clearance to permit the vehicle to make a tighter turn without the cab striking
+the cap.
+ 37.  The fifth wheel travel trailer of claim 36, wherein each of the lower corner portions tapers in an upward direction.
+ 38.  The fifth wheel travel trailer of claim 36, wherein each of the lower corner portions are located rearward of a front edge of the uppermost deck.
+ 39.  The fifth wheel travel trailer of claim 36, further including a hitch attached to the uppermost deck and coupled to a mating hitch on the vehicle at a pivot location, the lower corner portions located rearward of the pivot location.
+ 40.  The fifth wheel travel trailer of claim 39, wherein the lower corner portions are located entirely rearward of the pivot location.
+ 41.  The fifth wheel travel trailer of claim 36, further including a chassis having a forward edge member and a side frame member positioned relative to the forward edge member to define a recess for receiving a lower corner portion of the cap.
+ 42.  The fifth wheel travel trailer of claim 36, wherein the lower corner portions are substantially planar.
+ 43.  The fifth wheel travel trailer of claim 36, wherein the lower corner portions extend above the uppermost deck.
+ 44.  The fifth wheel travel trailer of claim 36, wherein the lower corner portions extend inward toward the second interior space.
+ 45.  The fifth wheel travel trailer of claim 36, wherein the outer front wall of the cap is disposed forward of a forwardmost edge member of the uppermost deck.
+ 46.  The fifth wheel travel trailer of claim 36, wherein the lower corner portions each have a width that is less than one half an overall width of the uppermost deck.
+ 47.  The fifth wheel travel trailer of claim 46, wherein the width of each lower corner portion tapers with vertical distance away from the uppermost deck.  
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+The present application is
+related to and claims priority to U.S.  patent application Ser.  No. 12/315,894, filed on Dec.  8, 2008, now U.S.  Pat.  No. 7,878,545, entitled TRAVEL TRAILER HAVING IMPROVED TURNING RADIUS, which in turn claims priority from U.S.  patent application
+Ser.  No. 11/834,214, filed on Aug.  6, 2007, now U.S.  Pat.  No. 7,575,251, entitled TRAVEL TRAILER HAVING IMPROVED TURNING RADIUS, which in turn claims priority from U.S.  patent application Ser.  No. 11/091,070, filed Mar.  28, 2005, now U.S.  Pat. 
+No. 7,278,650, entitled TRAVEL TRAILER HAVING IMPROVED TURNING RADIUS, which in turn claims priority from U.S.  Provisional Patent Application Ser.  No. 60/557,302, filed on Mar.  29, 2004, entitled IMPROVED FIFTH WHEEL TRAILER.  All prior applications
+are hereby expressly incorporated into the present application by reference.
+BACKGROUND AND SUMMARY
+ The present disclosure relates generally to travel and fifth wheel-type trailers.  In particular, the present disclosure is related to the configuration of such trailers that are hitched to, and pivotable relative to, an attached towing vehicle.
+ Travel trailers and fifth wheel trailers are commonly known and used as campers or used for hauling.  Typically, fifth wheels are configured to be pivotably attached to pickup or similar type trucks.  The bed of the pickup truck has a mating
+hitch attached thereto configured to receive a hitch located on the underside of the forward end of the fifth wheel.  The fifth wheel often comprises an upper deck and a lower deck.  The upper deck is typically located forward on the fifth wheel and is
+configured to extend over the rear of the pickup truck so the hitch can attach to the mating hitch on the truck's bed at a pivot location on the centerline of the trailer.
+ An issue that has arisen in recent years with fifth wheels, precipitated by the development and popularity of extended-cab pickup trucks.  These extended-cab pickup trucks, which typically offer a second row of seating, extend the cab length
+often at the expense of the bed length.  A consequence of this is that more pickup trucks now exist with shortened beds than in the past.  Accordingly, the upper decks of conventional fifth wheels now occupy a greater portion of that shortened bed than
+in truck beds of the past.  The less space that exists between the cab of a short bed truck and the forward end of the fifth wheel, the more impaired the turning radius of the truck can be.
+ Conventionally, the upper deck of a typical fifth wheel has a rectangular or parallelogram-shape footprint whose forward corner edges form right angles.  The compartment extending upward therefrom is similarly cubicle and includes right-angled
+corner edges as well.  These right-angled corner edges of the fifth wheel have a propensity to hit the rear corner of the cab of a tow vehicle if the turning radius of that vehicle becomes too great.  As a result, the driver of the tow vehicle is
+required to either take broader turns or engage specialty hitches that extend the distance between the cab and the fifth wheel.  These are not always desirable options because often there may not be available space to make a broad turn, and specialty
+hitches are cumbersome and expensive.  Typically, these hitches are engaged before the turn and disengaged after the turn.  It would, therefore, be beneficial to provide an alternative design of fifth wheel or travel trailer that is configured to
+increase the turning radius of the vehicle.
+ Accordingly, an illustrative embodiment of the present disclosure provides a travel trailer characterized by a chassis assembly coupled to a wheel assembly.  A compartment is provided having at least one side wall and a forward wall.  A hitch
+assembly is located adjacent the chassis assembly, and the forward wall.  The hitch assembly is configured to couple to a mating hitch on a towing vehicle.  The travel trailer also comprises a panel located between the side and forward walls.  The panel
+forms an angle between itself and at least the side wall that is greater than 90 degrees.
+ In the above and other illustrative embodiments, the travel trailer may also comprise: the angle formed between the side wall and the panel reduces any right-angled attachment between the side and forward walls to improve the towing vehicle's
+turning radius relative to the travel trailer; the panel forms an angle between itself and forward wall that is greater than 90 degrees; the panel eliminates any right-angle attachment between the side and forward walls; and the chassis assembly
+comprises a recess at edges adjacent the panel.
+ Another illustrative embodiment of the travel trailer comprises a chassis, a wheel assembly, a hitch assembly, and an outer coupling rail.  The chassis includes a front end and a rear end.  The chassis also includes a front outer frame rail
+located substantially perpendicular to a side outer frame rail.  The wheel assembly is coupled to the chassis adjacent the rear end.  The hitch assembly is attached to the chassis adjacent the front end.  The outer coupling rail extends between the front
+and side frame rails.  The outer coupling rail forms an angle between itself and at least the side frame rail at a front edge of the travel trailer that is greater than 90 degrees.
+ In the above and other illustrative embodiments, the travel trailer may also comprise: the coupling rail forming an angle between itself and the front frame rail that is greater than 90 degrees to improve the towing vehicle's turning radius
+relative to the travel trailer; the coupling rail eliminating a right-angle attachment between the side and front frame rails; and a compartment attached to the chassis at the front edge adjacent the outer coupling rail which comprises an inwardly
+oriented recess that extends from the chassis.
+ Another illustrative embodiment of the travel trailer comprises a chassis, a forward panel, at least one side panel, and a corner panel.  The chassis assembly comprises a hitch assembly adjacent a front end of the trailer and a plurality of
+wheels adjacent a rear end of the trailer.  The forward panel is located at the front end.  The corner panel joins the forward and side panels but does not form a right-angled vertex between the forward and side panels.  This allows an increased turning
+radius for the trailer as compared to forward and the side panels that join to form a right-angled vertex.
+ In the above and other illustrative embodiments, the travel trailer may also comprise: the corner panel forming a recess at a front edge of the travel trailer; the chassis assembly comprising a frame assembly having a corner rail located at a
+front corner of the frame that does not form a right-angled vertex at the front corner of the frame; and a compartment having right and left front corners, each of which is recessed inwardly to allow an increased turning radius for the trailer as
+compared to front edges having a right-angled vertex.
+ Another illustrative embodiment of the travel trailer comprises a chassis, a compartment, and a corner panel portion.  The chassis comprises a hitch assembly adjacent a front end of the trailer and a plurality of wheels adjacent a rear end of
+the trailer.  The compartment comprises at least a forward panel portion located at the front end and at least one side panel portion.  The corner panel joins the forward and the side panels and recesses inwardly toward the interior of the compartment to
+allow an increased turning radius for the travel trailer as compared to forward and the side panels that join to form a right-angled vertex.
+ Another illustrative embodiment is a travel trailer for use with a towing vehicle.  The towing vehicle has a mating hitch coupled thereto and is configured to haul the travel trailer.  The travel trailer further comprises a chassis and a hitch. 
+The chassis itself comprises first and second longitudinally extending side frame members, forward and rearward cross-members, and a first brace.  The first and second longitudinally extending side frame members are oriented substantially parallel to
+each other and located exteriorly on the chassis.  The forward and rearward cross-members are oriented substantially perpendicular to the first and second side members.  The forward cross-member is also located exteriorly on the chassis and whose end
+does not attach to a corresponding end of the first side member.  The first brace is attached adjacent the ends of forward cross-member and the first side member, and is located exteriorly on the chassis, and is oriented non-parallel to both the forward
+cross-member and the first side member.  The hitch is attached to a portion of the chassis and couples with the mating hitch on the towing vehicle.
+ In the above and other illustrative embodiments, the travel trailer may also comprise: the towing vehicle having a bed that has the mating hitch attached thereto, and wherein a portion of the chassis is located over the bed; a compartment
+attached to the chassis and at least one recessed corner edge located at a forward end of the trailer adjacent the first brace to allow an increased turning radius for the travel trailer; and a frame having angled corner edges adjacent the recesses at
+the front end of the compartment.
+ Another illustrative embodiment is a travel trailer configured to be coupled to, and towed by a vehicle.  The travel trailer comprises, a compartment attached to a chassis that includes a front end and a rear end.  A plurality of wheels is
+attached to the chassis adjacent the rear end and a hitch assembly is attached to the chassis adjacent the front end.  The compartment at the front end of the chassis forms first and second corners.  A recess is located at each corner edge of the
+compartment such that cavities formed by each recess may receive a portion of the vehicle while the vehicle is engaged in a turn.
+ Another illustrative embodiment is a travel trailer configured to be coupled to, and towed by a vehicle.  The travel trailer comprises a compartment attached to a chassis that includes a front end and a rear end.  A plurality of wheels is
+attached to the chassis adjacent the rear end and a coupling is attached to the chassis adjacent the front end.  The front end of the chassis forms first and second corner edges that are recessed.
+ Another illustrative embodiment is a travel trailer configured to be coupled to, and towed by a vehicle.  The travel trailer comprises a chassis assembly, a hitch, a compartment and a cap.  The chassis assembly includes front and rear ends.  The
+hitch is attached to the chassis assembly adjacent the front end.  The compartment is attached to the chassis assembly.  The cap is located at the front end of the chassis and attached to the compartment.  The cap has at least one front corner edge that
+includes a recess directed inward toward the compartment.
+ In the above and other illustrative embodiments, the travel trailer may also comprise: the cap further comprising a second front corner edge that also includes a recess directed inward toward the compartment; the space formed by the recesses
+being configured to receive a portion of the vehicle when engaged in a turn; the cap being a monolithic structure; and the cap being a plurality of structures.
+ Additional features and advantages of the travel trailer will become apparent to those skilled in the art upon consideration of the following detailed description of the illustrated embodiment exemplifying the best mode of carrying out the
+travel trailer as presently perceived. BRIEF DESCRIPTION OF THE DRAWINGS
+ The present disclosure will be described hereafter with reference to the attached drawings which are given as non-limiting examples only, in which:
+ FIG. 1 is front perspective view of an illustrative trailer including recessed front corners according to an illustrative embodiment of the present disclosure;
+ FIG. 2 is a top perspective detail view of a front corner edge portion of the trailer and a rear cab portion of a tow vehicle engaged in a turn;
+ FIG. 3 is another top perspective detail view showing the other front corner edge portion of the trailer and the other rear cab portion of the tow vehicle engaged in a turn;
+ FIG. 4 is a top schematic view of an illustrative tow vehicle and a prior art trailer;
+ FIG. 5 is a top schematic view of the illustrative tow vehicle of FIG. 4 and a trailer according to an illustrative embodiment of the present disclosure;
+ FIG. 6 is a perspective view of a trailer frame according to an illustrative embodiment of the present disclosure;
+ FIG. 7 is a perspective view of a portion of the trailer frame of FIG. 6;
+ FIG. 8 is a detail perspective view of a portion of the trailer frame about section A of FIG. 7;
+ FIG. 9a is a top view of a portion of a prior art trailer frame;
+ FIG. 9b is a top view of a portion of the trailer frame of FIG. 6;
+ FIG. 10 is a perspective view of a portion of a trailer frame according to another illustrative embodiment of the present disclosure;
+ FIG. 11 is a perspective view of the portion of the frame of FIG. 10 including a front cap assembly coupled thereto;
+ FIG. 12 is a perspective view of a portion of a trailer frame according to another illustrative embodiment of the present disclosure;
+ FIG. 13 is a perspective view of the portion of the frame of FIG. 12 including a front cap assembly coupled thereto;
+ FIG. 14 is a perspective view of a portion of a trailer frame according to another illustrative embodiment of the present disclosure; and
+ FIG. 15 is a perspective view of the portion of the frame of FIG. 14 including a front cap assembly coupled thereto.
+ Corresponding reference characters indicate corresponding parts throughout the several views.  The exemplification set out herein illustrates embodiments of the travel trailer, and such exemplification is not to be construed as limiting the
+scope of the travel trailer in any manner.
+DETAILED DESCRIPTION OF THE DRAWINGS
+ A front perspective view of an illustrative fifth wheel or travel trailer 2 is shown in FIG. 1.  The trailer shown in this view is commonly referred to as a fifth wheel trailer.  This trailer 2, as well as other trailer designs, generally
+comprises a compartment 4 that sits on a frame chassis 6 (see, e.g., FIGS. 6 through 15) which are tied to a plurality of wheels 8.  This trailer 2 includes a dual deck design having a step 10 located near the front end 12 of trailer 2 between a lower
+deck 11 and an upper deck 16.  The step 10 allows the upper deck 16 of compartment 4 to extend over the bed of a tow vehicle 14 such as a pickup truck.  (See also FIG. 2.) Attached to upper deck 16 of trailer 2 is a hitch assembly 18.  This hitch
+assembly 18 is located adjacent the front end 12 of trailer 2, as well.  The hitch assembly 18 is configured to engage a mating hitch assembly, typically located on bed 22 of the vehicle 14.  (See, e.g., FIG. 2.)
+ The forward most end of the compartment comprises an illustrative forward end cap 24.  In this illustrative embodiment, end cap 24 comprises a front wall at the middle portion of the cap 24 referred to as forward face 26, recessed corner edges
+28, 30 and side panels 32, 34.  Recessed portions 28, 30 extend upward from the lower edge of the upper deck 16 and each have a width at the lower edge that tapers with distance away from the lower edge.  Illustratively, the forward face 26 is bowed
+outwardly from compartment 4 with its apogee located near the vertical center of the same, as shown in FIG. 1.  Also, as one illustrative embodiment, the recessed corner edges 28, 30 follow a similar contour as forward face panel 26.  This allows a
+portion of the compartment to extend forward of the rear end of passenger compartment 36 of tow vehicle 14.  (See, e.g., FIG. 5.) In addition, at least a portion of the front corners of the trailer 2 are occupied by the recessed corner edges 28, 30. 
+Clearance provided by recessed corner edges 28, 30 is particularly useful for fifth wheels and other trailers that include an upper deck 16 similar to that shown herein.  Since the portion of the compartment located over planar, uppermost upper deck 16
+is adjacent the rear end of passenger compartment 36 on vehicle 14, limited distance between the two structures may exist.  It is this limited distance that inhibits the turning radius of the vehicle 14.  As shown in FIG. 1, the space formed by the
+inward directed, arcuate profile corners, can receive a portion of compartment 36, thus creating enhanced turn radiuses, as compared to conventional right-angle vertex cornered edges of conventional trailers.  The distinction between the two corner types
+is illustratively indicated by reference numeral 38.  Thus, recessed corner edges 28, 30 are directed inwardly toward the interior of compartment 4, the effective turn radius available for the trailer can be enhanced over conventional fifth wheel or
+other travel trailers having standard 90 degree corner edges.
+ It is appreciated that alternative embodiments of forward end cap 24 may include any number of shapes having inward directed corners.  Cap 24 may also be manufactured from a plurality of panels, or may be a monolithic molded or formed structure. Illustratively, in one embodiment, forward face 26 may comprise a separate forward panel, separate recessed, and/or even separate angled panels attached thereto, along with separate side panels attached thereto.  It is further appreciated that in other
+illustrative embodiments, the recessed corner edges can be of varying shape, depth, contour, and angle to accommodate and increase the turning radius of the attached vehicle.
+ A top perspective detail view of recessed corner edge 30 of trailer 2 coupled to vehicle 14 which is engaged in a turn, is shown in FIG. 2.  A cavity 42 produced by the contour of recessed corner edge 30 receives at least a portion of corner 44
+of vehicle 14.  As shown in this view, mating hitch assembly 20 is attached to bed 22 of vehicle 14 and is engaged to hitch assembly 18 to pivotably attach trailer 2 to vehicle 14.  (See, also, FIG. 3.) This view demonstrates how such a turn would not be
+possible without recessed corner edge 30.  Side wall 34, if extended more forwardly on trailer 2, along with front face 26 extending its width, a conventional right-angle corner edge would be formed that would become crushed during such a tight turn
+shown therein.  From this view it is appreciated that the recessed corner edge 30 can be contoured as desired, so its cavity 43 receives a portion of the corner of the cab of the vehicle having any unique or conventional configuration.  (See FIG. 3.) It
+is contemplated herein that the invention is not limited to the specific size, shape, and contour of the recessed portion.  It can further be seen from this view how the arcuate contour of forward end cap 24 can increase the amount of available space in
+the compartment by being able to extend over at least a portion of passenger compartment 36 of vehicle 14.  (See, also, FIG. 5.) This may be achieved either independently or in combination with recessed corner edges 28, 30.
+ Another top perspective detail view showing an opposite turn of vehicle 14 with respect to trailer 2, is shown in FIG. 3.  This view demonstrates how recessed corner edge 28, similar to that shown with respect to recessed corner edge 30, can
+increase the turn radius of vehicle 14.  Such a sharp turn, as depicted in this view, could not be achieved with a trailer having conventional right-angled corner edges.
+ To further illustrate, a top schematic view of tow vehicle 14 hitched to a prior art, conventionally shaped trailer 46, is shown in FIG. 4.  As vehicle 14 turns in direction 48, the corner 50 of prior art trailer 46 impacts rear corner 44 of
+passenger compartment 36 at a relatively shallow angle.  This produces a relatively large crush zone as indicated by reference numeral 52 at impact 54.  Because the forward corners of prior art trailer 46 include corners having right-angled edges as
+indicated by reference numerals 50 and 56, the turn radius is relatively small, as indicated by reference numeral 58.
+ In contrast, as shown in FIG. 5, the same vehicle 14 is shown making a turn with an illustrative embodiment of trailer 2 hitched thereto.  As shown, when vehicle 14 turns in direction 48, the recessed corner edge 30 provides enough clearance to
+create a relatively large turn radius, indicated by reference numeral 60, and has a relatively small crush zone 62 at impact point 64.  As is also shown, the recessed portion 30 lies in a first plane and faces away from the pivot location of mating hitch
+assembly 20 in one direction and recessed portion 28 lies in a second plane and faces away from the pivot location in another direction.  It is also appreciated from this view how the illustrative arcuate shape of forward end cap 24, as described with
+respect to FIG. 1, may enhance the available space within compartment 4.  In this view it is shown that the forward edge 66 is recessed towards the interior of compartment 4 relative to the forward most point of forward end cap 24.  In one illustrative
+embodiment this combination between the arcuate shape of forward end cap 24 and the recessed positioning of forward edge 66 of chassis 6 provides a compromise between increased interior space of compartment 4 and the enhanced turning radius as shown.
+ A perspective view of an illustrative embodiment of chassis 6 is shown in FIG. 6.  Chassis 6 is illustratively a frame that the flooring and compartment are built upon.  Such framing includes side frame members 68, 70 extending longitudinal from
+front to rear and are joined by additional side frame members 72, 74.  In this illustrative embodiment, cross beams 76 extend between the side frame members 68 through 74.  Shown in this illustrative embodiment are also slide-out frame members 78 and 80. As discussed with respect to FIG. 1, this trailer includes a step 10 that provides the upper deck 16, herein formed on the chassis by side frame members 82, 84 and structurally secured by cross beams 86.  As shown herein, side frame members 82, 84 do not
+extend and attach directly to forward edge member or beam 88.  Rather, angled braces 90 and 92 extend between frame members 82, 84 and forward edge beam 88 respectively, as shown herein.  Angled braces 90, 92, thus, effectively eliminate the right-angled
+corner edges known to inhibit the turning radius of the vehicle relative to the trailer.  It is contemplated that the precise angle formed between, for example, frame members 82 and angled brace 90, can be of any angle to allow a recess to form.  As
+illustratively shown herein, the angle formed between the two structures is greater than 90 degrees.  The same is illustratively the case with the angle between forward edge beam 88 and both angled braces 90, 92 as shown herein.  Also shown are
+illustrative forward brace members 95, 96 which serve to strengthen chassis 6.
+ A perspective view of a portion of chassis 6 is shown in FIG. 7.  Specifically, shown is the upper deck portion 16 which includes side frame members 82, 84, and cross beams 86.  Forward edge beam 88 is shown attached to angled braces 90, 92,
+which are themselves attached to side frame members 82, 84, respectively.  A detail view of a forward corner of upper deck 16 is shown in FIG. 8.  This view further illustrates the attachment of angled brace 90 forward edge beam 88, and side frame member
+82.  It can be appreciated from this view how beam 88 and side frame member 82 do not directly attach, thus eliminating the right-angle corner edge that would otherwise be formed by their attachment.
+ Top views of the upper deck of the travel trailer are shown in FIGS. 9a and b. Specifically, FIG. 9a is a prior art version of such an upper deck, whereas FIG. 9b depicts upper deck 16 as discussed with respect to FIGS. 6 through 8.  Comparing
+the structure of 9a to the structure of 9b much is similar except for the forward corners and the forward edge beams.  For example, the prior art upper deck 94 uses side frame members 96, 98 to attach to forward edge beam 100 to form corner right-angled
+edges 50, 56.  (See, also, FIG. 4.) It is these corner edges that can limit the turning radius of vehicle 14 for the reasons previously discussed.  By comparison, such corner edges have been removed from upper deck 16, as indicated by reference numerals
+106, 104 in FIG. 9b.
+ Perspective views of another illustrative embodiment of an upper deck frame 106 are shown in FIGS. 10 and 11.  As shown in FIG. 10, many of the side frame members 82, 84, as well as cross beams 86, are the same or similar to that shown in the
+previous embodiments.  Furthermore, forward edge beam 88 is also positioned in a comparable location as prior embodiments.  This illustrative embodiment differs from the prior embodiments from the perspective that angled braces 90, 92 are attached to the
+ends of frame members and beams 82, 88 and 84, 88, respectively.  For example, angled brace 90 is attached to the terminus 108 of side frame member 82.  Similarly, angled brace 90 is attached to terminus 110 of forward edge beam 88.  Angled brace 92
+follows suit by attaching to side frame member 84 at terminus 112 and to forward edge beam 88 at terminus 114.  In this embodiment cross beams 116 and 120 illustratively provide structural support to the forward corners.
+ The perspective view of upper deck frame 106 in FIG. 11 shows an illustrative embodiment of forward end cap 24 attached thereto.  The angled braces 90, 92 accommodate the recessed corner edges 28, 30, as previously discussed.  As shown, the
+recessed corner edges 28, 30, which constitute lower corner portions of the cap 24 located at lower junctures connecting lower portions of the side walls and the front wall of the cap 24, are recessed inwardly (as described above) with respect to upper
+corner portions of the cap 24 located at upper junctures connecting upper portions of the side walls and the front wall of the cap 24.  It is appreciated that the recessed corner edges may follow the contour of braces 90, 92, or they may, as shown
+herein, form a differently shaped recessed cavity.  Further shown in this view are illustrative attachments 124, 126 which are configured to be used to attach end cap 24 with compartment 4.  It is appreciated, however, that other means of attachment
+and/or sealing can be employed.
+ Perspective views of another illustrative embodiment of upper deck 130 of a trailer are shown in FIGS. 12 and 13.  As shown in FIG. 12, upper deck 130 is similar in several respects to the prior embodiments, including side frame members 82, 84,
+as well as cross beams 86 extending there across.  The distinction from the previous embodiments is that angled braces 90, 92 are removed completely which illustratively provides an even deeper recess within the forward corners of the deck 130.  As
+shown, cross beams 116, 120 serve as the outer structure of deck 130 at the forward corners.  Although cross beam 116 forms a right-angle attachment with side frame member 82, and cross beam 120 does the same with forward edge beam 88, frame member 82
+does not attach to forward edge beam 88 to form a right-angled corner edge as disclosed in the prior art.  Rather the right angle attachments disclosed in this illustrative embodiment are directed inwardly toward the interior of compartment 4.  Similar
+to the previous embodiments, forward end cap 24 is shown attached to upper deck 130 in FIG. 13.  It is, again, appreciated that the recessed corner edges can be of any useful depth and may be formed to conform to the shape of the cavities created by
+cross beams 116, 120.  Conversely, as shown herein, recessed corner edges 28, 30 may also take a differing recess shape than the cavities formed by cross beams 116, 120.
+ Perspective views of another illustrative embodiment of upper deck 140 of a trailer are shown in FIGS. 14 and 15.  As shown in FIG. 14, upper deck 140 is similar in several respects to the prior embodiments, including side frame members 82, 84,
+as well as cross beams 86 extending there across.  The distinction from the previous embodiments is arcuate braces 142, 144.  As shown, cross beams 116 and 120 still serve as structural supports adjacent the forward corners.  Arcuate braces 142, 144,
+however, serve as the outer frame members at the forward corners, each attached to their respective frame members 82, 84, and both attached to forward edge beam 88.  The forward corners are still recessed as indicated by reference numerals 146, 148 which
+depict conventional forward frame corners.  (See, also, FIG. 9a.) Similar to the previous embodiments, forward end cap 24 is shown attached to upper deck 140 in FIG. 15.  It is, again, appreciated that the recessed corner edges 28, 30 can be of any
+useful depth and may be configured to conform to the shape of the cavities created by arcuate braces 142, 144.  Conversely, as shown herein, recessed corner edges 28, 30 may also take a differing recess shape than the cavities formed by cross beams 116,
+120.
+ Although the present disclosure has been described with reference to particular means, materials and embodiments, from the foregoing description, one skilled in the art can easily ascertain the essential characteristics of the present disclosure
+and various changes and modifications may be made to adapt the various uses and characteristics without departing from the spirit and scope of the present invention as set forth in the following claims.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

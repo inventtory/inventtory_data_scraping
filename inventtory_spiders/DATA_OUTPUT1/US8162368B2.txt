@@ -1,0 +1,395 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4087&p=82&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8162368B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8162368B2
+
+
+patent_name: 
+Vehicle console having molded end parts
+
+
+patent_publish_date: 
+April 24, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ A reconfigurable vehicle console having two substantially rigid end
+     panels, wherein at least one and optionally both of the two end panels
+     consist of a molded material. A pair of substantially rigid side panels
+     are interconnectable with the two end panels. A plurality of face plates
+     are securable with the side panels.
+ 
+
+
+inventors: 
+Carnevali; Jeffrey D. (Seattle, WA) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+
+
+
+family_ID: 
+42098197
+
+
+application_number: 
+12/383,663
+
+
+filed_date: 
+March 27, 2009
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+Issue Date,  , 12287622, Oct 10, 2008, 7802832
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20100090492 A1
+
+
+prior_pub_data_publication_date: 
+Apr 15, 2010
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F1417401, 1417401, May 1922, Mahoney,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3550001, 3550001, December 1970, Hanley,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3931894, 3931894, January 1976, Murphy,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3964810, 3964810, June 1976, Murphy,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3984161, 3984161, October 1976, Johnson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4116513, 4116513, September 1978, Ullman, Jr.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4313646, 4313646, February 1982, Millhimes et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4577788, 4577788, March 1986, Richardson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4733900, 4733900, March 1988, Fluharty,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4846382, 4846382, July 1989, Foultner et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5005898, 5005898, April 1991, Benedetto et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5128830, 5128830, July 1992, Deluca et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5174621, 5174621, December 1992, Anderson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5181555, 5181555, January 1993, Chruniak,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5199273, 5199273, April 1993, Silva et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5199772, 5199772, April 1993, Jordan,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5223977, 5223977, June 1993, Bennett,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5259655, 5259655, November 1993, Anderson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5282556, 5282556, February 1994, Bossert,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5338081, 5338081, August 1994, Young et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5418836, 5418836, May 1995, Yazaki,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5462350, 5462350, October 1995, Brightman et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5503565, 5503565, April 1996, McCoy,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5680974, 5680974, October 1997, Vander Sluis,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5743585, 5743585, April 1998, Pranger et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5775825, 5775825, July 1998, Hong et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5857726, 5857726, January 1999, Yokoyama et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5894007, 5894007, April 1999, Younessian et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6048020, 6048020, April 2000, Gronowicz et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6062623, 6062623, May 2000, Lemmen,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6086129, 6086129, July 2000, Gray,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6123377, 6123377, September 2000, Lecher et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6176534, 6176534, January 2001, Duncan,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6198633, 6198633, March 2001, Lehman et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6246580, 6246580, June 2001, Weng,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6315347, 6315347, November 2001, Gotz,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6388881, 6388881, May 2002, Yamauchi et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6428072, 6428072, August 2002, Moore,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6431580, 6431580, August 2002, Kady,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6504710, 6504710, January 2003, Sutton et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6557955, 6557955, May 2003, Saravis,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6709041, 6709041, March 2004, Hotary et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6816391, 6816391, November 2004, Davis et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6843521, 6843521, January 2005, Oana,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6990909, 6990909, January 2006, Gosling et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7048346, 7048346, May 2006, Saravis,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7149081, 7149081, December 2006, Chen et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7165687, 7165687, January 2007, Stevens et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7166799, 7166799, January 2007, Chen et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7184261, 7184261, February 2007, Chung,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7210725, 7210725, May 2007, Moore,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7252196, 7252196, August 2007, Koefelda et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7407210, 7407210, August 2008, Arbaugh et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7416235, 7416235, August 2008, Rajappa et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7472969, 7472969, January 2009, Saravis,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7495925, 7495925, February 2009, Chen et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7644830, 7644830, January 2010, Vroon,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7663881, 7663881, February 2010, Kuo,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20050035618&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2005/0035618, February 2005, Toth et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060250052&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0250052, November 2006, Davis et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070145870&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0145870, June 2007, Uffner et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20080024969&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2008/0024969, January 2008, Sun et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090072565&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0072565, March 2009, Mayne, Jr.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20100218350&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2010/0218350, September 2010, De La Fuente et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20100246155&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2010/0246155, September 2010, Snider et al.
+
+
+references_primary_examiner: 
+Patel; Kiran B.
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+
+
+
+other_references_attorney_agent_or_firm: 
+Rupnick, Attorney at Law; Charles J.
+
+
+patent_claims: 
+What is claimed is:  1.  A reconfigurable modular console, comprising: two substantially rigid end portions, at least one of the two end portions further consisting of a molded material;  a pair
+of substantially rigid side panels each being interconnectable in a removable manner with the two end portions and removable from interconnection therewith;  and a face plate comprising portions thereof securable with a respective one of the side panels,
+whereby the console is a reconfigurable modular console, wherein the pair of side panels being interconnected with the end portions and having the face plate secured thereto further comprises a reconfigurable modular console.
+ 2.  The console of claim 1 wherein the one end portion that consists of a molded material further comprises a plurality of substantially smooth, continuously rounded edge contours.
+ 3.  The console of claim 2 wherein two of the plurality of substantially smooth edge contours further intersect at a substantially smooth, continuously rounded corner contour.
+ 4.  The console of claim 3 wherein one or more of the plurality of substantially smooth edge contours further comprises a round.
+ 5.  The console of claim 4 wherein the corner contour further comprises a round.
+ 6.  The console of claim 1, further comprising a plurality of the face plates, and wherein one or more of the face plates further comprises a cutout there through.
+ 7.  The console of claim 1 wherein each side panel further comprises a clamping surface structured to receive one or more of the connectors operable for securing the face plate thereto;  and wherein a spacing between the clamping surfaces of the
+side panels is substantially constant.
+ 8.  The console of claim 7, further comprising a plurality of the pairs of substantially rigid side panels, each of the plurality of pairs of side panels being interchangeably interconnectable with the two end portions and removable from
+interconnection therewith, and at least one pair of the plurality of pairs of side panels having a different length from a second pair thereof, and wherein the reconfigurable modular console further comprises different side lengths as a function of
+different ones of the pairs of side panels being alternately interconnected with the two end portions.  
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+FIELD OF THE INVENTION
+ The present invention relates to vehicle consoles and in particular to one that provides novel molded end panels, the console being mountable within a vehicle driver compartment to support equipment in a location easily accessible to a driver of
+the vehicle.
+BACKGROUND OF THE INVENTION
+ Police officers, public safety officers, firefighters, paramedics and the like carry various types of equipment in their vehicles.  Several pieces of equipment are often carried in a single vehicle, and the driver often needs to operate the
+equipment while simultaneously driving the vehicle.  Thus, various devices exist to secure multiple pieces of equipment within a vehicle so that they are accessible to the driver and/or other persons in the vehicle driver compartment.
+ These devices commonly include a hollow rectangular box situated on the floor of the vehicle between the driver seat and front passenger seat, including a horizontal top portion having an upwardly facing opening for receiving pieces of
+equipment.  Police cruisers, for example, are commonly fitted with equipment boxes of this type.  The boxes are used to house various types of equipment and controls used by police officers, such as radios, siren controls and light bar controls. 
+Typically, the boxes are sized and positioned so that most of the box extends between the driver seat and the front seat.  Only a small portion, if any, of the box will extend forward toward the dashboard beyond the driver seat and front passenger seat. 
+In some police cruisers, the equipment box extends all the way back to the prisoner partition separating the rear seating area from the driver compartment.  A laptop computer is often positioned between the box and dashboard, and is secured to the
+vehicle floor with various types of mounting hardware.
+ Systems employing the conventional equipment box described above suffer from a number of problems associated with the structure of the box.  The box includes machined side and end panels, typically of steel or an aluminum alloy.  Well known
+limitations of metal working require the metal end panels of the prior art to have square and sharp edges and corners that, even when broken, remain uncomfortable and even dangerous to the vehicle driver and passengers.  Even when manufactured of bent
+sheet metal, consoles of the prior art have relied on square corners and edges without significant rounding or beveling.
+ The conventional equipment box configuration described above thus fails to provide safe corner and edge configurations, and the vehicle occupants are discomforted and even endangered.
+ Furthermore, consoles of the prior art are manufactured in fixed lengths so that changing the console's length requires replacement with an entire new console.
+SUMMARY OF THE INVENTION
+ The present invention is a reconfigurable vehicle console having two substantially rigid end panels, wherein at least one and optionally both of the two end panels consist of a molded material.  A pair of substantially rigid side panels are
+interconnectable with the two end panels.  A plurality of face plates are securable with the side panels.
+ According to another aspect of the novel console, each of the molded end panels has a plurality of substantially smooth edge contours that intersect at substantially smooth corner contours.  By example and without limitation, the contours are
+rounds.
+ According to another aspect of the novel console, the two molded end panels each terminate in opposing recessed side mounting surfaces wherein the side panels are seated recessed substantially flush with the exposed portions of the end panels.
+ According to another aspect of the novel console, a plurality of the pairs of the side panels are provided, with at least two of the plurality of pairs of side panels having different lengths.
+ According to another aspect of the novel console, a method is provided of configuring the vehicle console.
+ Other aspects of the invention are detailed herein. BRIEF DESCRIPTION OF THE DRAWINGS
+ The foregoing aspects and many of the attendant advantages of this invention will become more readily appreciated as the same becomes better understood by reference to the following detailed description, when taken in conjunction with the
+accompanying drawings, wherein:
+ FIG. 1 is a perspective view showing an example of the novel reconfigurable vehicle console;
+ FIG. 2 illustrates the novel reconfigurable vehicle console of FIG. 1 viewed from the opposite end;
+ FIG. 3 is a view of the novel reconfigurable vehicle console from its underside;
+ FIG. 4 is a section view of the novel console showing an interior view; and
+ FIG. 5 illustrates installation/removal of a face plate from the novel console.
+DETAILED DESCRIPTION OF PREFERRED EMBODIMENT
+ In the Figures, like numerals indicate like elements.
+ FIG. 1 is a perspective view that illustrates a novel reconfigurable vehicle console 10 having opposing first and second substantially rigid side panels 12 and 14 and opposing first and second substantially rigid end panels 16 and 18.  The end
+panels 16, 18 are formed with first and second opposing recessed side edge mounting surfaces 16c, 16d and 18c, 18d, shown in partial break away of side panels 12, 14, respectively.  The first edge mounting surfaces 16c, 18c of the end panels 16, 18 are
+substantially rigidly interconnected between first and second end connection portions 12a and 12b of the first side panel 12.  The second edge mounting surfaces 16d, 18d of the end panels 16, 18 are substantially rigidly interconnected between first and
+second end connection portions 14a and 14b of the second side panel 14.  Optionally, the side edge mounting surfaces 16c, 16d and 18c, 18d are recessed by about the thickness of the side panels 12, 14 such that the first and second end connection
+portions 12a, 12b and 14a, 14b of respective side panels 12 and 14 are approximately flush mounted with portions of the end panels 16, 18 exposed by the side panels 12, 14.
+ The first end connection portions 12a, 14a of two side panels 12, 14 extend substantially from a base 16a of the first end panel 16 to its crown 16b.  The second end connection portions 12b, 14b of two side panels 12, 14 extend substantially
+from a base 18a of the second end panel 18 to its crown 18b.  The first end connection portions 12a, 14a of two side panels 12, 14 and opposing edges of the first end panel 16 are formed with one or more cooperating connection points 13.  The second end
+portions 12b, 14b of two side panels 12, 14 and opposing edges of the second end panel 18 are formed with one or more cooperating connection points 15.  By example and without limitation, the first end connection portions 12a, 14a of two side panels 12,
+14 connect with the opposing edges of the first end panel 16 at the connection points 13 by means of connectors 13a, 13b and 13c.  The second end portions 12b, 14b of two side panels 12, 14 connect with the opposing edges of the second end panel 18 at
+the connection points 15 by means of connectors 15a, 15b and 15c.  The connectors 13a, 13b, 13c and 15a, 15b, 15c are, for example, threaded fasteners or other removable and interchangeable connectors.  The cooperating connection points 13 are formed in
+substantially identical positions on both the first end connection portions 12a, 14a of two side panels 12, 14 and the opposing edges of the first end panel 16.  The cooperating connection points 15 are formed in substantially identical positions on both
+the second end portions 12b, 14b of two side panels 12, 14 and the opposing edges of the second end panel 18.  The side panels 12, 14 thus have cooperating connection points 13, 15 and with respective end panels 16, 18.  More or fewer connection points
+13, 15 are also contemplated and may be included or substituted without deviating from the scope and intent of the present invention.
+ The end panels 16, 18 are substantially the same width such that the side panels 12, 14 are spaced apart a substantially uniform or constant distance 17 between the end panels 16, 18, thereby forming a substantially rectangular support frame 19.
+ Furthermore, it is generally well known that consoles of the prior art are manufactured in fixed lengths so that changing the console's length requires buying a whole new console.  The method disclosed herein permits any of the original console
+manufacturer, the distributor, the wholesaler, retailer, installer or end user of the console 10 to change the console 10 to any of several lengths.  Accordingly, the console 10 is convertible to different lengths as illustrated in the figures.
+ Side panels 12, 14 are manufactured in different lengths L1, L2 and L3, all having the same first heights for each of the first end connection portions 12a, 14a, and the same second heights for each of the second end portions 12b, 14b.  The
+first end connection portions 12a, 14a of two side panels 12, 14 connect with the recessed edges of the first end panel 16 at substantially identical connection points 13 using either the same or identical connectors 13a, 13b, 13c.  Similarly, the second
+portions 12b, 14b of two side panels 12, 14 connect with the recessed edges of the second end panel 18 at substantially identical connection points 15 using either the same or identical connectors 15a, 15b and 15c.  Here, the console 10 is illustrated
+with a pair of side panels 12, 14 of a first length L1.
+ As illustrated herein, different side panels 12, 14 of any length L1, L2 and L3 are provided that mate with the opposing first and second substantially rigid end panels 16 and 18.  The only effective difference between different side panels 12,
+14 of different lengths is the angle of slope of the upper mounting lip 100 to the respective first and second end connection portions 12a, 12b and 14a, 14b.  This variation in the angle of slope of the upper mounting lip 100 for different lengths of the
+side panel pairs 12, 14 is only provided when the measurement from base 18a to crown 18b of the second end panel 18 is different from the measurement from base 16a to crown 16b of the first end panel 16.  Accordingly, regardless of length any pair of
+side panels 12, 14 of the same length L1, L2 or L3 may be interconnected between first and second end connection portions 12a, 12b and 14a, 14b of the respective side panels 12, 14.  Thus, by changing just a single component, the pair of side panels 12,
+14, the console 10 can lengthened or shortened to fit different needs or different vehicles.  In the prior art, the user could only change the length of a console by buying an entire new different console.  Now, by providing interchangeable pairs of side
+panels 12, 14 of different lengths L1, L2 and L3 the present invention makes it possible to lengthen or shorten the console 10 without buying a whole new console.  The present console 10 is a truly modular console system that can be reconfigured for use
+in different vehicles by just replacing side panels 12, 14, or just reconfigured for use in the same vehicle to accommodate more or fewer pieces of equipment or other utilities.
+ A plurality of substantially interchangeable face plates 20 are removably clamped to the side panels 12, 14 of the rectangular support frame 19 between the opposing end panels 16, 18.  For example, a plurality of the interchangeable face plates
+20 are removably clamped between the side panels 12, 14 for partially forming a top or upwardly facing surface 22 of the console 10 when installed.  One or more pair of releasable connectors 24, such as fasteners or releasable clamps, secures each of the
+face plates 20 to the side panels 12, 14.  More or fewer of the face plates 20 are utilized depending upon the length L1, L2 or L3 of the console side panels 12, 14.
+ FIG. 2 illustrates the novel reconfigurable vehicle console 10 of FIG. 1 viewed from the opposite end panel 18.  Here, the console 10 is assembled with a side panel pair 12, 14 having a second length L2 different from the length L1 illustrated
+in FIG. 1.  Accordingly, by simply changing the side panel pair 12, 14 to a pair having a different length the length of console 10 is changed.  More of the face plates 20 can be used with the longer console 10, thereby increasing its utility.
+ FIG. 3 is a view of the novel reconfigurable vehicle console 10 viewed from the underside opposite from the top or upwardly facing surface 22 and showing the interior portion 45 of the console 10.  Here, the side edge mounting surfaces 16c, 16d
+and 18c, 18d are more clearly illustrated as being optionally relieved or recessed by about the thickness of the side panels 12, 14 such that the first and second end connection portions 12a, 12b and 14a, 14b of respective side panels 12 and 14 are
+approximately flush mounted with portions of the end panels 16, 18 exposed by the side panels 12, 14.  As disclosed herein, the first end connection portions 12a, 14a of the two side panels 12, 14 connect with the opposing edges of the first end panel 16
+at the connection points 13 by means of connectors 13a, 13b and 13c.  The second end portions 12b, 14b of the two side panels 12, 14 connect with the opposing edges of the second end panel 18 at the connection points 15 by means of connectors 15a, 15b
+and 15c.
+ FIG. 4 is a section view of the console normal to the end panel 18 showing interior 45 of the console 10.  End panels of prior art consoles are machined, typically of steel or an aluminum alloy.  In contrast, as illustrated here, the first and
+second substantially rigid end panels 16, 18 (shown) of the present modular console 10 are molded, for example, of an injection moldable plastic, composite or metal material.  The first and second substantially rigid end panels 16, 18 of the present
+modular console 10 are thus manufactured easily and inexpensively as individual units of relatively rigid molded plastic, composite or metal parts.
+ As illustrated in herein, the first and second substantially rigid end panels 16 and 18 are molded with smooth, continuously rounded molded edges 122, 124 and 132, 134, respectively, which intersect at smooth, continuously rounded molded edges
+corners 126 and 136, respectively.  Such rounding of the edges and corners was unknown in the rigid end panels of prior art consoles at least because rounding corners and edges requires the material be thick enough to take the rounding without breaking
+through the corner.  For example, a 1/4 inch radius requires the manufacturer to begin with plate material at least 1/4 inch thick or thicker.  Such extremely thick material required to provide even a 1/4 inch round on corners and edges would make the
+end console product so heavy it could not be lifted by the end user.  Thus, to provide a viable product, the prior art relied on square corners and edges without significant rounding or beveling.  Else, the console was manufactured of sheet metal bent to
+provide rounded edges with open corners to permit folding.  This failure of the prior art to provide rounded corners and edges caused the consoles of the prior art to be square and sharp edged, which discomforted and even endangered the vehicle
+occupants.
+ In contrast to the uncomfortable and even dangerous square and sharp edged corners and edges provided by consoles of the prior art, the present modular console 10 utilizes molded first and second substantially rigid end panels 16, 18.  The
+molding process permits the substantially rigid end panels 16, 18 to have significantly rounded corners and edges for the safety and comfort of the user and other vehicle occupants.  As illustrated in FIG. 1, for example, the molded first end panel 16
+has substantially smooth, continuous molded edge contours 122 and 124 for its exposed side and top edges, as well as smooth, continuous molded top corner contours 126 at the exposed intersections of the side and top edge contours 122, 124.  For example,
+side and top edge contours 122, 124 are molded rounds or bevels that avoid dangerous sharp edges and generally smooth the contour of the console 10.  The top corner contours 126 are similarly molded rounds or bevels that avoid dangerous sharp corners and
+generally smooth the contour of the console 10.  A clearance recess 128 for the vehicle's drive line hump (not shown) in front-engine, rear-wheel drive automobiles is optionally provided in the molded end panel 16 with a molded interior edge round 130. 
+Clearance recess 128 for the vehicle drive line hump (not shown) in rear-wheel drive automobiles is also optionally provided in the molded second end panel 18 with molded interior edge round 130.  The molded second end panel 18 has smooth, continuous
+molded rounds 132 and 134 for its exposed side and top edges, as well as molded smooth, continuous top corner rounds 136 at the exposed intersections of the side and top rounds 132, 134.  All the exposed side and top edge contours 122, 124 and 132, 134,
+as well as the corner contours 126 and 136, are optionally about 1/2 inch radius rounds to ensure safety and comfort not available in prior art consoles.
+ The substantially rigid molded end panels 16, 18 of the present console 10 are thus manufactured easily and inexpensively as individual units of relatively rigid molded nylon, plastic, composite or metal parts, including the respective side edge
+rounds 122, 132, respective top edge rounds 124, 134, as well as respective top corner rounds 126, 136.
+ When molded of nylon, plastic or composite material the end panels 16, 18 remain substantially rigid as well as tough and sturdy but, in contrast to the prior art, are light weight.  Molding also permits easy formation of reliefs and reentrant
+hollows 140 that further lighten the end panels 16, 18.  End panels 16, 18 are optionally molded with one or more stiffening ribs 142.  By example and without limitation, the end panels 16, 18 are each molded with a plurality of the stiffening ribs 142
+such that substantial rigidity is retained despite reentrant hollows 140.
+ Threaded fasteners are often utilized for securing external attachments to the console.  Machined or folded sheet metal consoles of the prior art required the installer to access the interior portion 45 of the console 10 to fit a nut onto a
+threaded fastener.  If the interior portion 45 of the console 10 was not accessible, other complex solutions needed to be utilized, such as welding nuts to the end panels, or utilizing clips for holding the nuts while the threaded fastener was turned. 
+In contrast to such complex prior art solutions, one or more nut pockets 144 are optionally molded on interior surfaces 146 of the end panels 16, 18 in positions substantially concentric with corresponding molded-through apertures 148 for threaded
+fasteners.  Nut pockets 144 make easy supporting nuts for the threaded fasteners, without requiring access to the interior portion 45 of the console 10.  Additionally, wire feed through and other small access holes 150 are optionally molded through the
+end panels 16, 18 to their interior surfaces 146.
+ According to one embodiment, side nut pockets 152 are also provided in the molded end panels 16, 18.  Side nut pockets 152 hold nuts for engagement by the connectors 13a, 13b, 13c and 15a, 15b, 15c for securing the side panels 12, 14.  As shown
+in FIG. 5, nut pockets 152 may be accessed through the face 154 of either end panel 16, 18.
+ FIG. 5 illustrates installation/removal of one of the face plates 20 from the console 10.  As illustrated here, side panels 12, 14 are each further formed with an upper mounting lip 100 bent at right angles and facing one another inwardly across
+the console 10.  The mounting lips 100 support the face plates 20.  Furthermore, the mounting lips 100 are formed with a plurality of apertures 102 spaced substantially evenly there along.  The face plates 20 are secured to the mounting lips 100 pairs of
+releasable connectors 24.
+ Here, the console 10 is assembled with a side panel pair 12, 14 having a third length L2 different from the length L1 illustrated in FIG. 1 and the length L2 illustrated in FIG. 2.  Accordingly, by simply changing the side panel pair 12, 14 to a
+pair having a different length the length of console 10 is changed.  More of the face plates 20 can be used with the longer console 10, thereby increasing its utility.  However, the shorter console 10 assembled with the side panel pair 12, 14 of shorter
+length L1 or L2 may be a better fit in some vehicle applications.
+ While the preferred and additional alternative embodiments of the invention have been illustrated and described, it will be appreciated that various changes can be made therein without departing from the spirit and scope of the invention. 
+Therefore, it will be appreciated that various changes can be made therein without departing from the spirit and scope of the invention.  Accordingly, the inventor makes the following claims.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

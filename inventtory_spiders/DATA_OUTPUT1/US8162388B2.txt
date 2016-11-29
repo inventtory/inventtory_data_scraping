@@ -1,0 +1,389 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4067&p=82&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8162388B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8162388B2
+
+
+patent_name: 
+Multiple tube body side construction for automobiles
+
+
+patent_publish_date: 
+April 24, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ A body side construction for an automotive vehicle is formed from
+     multiple tubular members arranged to maximize the strength of the body
+     side members while minimizing the amount of material utilized in the
+     manufacture of the body side members and, thus reducing the cost of
+     manufacture of the automobile. The body side members are formed from
+     tubular members preferably manufactured through a hydroforming process.
+     The tubular members extend from the front pillar to the rear pillar and
+     can vary in number and in size as appropriate for the load being carried
+     by the body side members. The tubular members can also be used to
+     transition from the body side portion of the automobile to the roof
+     structure to provide an integrated frame assembly. The formation of the
+     body side members from multiple tubular members also creates an internal
+     reinforcement web to further enhance the strength of the section.
+ 
+
+
+inventors: 
+**Please see images for: ( Certificate of Correction )  **Balzer; Jason (Walled Lake, MI), Queener; Lawrence (Pinckney, MI), Lowe; James (Temperance, MI), Gericke; Dean (Brighton, MI) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Ford Global Technologies, LLC  (Dearborn,  MI)   
+
+
+family_ID: 
+38875831
+
+
+application_number: 
+11/480,618
+
+
+filed_date: 
+July 3, 2006
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20080001437 A1
+
+
+prior_pub_data_publication_date: 
+Jan 3, 2008
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F1767825, 1767825, June 1930, Terres,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2185345, 2185345, January 1940, Krogh,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3292969, 3292969, December 1966, Eggert, Jr.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3622177, 3622177, November 1971, Notestine et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4826238, 4826238, May 1989, Misono et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4917435, 4917435, April 1990, Bonnett et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4986597, 4986597, January 1991, Clausen,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5096254, 5096254, March 1992, Sparke,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5201566, 5201566, April 1993, Mori,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5213386, 5213386, May 1993, Janotik et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5269585, 5269585, December 1993, Klages et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5338080, 5338080, August 1994, Janotik et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5549352, 5549352, August 1996, Janotik et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5660427, 5660427, August 1997, Freeman et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5720511, 5720511, February 1998, Benedyk,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5779271, 5779271, July 1998, Dorow et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5839777, 5839777, November 1998, Vlahovic,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6022070, 6022070, February 2000, Ashina et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6092865, 6092865, July 2000, Jaekel et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6139094, 6139094, October 2000, Teply et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6189962, 6189962, February 2001, Henderson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6260912, 6260912, July 2001, Mondragon Sarmiento et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6419304, 6419304, July 2002, Richardson et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6508505, 6508505, January 2003, Perry,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6523879, 6523879, February 2003, Mizuta,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6543841, 6543841, April 2003, Ohkubo,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6896319, 6896319, May 2005, Huang et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6921077, 6921077, July 2005, Pupo,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6976730, 6976730, December 2005, Mally et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7044535, 7044535, May 2006, Durand,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7077459, 7077459, July 2006, Toth et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7128363, 7128363, October 2006, Fischer,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7213874, 7213874, May 2007, Osterberg et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7237832, 7237832, July 2007, Saeki,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7243985, 7243985, July 2007, Yatabe et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7246846, 7246846, July 2007, Shioji et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7322106, 7322106, January 2008, Marando et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7488022, 7488022, February 2009, Belwafa et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7543882, 7543882, June 2009, Day et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7614687, 7614687, November 2009, Nakamura et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F8029044, 8029044, October 2011, Akahane et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20010033096&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2001/0033096, October 2001, Hanyu,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20020190543&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2002/0190543, December 2002, Hanyu,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20020190544&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2002/0190544, December 2002, Yamamoto et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20040080182&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2004/0080182, April 2004, Adams et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20050200164&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2005/0200164, September 2005, Reed et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060028053&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0028053, February 2006, Turnbull et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060097549&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0097549, May 2006, Fischer et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070176467&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0176467, August 2007, Watanabe et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20080164707&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2008/0164707, July 2008, Belwafa et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20080203768&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2008/0203768, August 2008, Lowe,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20100237661&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2010/0237661, September 2010, Baccouche et al.
+
+
+references_primary_examiner: 
+Dayoan; Glenn
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+Chevenert; Paul
+
+
+other_references_attorney_agent_or_firm: 
+Owens, Esq.; Frederick
+Miller Law Group, PLLC
+
+
+patent_claims: 
+Having thus described the invention, what is claimed is:  1.  In an automotive vehicle body side frame having a front pillar, a rear pillar spaced longitudinally rearwardly of the front pillar,
+and a roof structure interconnecting the front and rear pillars, the roof structure including a roof side rail extending between the front and rear pillars, the improvement comprising: the roof side rail and the front pillar being formed from multiple
+tubular members including a rail outer tube, a roof header rail, a front roof rail, and a rear roof rail, configured such that: the front pillar being formed by a portion of the rail outer tube and a forward portion of the roof header rail extending
+along the rail outer tube;  the roof side rail being formed from the rail outer tube, a side portion of the front roof rail extending along the rail outer tube and a side portion of the rear roof rail;  the front roof rail further including a front leg
+oriented generally perpendicularly to the side portion of the front roof rail and a rear leg oriented generally parallel to the front leg and spaced rearwardly therefrom, the front leg of the front roof rail being joined with a corresponding front leg of
+the roof header rail to form a first transverse portion of the roof structure, the rear leg of the front roof rail being joined to a front leg of the rear roof rail to form a second transverse portion of the roof structure rearward of the first
+transverse structure;  and the rear pillar being formed by vertically oriented members independent of the roof side rail, the rail outer tube and the side portion of the rear roof rail joining the rear pillar and extending generally orthogonally
+therefrom.
+ 2.  The body side frame of claim 1 wherein the front roof rail is formed in a U-shaped configuration to mate against the roof header rail, the rear roof rail and the rail outer tube.
+ 3.  The body side frame of claim 2 wherein the roof header rail and the front roof rail are formed through a hydroforming process, the front roof rail being formed with varying cross-sectional configurations.
+ 4.  The body side frame of claim 3 wherein the rail outer tube is manufactured through a roll-forming process and presents a generally uniform cross-sectional configuration.
+ 5.  An automotive side body construction comprising: a rail outer tube forming a portion of a front pillar and extending rearwardly to a rear pillar to form a portion of a roof side rail;  a roof header tubular rail having a forward portion
+extending adjacent to the rail outer tube to form the front pillar therewith and a header portion extending generally transversely of the forward portion to form a portion of a roof structure;  and a front roof tubular rail having a side portion
+extending adjacent to the rail outer tube to form at least a portion of the roof side rail therewith and a front leg extending transversely of the side portion to mate with the header portion of the roof header tubular rail in forming a portion of the
+roof structure, the roof side rail, formed by the side portion of the front roof tubular rail and the rail outer tube, being joined to the rear pillar, formed by vertically oriented members independent of the roof side rail, to extend generally
+orthogonally therefrom.
+ 6.  The automotive side body construction of claim 5 further comprising: a rear roof tubular rail having a side portion extending adjacent to the rail outer tube to form a portion of the roof side rail extending forwardly of the rear pillar, the
+rear roof tubular rail having a front leg extending transversely of the side portion of the rear roof tubular rail, the front roof tubular rail further including a rear leg extending transversely of the side portion of the front roof tubular rail
+adjacent the front leg of the rear roof tubular rail.
+ 7.  The automotive side body construction of claim 5 wherein at least one of the roof header tubular rail and the front roof tubular rail are hydroformed to provide a varying cross-sectional configuration.
+ 8.  The automotive side body construction of claim 7 wherein the rail outer tube is formed with a generally uniform cross-sectional configuration.  
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+FIELD OF THE INVENTION
+ This invention relates to the frame of an automotive vehicle and, more particularly, to a body side configuration utilizing hydroforming technology.
+BACKGROUND OF THE INVENTION
+ The frame of an automotive vehicle supports an operator's compartment and includes a roof supported by generally vertical members commonly referred to as pillars.  For some vehicles, the roof is normally supported by front and rear pillars, also
+known as the "A" and "B" pillars.  Other vehicle configurations can include front and rear pillars with a support pillar between the front and rear pillars, in which case the front and rear pillars would be referred to as the "A" and "C" pillars and the
+intermediate pillar would be the "B" pillar.  The frame of the vehicle is required to withstand certain forces relating to roof strength of the vehicle.  Those roof strength standards help determine the configuration of the vehicle frame.  Automotive
+vehicles are often designed with an operator's compartment that includes a rear passenger seat and a set of rear doors that can be hinged on the rear pillars to provide an open span between the front and rear pillars when the front and rear doors are
+opened, or mounted on the intermediate pillar for opening in the same direction as the front doors.
+ These different frame configurations have a direct impact on the design of the frame components of the automobile.  The longer the unsupported open span, such as can be found on some pick-up trucks where the rear door hinges on the rear "B"
+pillar, the greater the challenge to support the load that must be transferred into the frame components to meet roof strength requirements.  The longer unsupported roof spans also, consequentially, increase the moment applied to the base of the rear
+pillar of the operator's cab in vehicles, such as pick-up trucks.
+ The known design strategy for the frame components forming the body side construction of an automotive vehicle is to manufacture these components through stamping and bending of sheet metal to form the individual frame components with a
+generally uniform cross-section that is consistent with these known manufacturing processes.  The size and shape of the cross-sectional configuration of the respective individual component is dictated by the strength required at the highest load point
+asserted on that individual component.  Efforts have been made over the years to modify the shape of the cross-section and the thickness of the sheet metal in attempts to maintain the requisite strength parameters while reducing the weight of the
+respective frame components, and thus the cost of production thereof.  Nevertheless, maintaining the generally uniform size and shape of the individual frame component results in a part or component that weighs more than required to carry the load.
+ Thus, it would be desirable to provide a body side construction for automobiles that can be tailored to correspond to the load encountered by the individual frame components by varying the cross-sectional size and/or shape as appropriate to
+carry the load distribution imposed thereon.
+SUMMARY OF THE INVENTION
+ It is an object of this invention to overcome the aforementioned disadvantages of the known prior art by providing a body side construction for automotive vehicles that is formed from multiple tubular members.
+ It is another object of this invention to provide a body side construction for automobiles that can be selectively tailored to carry the load imposed thereon along each respective portion of the individual frame members.
+ It is a feature of this invention that the body side construction can be formed from multiple tubular members that can be positioned and oriented to carry the loading along the length of each respective portion of the body side members.
+ It is an advantage of this invention that the tubular members can be formed through a hydroforming process.
+ It is another feature of this invention that body side construction for automotive vehicles can carry an extra tubular member where heavy loads are encountered.
+ It is another advantage of this invention that the tubular members can be oriented to extend from the body side portion of the automotive frame across the roof structure of the automobile.
+ It is still another advantage of this invention that the cross-sectional size of each tubular member can be varied as appropriate to carry the load along the length of the body side members.
+ It is still another feature of this invention that the cross-section of the body side members, as reflected in the tubular members joined together to form the body side member, can be varied to maximize the strength of the body side members.
+ It is yet another advantage of this invention that the cost of construction of the body side members for an automotive vehicle can be reduced by the appropriate distribution and deployment of tubular members forming the body side construction of
+the vehicle.
+ It is another object of this invention to provide a multiple tube body side construction for an automotive vehicle that is durable in construction, inexpensive of manufacture, carefree of maintenance, facile in assemblage, and simple and
+effective in use.
+ These and other objects, features and advantages are accomplished according to the instant invention by providing a body side construction for an automotive vehicle that is formed from multiple tubular members arranged to maximize the strength
+of the body side members while minimizing the amount of material utilized in the manufacture of the body side members and, thus reducing the cost of manufacture of the automobile.  The body side members are formed from tubular members preferably
+manufactured through a hydroforming process.  The tubular members extend from the front pillar to the rear pillar and can vary in number and in size as appropriate for the load being carried by the body side members.  The tubular members can also be used
+to transition from the body side portion of the automobile to the roof structure to provide an integrated frame assembly.  The formation of the body side members from multiple tubular members also creates an internal reinforcement web to further enhance
+the strength of the section. BRIEF DESCRIPTION OF THE DRAWINGS
+ The advantages of this invention will become apparent upon consideration of the following detailed disclosure of the invention, especially when taken in conjunction with the accompanying drawings wherein:
+ FIG. 1 is a side elevational view of a body side frame construction for an automotive vehicle incorporating the principles of the instant invention;
+ FIG. 2 is a partial perspective view of a first embodiment of the body side frame construction showing the respective tubular members;
+ FIG. 3 is a partial perspective view of a second embodiment of the body side frame construction showing the deployment of multiple tubular members forming the body side members;
+ FIG. 4 is a partial perspective view of another alternative embodiment of the body side frame construction;
+ FIG. 5 is an enlarged cross-sectional view of the body side member corresponding to lines 5-5 of FIG. 4;
+ FIG. 6 is an enlarged cross-sectional view of the body side member taken along lines 6-6 of FIG. 4;
+ FIG. 7 is a cross-sectional view of the prior art stamped and welded body side rail configuration.
+ FIG. 8 is an enlarged cross-sectional view of the front pillar with side by side tubular members taken along lines 8-8 of FIG. 4; and
+ FIG. 9 is a cross-sectional view of an alternative embodiment of the front pillar corresponding to the cross-sectional view of FIG. 8.
+DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT
+ Referring to the drawings, a body side frame construction for an automotive vehicle, such as an operator's cab of a pick-up truck, can be seen.  Any right or left references are used as a matter of convenience and are determined by standing at
+the rear of the vehicle and facing forward into the normal direction of forward travel.  The body side frame construction 10 includes a front pillar 12, a rear corner pillar 13 and a roof structure 15 extending between the front and rear pillars 12, 13. 
+The frame 10 of the operator's cab is formed with a generally vertical front (or "A") pillar 12 extending between the floor member 14 and the roof structure 15.  The rear pillar 13 completes the generally rectangular configuration of the body side frame
+construction 10 and is intended to mount by hinges (not shown) both front and rear doors (not shown).  The front door will normally hinge on the front "A" pillar 12, while the rear "B" pillar can support the hinges for the rear door.  The roof structure
+15 extends from the right side of the vehicle to the left side over top of the operator's cab, spanning between the transversely spaced front and rear corner pillars 12, 13.  The left and right sides of the vehicle are substantially identical mirror
+images of one another.
+ Each of the rear corner pillars 13, though only one is depicted in the drawings, is formed in a dual cell configuration.  Preferably the roof structure 15 will engage the rear corner pillar 13 in a manner to provide a smooth and integral
+transition from the rear pillar 13 into the roof side rails 16.  The roof side rails 16 extend forwardly and eventually forwardly and downwardly to create the front "A" pillar 12.
+ As can be seen in FIGS. 2-4, the front "A" pillar 12 is integrally formed with the roof side rails 16.  These components of the body side construction 10 are formed from tubular members, including a rail outer tube 17 that preferably extends
+from the front "A" pillar 12 to the rear corner pillar 13, a roof header rail 19, and a front roof rail 21.  The roof header rail 19 can have a forward portion 20 that co-extends along the rail outer tube 17 to form the front pillar 12.  The roof header
+rail 19 bends at the top end of the front pillar 12 to form a header portion 20a that projects across the front edge of the roof structure 15 toward the opposing roof header rail (not shown) from the opposing body side construction.  The front roof rail
+21 is formed with a front leg 22 that extends along the front portion of the roof structure 15 next to and rearwardly of the roof header rail 19 and bends rearwardly into a side portion 23 at the top of the front pillar 12 to extend rearwardly along the
+rail outer tube 17 toward the rear corner pillar 13.  The full roof structure 15 is formed when the corresponding side body frame members are welded together at the center of the roof structure 15.
+ In the embodiment depicted in FIG. 3, the roof structure 15 requires additional structural support from the body side frame construction.  To provide the additional strength required for the roof structure 15 in this particular embodiment, the
+front roof rail 21 is formed in a U-shape such that a rear leg 24 is integrally formed with the front leg 22 and the side portion 23 and the rear leg 24 extends across the roof structure 15 generally parallel to the front leg 22.  A rear roof rail 25 is
+utilized to complete the roof structure 15.  The rear roof rail 25 is formed with a front leg 27 that is positioned behind the rear leg 24 of the front roof rail 21 and bends into a side portion 29 next to the rail outer tube 17 to extend along the rail
+outer tube 17 to the rear pillar 13.
+ One skilled in the art can see that the formation of the body side frame components by tubular members allows the roof structure 15 to be integrally formed with the roof side rail 16 and the front pillar 12 without sacrificing strength.  The
+adjacent tubular rail outer tube 17 and the forward portion 20 of the roof header rail 19 form a strong front pillar 12 with an internal reinforcement web 18 created by the adjacent walls of the tubular members increasing the strength of the front pillar
+section.  Furthermore, the rail outer tube 17 can be a two inch tubular member that extends substantially uniformly from the lower end of the front pillar 12 to the rear pillar 13.  As such, the rail outer tube 17 can be roll-formed.  This size of
+tubular member can meet the minimum strength requirements of the roof side rail 16, while the addition of the other tubular members 19, 21 and 25, bolster the strength of the rail outer tube 17 to meet the maximum strength requirements.
+ As is best seen in FIGS. 4-6, the tubular members 19, 21 and 25 can be formed with varying cross-sectional size and shape to supplement the properties of the rail outer tube 17 to meet the strength requirements of any particular part of the body
+side frame members, 12, 16.  Accordingly, the rail outer tube 17 may be formed through conventional bending and forming processes, while the other tubular members, 19, 21, and 25 would preferably be formed through a hydroforming process so that the size
+and shape of the member can be varied as desired along the longitudinal length of the member.  As depicted in FIGS. 5 and 6, any particular portion 31 of the additional tubular members can be formed through the hydroforming process to have a larger and
+stronger cross-sectional configuration that the smaller portion 33.
+ Accordingly, instead of one large heavy gauge tube or a stamped and welded body side rail, as is depicted in FIG. 7, where the strength provided by the large heavy gauge member is only needed at one spot along the length of the body side rail
+16, the body side rail 16 is formed from individual tubular members that provide the required strength where needed, but reduces the size of the cross-section of the member where the strength is not needed to reduce the amount of material required to
+form the body side construction 10.  Less material results in less weight for the automobile and, therefore, less cost of manufacture.  Accordingly, the rail outer tube 17 can provide the strength needed for the body side rail 16 at the least loaded spot
+along the longitudinal length of the body side rail 16.  The joining of the additional tubular members 19, 21, and 25 to the rail outer tube 17 increases the strength of the body side construction 10 to correspond to the load imposed at any particular
+spot along the body side construction 10.  Since the hydroforming process can result in changes in the size and shape of the cross-section of the tubular member along the length of the member, as is reflected in the cross-sectional views of FIGS. 5 and
+6, the joining of the additional tubular members 19, 21 and 25 can be tailored exactly to the properties required at any particular spot along the body side frame members.
+ The utilization of the hydroforming process can provide a tailor made frame component that has the strength properties required for any particular loading application.  For example, the adjacent tubular members 17 and 19 forming the front pillar
+12 could be arranged as depicted in FIG. 8 in a side-by-side arrangement with the internal reinforcement web 18 oriented substantially vertically.  Alternatively, the co-extending tubular members 17, 19 could be arranged on top of one another, or formed
+generally triangularly, as is depicted in FIG. 9, to create a diagonally oriented internal reinforcing web 18, which provides different properties than the configuration depicted in FIG. 8.  The configuration of the rail outer tube 17 need not be
+confined to a bent tubular member having a substantially uniform cross-sectional configuration along substantially the entire length of the member 17.  The rail outer tube 17 could also be tailor formed through the hydroforming process to vary the
+cross-sectional size and shape as desired along the longitudinal length thereof.
+ One skilled in the art will recognize that changes in the details, materials, steps and arrangements of parts which have been described and illustrated to explain the nature of the invention will occur to and may be made by those skilled in the
+art upon a reading of this disclosure within the principles and scope of the invention.  The foregoing description illustrates the preferred embodiment of the invention; however, concepts, as based upon the description, may be employed in other
+embodiments without departing from the scope of the invention.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

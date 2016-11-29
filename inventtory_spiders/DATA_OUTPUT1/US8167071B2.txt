@@ -1,0 +1,365 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4058&p=82&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8167071B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8167071B2
+
+
+patent_name: 
+Engine hood for a motor vehicle
+
+
+patent_publish_date: 
+May 1, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ An engine hood for a motor vehicle has an outer planking and an inner
+     part. Between the outer planking and the inner part, a supporting part is
+     arranged, which reinforces the outer planking. In order to reduce the
+     manufacturing costs for an engine hood while maintaining a favorable
+     delay pattern in the event of a head impact, the supporting part has
+     supporting elements which, in the event of an essentially vertical
+     admission of force, permit a displacement of the outer planking relative
+     to the inner part until the supporting part rests with its predominant
+     surface against the inner part.
+ 
+
+
+inventors: 
+Thomas; Peter (Schellbronn, DE), Wolf; Klaus-Dieter (Rutesheim, DE) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Dr. Ing. h.c.F. Porsche Aktiengesellschaft  (DE)   
+
+
+family_ID: 
+40530504
+
+
+application_number: 
+12/266,859
+
+
+filed_date: 
+November 7, 2008
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20090120704 A1
+
+
+prior_pub_data_publication_date: 
+May 14, 2009
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4598008, 4598008, July 1986, Vogt et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4634167, 4634167, January 1987, Moriki et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5115878, 5115878, May 1992, Hayata,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5124191, 5124191, June 1992, Seksaria,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5605371, 5605371, February 1997, Borchelt et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5706908, 5706908, January 1998, Sakai et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6048022, 6048022, April 2000, Ishibashi et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7052075, 7052075, May 2006, Kamada et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7055894, 7055894, June 2006, Ikeda et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7090289, 7090289, August 2006, Koura,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7140673, 7140673, November 2006, Ito et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7147273, 7147273, December 2006, Ikeda et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7150496, 7150496, December 2006, Fujimoto,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7354101, 7354101, April 2008, Donabedian et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7377580, 7377580, May 2008, Ekladyous,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7399028, 7399028, July 2008, Castillo et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7467680, 7467680, December 2008, Mason,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7481488, 7481488, January 2009, Ikeda et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7488031, 7488031, February 2009, Ishitobi,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7497507, 7497507, March 2009, Matsushima et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7578548, 7578548, August 2009, Behr et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7635157, 7635157, December 2009, Wang et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7690720, 7690720, April 2010, Wang et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7735908, 7735908, June 2010, Wang et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7810877, 7810877, October 2010, Ishitobi,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7984943, 7984943, July 2011, Iwano et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F8016347, 8016347, September 2011, Uchino,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20040021342&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2004/0021342, February 2004, Fujimoto,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20040182616&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2004/0182616, September 2004, Mason,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20050082874&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2005/0082874, April 2005, Ikeda et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060220418&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0220418, October 2006, Behr et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070235237&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0235237, October 2007, Wallman et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20080007094&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2008/0007094, January 2008, Ishitobi,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20080066983&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2008/0066983, March 2008, Kimoto et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20080122261&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2008/0122261, May 2008, Seo,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090025995&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0025995, January 2009, Wang et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090065277&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0065277, March 2009, Wang et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090120704&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0120704, May 2009, Thomas et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20100019540&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2010/0019540, January 2010, Fujimoto
+
+
+references_primary_examiner: 
+Restifo; Jeffrey J
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+
+
+
+other_references_attorney_agent_or_firm: 
+Hespos; Gerald E.
+Porco; Michael J.
+
+
+patent_claims: 
+What is claimed is:  1.  An engine hood for a motor vehicle, comprising: an outer planking having an outer periphery, an outwardly facing surface and an inwardly facing surface;  an inner part
+having an outer periphery connected to the outer periphery of the outer planking and an outwardly facing surface opposed to and spaced from the inwardly facing surface of the outer planking at all locations spaced from the outer peripheries of the outer
+planking and the inner part;  a supporting part operatively arranged between the outer planking and the inner part, the supporting part reinforcing the outer planking;  wherein the supporting part comprises an outer periphery, supporting elements
+extending from spaced apart positions on the outer periphery of the supporting part into supporting contact with the inner part, all of the supporting part other than the supporting elements being spaced from the inner part and being opposed to and
+substantially parallel to the outer planking, and the supporting elements permitting a displacement of the outer planking relative to the inner part in an event of an essentially vertical force applied to the outer planking until a predominant surface of
+the supporting part rests against the inner part.
+ 2.  The engine hood according to claim 1, wherein the inner part and the outer planking at least partially formed a closed hollow profile.
+ 3.  The engine hood according to claim 2, wherein the supporting part extends essentially over almost an entire engine hood width.
+ 4.  The engine hood according to claim 3, wherein, in a longitudinal sectional view, the supporting part extends in a step shape inside the hollow profile.
+ 5.  The engine hood according to claim 2, wherein, in a longitudinal sectional view, the supporting part extends in a step shape inside the hollow profile.
+ 6.  The engine hood according to claim 5, wherein the supporting part extends from an approximately horizontally extending floor wall to an approximately vertically extending rearward face wall of the inner part.
+ 7.  The engine hood according to claim 1, wherein the supporting part extends essentially over almost an entire engine hood width.
+ 8.  The engine hood according to claim 7, wherein the supporting elements project at an angle from a major dimensional surface of the supporting part.
+ 9.  The engine hood according to claim 8, wherein the supporting elements project in a step shape in the direction of the inner part.
+ 10.  The engine hood according to claim 8, wherein the supporting elements project from longitudinal sides of the supporting part in the direction of the inner part.
+ 11.  The engine hood according to claim 1, wherein the supporting elements project at an angle from a major dimensional surface of the supporting part.
+ 12.  The engine hood according to claim 11, wherein the supporting elements project in a step shape in the direction of the inner part.
+ 13.  The engine hood according to claim 12, wherein the supporting elements project in the direction of the outer planking.
+ 14.  The engine hood according to claim 13, wherein several supporting elements are arranged side-by-side in a transverse direction of the vehicle distributed over the width of the engine hood.
+ 15.  The engine hood according to claim 11, wherein the supporting elements project from longitudinal sides of the supporting part in the direction of the inner part.
+ 16.  The engine hood according to claim 15, wherein the supporting elements project in the direction of the outer planking.
+ 17.  The engine hood according to claim 16, wherein several supporting elements are arranged side-by-side in a transverse direction of the vehicle distributed over the width of the engine hood.
+ 18.  The engine hood according to claim 11, wherein the supporting elements project in the direction of the outer planking.
+ 19.  The engine hood according to claim 18, wherein several supporting elements are arranged side-by-side in a transverse direction of the vehicle distributed over the width of the engine hood.  
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+CROSS REFERENCE TO RELATED APPLICATIONS
+ This application claims priority under 35 U.S.C.  .sctn.119 to German Patent Application No. 10 2007 053171.2, filed Nov.  8, 2007, the entire disclosure of which is herein expressly incorporated by reference.
+BACKGROUND AND SUMMARY OF THE INVENTION
+ The invention relates to an engine hood for a motor vehicle having an outer planking and an inner part.  Between the outer planking and the inner part, a supporting part is arranged which reinforces the outer planking.
+ In order for an engine hood to absorb sufficient energy in case of an impact with a pedestrian, it is known from production vehicle construction to arrange the engine hood at a sufficient distance above the assemblies arranged below the engine
+hood.  The determination of the so-called HIC (head injury criterion) indicates whether an engine hood meets the legal requirements.
+ From International patent document WO 03/011660 A1, it is known to equip an outer planking or cover with a reinforcing layer.  The reinforcing layer is arranged above the outer planking and is connected with the outer planking.  The reinforcing
+layer consists of a brittle material, so that the hood has a buckling strength required for normal operation.  In the case of a dynamic loading, for example, in the event of a head impact, the supporting layer will break while absorbing energy, so that a
+deceleration pattern occurs that is favorable for a head impact.
+ However, as a result of the different materials, the manufacturing expenditures are increased.
+ It is an object of the invention to reduce the manufacturing costs for an engine hood of a motor vehicle while maintaining a favorable deceleration pattern in the event of a head impact.
+ According to the invention, an engine hood for a motor vehicle has an outer planking and an inner part, between the outer planking and the inner part a supporting part being arranged which reinforces the outer planking.  The supporting part has
+supporting elements which, in the event of an essentially vertical admission of force, permit a displacement of the outer planking relative to the inner part until the supporting part rests with its predominant surface against the inner part.
+ Advantageous further developments of the invention are described and claimed herein.
+ According to the invention, a supporting part reinforcing the outer planking is to be provided between the outer planking and an inner part, particularly in the forward region of the engine hood, which supporting part has supporting elements
+that, in the event of a vertical admission of force, permit a displacement of the outer planking relative to the inner part until the supporting part rests with its predominant surface against the inner part.
+ Within the context of the invention, supporting elements are such that, up to a certain degree, they are held in a flexible or elastic manner; that is, when the force effect is low (for example, during a normal driving operation or when opening
+or closing the engine hood), the supporting elements move back into their initial position; when the force exceeds a previously defined value, the supporting elements deform plastically while absorbing energy.  In this case, the supporting elements can
+either support themselves at the inner part or the outer planking supports itself on the supporting elements.  The supporting part itself together with its supporting elements can be constructed as a sheet metal part, particularly as a deep-drawn part,
+so that the same materials are processed together.
+ A reinforcement of the engine hood in the forward region can be achieved when the inner part and the outer planking at least partially form a closed hollow profile.
+ In order to obtain a favorable delay pattern also in the event of a pedestrian impact in the edge regions of the engine hood, the supporting part can extend essentially over almost the entire engine hood width.
+ The supporting part, preferably, is a flat component whose essential dimensional surface may be constructed to be planar but may also be physically curved.  It is recommended that the dimensional surface of the supporting part at least partially
+follow the course of the outer planking.  In order to implement the desired relative movement of the supporting part with the outer planking with respect to the inner part, supporting elements may project at an angle from the dimensional surface of the
+supporting part.
+ Optionally, the supporting elements may project from the supporting part in a step-shaped manner in the direction of the inner part, in which case the supporting elements may project from the longitudinal sides of the supporting part in the
+direction of the inner part.
+ In an alternative embodiment, the supporting elements may project in the direction of the outer planking, in which case several supporting elements are arranged side-by-side in the transverse direction of the vehicle distributed over the width
+of the engine hood.
+ In a longitudinal sectional view, in an alternative embodiment, the supporting part may extend in a step shape within the hollow profile.  This has the advantage that, in the event of a vertical force, this step bends open while additionally
+absorbing energy.
+ This step may be defined in that the supporting part extends from an approximately horizontally extending floor wall to an approximately vertically extending rearward face wall of the inner part.  Under the effect of a force, a forced movement
+of the supporting part is therefore made possible.
+ Other objects, advantages and novel features of the present invention will become apparent from the following detailed description of one or more preferred embodiments when considered in conjunction with the accompanying drawings. BRIEF
+DESCRIPTION OF THE DRAWINGS
+ FIG. 1 is a top view of an engine hood with a supporting part in a first embodiment;
+ FIG. 2 is a sectional view according to Line II-II in FIG. 1;
+ FIG. 3 is a perspective view diagonally from the rear of a second embodiment of a supporting part; and
+ FIG. 4 is a sectional view according to Line IV-IV in FIG. 3.
+DETAILED DESCRIPTION OF THE DRAWINGS
+ FIGS. 1 and 2 show a first embodiment of an engine hood 1 according to the invention.  In this case, the engine hood 1 includes an outer planking 2, an inner part 3, as well as a reinforcing supporting part 4.  The inner part 3 and the outer
+planking 2 are mutually connected at the forward end edge 5 of the engine hood 1.  In the further longitudinal course of the engine hood 1, the outer planking 2 can support itself on the inner part 3 on additional regions (which are not shown in detail).
+ The supporting part 4 is used for reinforcing the engine hood 1 in its forward region.  The supporting part 4 has an essentially square construction and extends over approximately the entire engine hood width.  Supporting elements 8 to 11 are
+shaped onto the forward longitudinal side 6 and the rearward longitudinal side 7, which supporting elements 8 to 11--in the cross-sectional view--extend in a step shape from the inner part 3 to the main dimensional plane of the supporting part 4.  The
+main dimensional plane of the supporting part 4 extends approximately parallel to the contour of the outer planking 2.  For a reinforcement in the transverse direction of the vehicle, each of the supporting elements 8 to 11 has a longitudinal bead 12 to
+15.
+ In its main dimensional plane, the supporting part 4 is equipped with transverse beads 16, 17 and 18 in order to reinforce the outer planking 2.  A recess 19 is provided in the region of the engine hood lock in the forward longitudinal side 6.
+ Because of the large-surface of the supporting part 4 resting against the interior side of the outer planking 2, in the event of a pedestrian impact, at first both parts, i.e., the supporting part 4 and the outer planking 2, together are
+displaced in the direction of the inner part 3.  Under a further effect of the force according to arrow F, the supporting elements 8 to 11 will yield until the supporting part 4 rests against the inner part 3.  The supporting elements yield elastically
+only under the effect of a slight static force.  When a defined force is exceeded, the supporting elements deform plastically.
+ It is only when the supporting part 4 with the outer planking 2 rests predominantly on the inner part 3 that the entire forward hood region, as a whole, is displaced downward.
+ FIGS. 3 and 4 illustrate a second embodiment.  Here also, a supporting part 40 is arranged between an inner part 30 and an outer planking 20, in which case the inner part 30 and the outer planking 20 partially form a closed hollow profile 24. 
+For this purpose, the inner part 30 is encompassed or bordered on the forward end edge 50 of the engine hood 21 by the outer planking 20 In the rearward region 22, the inner part is fastened by means of a flange 23 on the outer planking 20.
+ Within the thereby formed hollow profile 24, the supporting part 40 extends in a step-shaped manner from an approximately horizontally extending floor wall 25 to an approximately vertically extending rearward face wall 26 of the inner part 30. 
+For the support, the supporting part 40 has flanges 27, 28 on its forward longitudinal side 60 and on the rearward longitudinal side 70, by which flanges 27, 28, the supporting part 40 can support itself on the inner part 30.  Several deformable
+supporting elements 31 in the form of sheet metal lugs 32 cut free from the supporting part 40 and bent away upward project from the step-type edge 29.  The supporting part 40 is glued to the outer planking 20 only at the top side 33 of the sheet metal
+lugs 32.  As a result, in the event of a pedestrian impact according to a force effect in the direction of the arrow F, the sheet metal lugs 32 can first be bent in elastically in the direction of their recesses 34 and, in the further course, while
+reducing energy, can be bent in plastically.
+ In the further course of the pedestrian impact, the supporting part deforms by bending open the step in the direction of the inner part 30.  The flanges 27 and 28 support this bending-open in that they are not glued or otherwise fastened to the
+inner part 30.  It is only when the supporting part 40 has a large-surface contact with the inner part 30 that the forward engine hood region as a whole--thus, the outer planking 20, the inner part 30 and the supporting part 40 together--is displaced.
+ The foregoing disclosure has been set forth merely to illustrate the invention and is not intended to be limiting.  Since modifications of the disclosed embodiments incorporating the spirit and substance of the invention may occur to persons
+skilled in the art, the invention should be construed to include everything within the scope of the appended claims and equivalents thereof.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

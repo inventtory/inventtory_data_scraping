@@ -1,0 +1,345 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4083&p=82&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8162372B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8162372B2
+
+
+patent_name: 
+Seat for armoured vehicle
+
+
+patent_publish_date: 
+April 24, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ The invention relates to a seat (1) for an armored vehicle, incorporating
+     a back rest (2) integral with a wall or the roof (4) of the vehicle and a
+     sitting part (3) mounted able to pivot with respect to the back rest (2)
+     between a folded position in which it is substantially parallel to the
+     back rest (2) and an unfolded position where it is held by a limit stop
+     and is substantially perpendicular to the back rest (2). This seat is
+     characterized in that the sitting part (3) is connected to the back rest
+     (2) by linking means (6, 8) ensuring, in the event of a predetermined
+     load, the release of the limit stop (8) of the sitting part (3) and its
+     pivoting beyond the unfolded position.
+ 
+
+
+inventors: 
+Bettencourt; Benoit (Chaville, FR), Godard; Michel (Vougy, FR), Sagory; Bernard (Guyancourt, FR), Poirmeur; Xavier (Guyancourt, FR) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Nexter Systems  (Roanne,  FR)   
+
+
+family_ID: 
+40175100
+
+
+application_number: 
+12/737,097
+
+
+filed_date: 
+June 10, 2009
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20110074176 A1
+
+
+prior_pub_data_publication_date: 
+Mar 31, 2011
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2796112, 2796112, June 1957, Barsky,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3357736, 3357736, December 1967, McCarthy,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3501200, 3501200, March 1970, Ohta,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4349167, 4349167, September 1982, Reilly,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5125598, 5125598, June 1992, Fox,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5273240, 5273240, December 1993, Sharon,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6053555, 6053555, April 2000, Neale,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6179380, 6179380, January 2001, Hoffman,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6378939, 6378939, April 2002, Knoll et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6409243, 6409243, June 2002, Hansen,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6582015, 6582015, June 2003, Jessup et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6585190, 6585190, July 2003, Mort,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7100991, 7100991, September 2006, Schroth,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7270045, 7270045, September 2007, Gonzalez,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7293818, 7293818, November 2007, Kumpf et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7513558, 7513558, April 2009, Hansen,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7618076, 7618076, November 2009, Meynet et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20100102602&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2010/0102602, April 2010, Hansen,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20100109393&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2010/0109393, May 2010, Hansen,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20100117408&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2010/0117408, May 2010, Hansen,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20110074176&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2011/0074176, March 2011, Bettencourt et al.
+
+
+references_primary_examiner: 
+Dayoan; Glenn
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+Blankenship; Gregory
+
+
+other_references_attorney_agent_or_firm: 
+Steptoe & Johnson LLP
+
+
+patent_claims: 
+The invention claimed is:  1.  A seat for an armored vehicle, incorporating a back rest integral with a wall or the roof of the vehicle and a sitting part mounted able to pivot with respect to
+the back rest between a folded position in which it is substantially parallel to the back rest and an unfolded position where it is held by a limit stop and is substantially perpendicular to the back rest , such seat wherein the sitting part is connected
+to the back rest by linking means ensuring, in the event of a predetermined load, the release of the limit stop of the sitting part and its pivoting beyond the unfolded position, and wherein the sitting part is mounted able to pivot between two vertical
+supports, the linking means incorporating at least one protrusion forming a limit stop and cooperating with a stop surface integral with one of the supports, the profile of the protrusion, the stop surface, and the shape of the supports being selected so
+that the protrusion causes a deformation of the support when a predetermined load is exerted on the sitting part.
+ 2.  A seat according to claim 1, wherein the supports are metallic plates, the stop surface is a rim fitted to a face of the plate that is facing the pivoting sitting part.
+ 3.  A seat according to claim 2, wherein the plate includes a profile such that a load of a certain level exerted on the sitting part causes the plate to deform distancing the rim from the limit stop.
+ 4.  A seat according to claim 1, comprising two protrusions each one of said protrusions cooperating with only one stop surface integral with one vertical support.  
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+This application is
+a national stage entry of International Application No. PCT/FR2009/000683, filed Jun.  10, 2009 designating the U.S., which claims the benefit of French Application No. 08.03310, filed Jun.  13, 2008.
+TECHNICAL FIELD OF THE INVENTION
+ The technical scope of the invention is that of seats for vehicles and namely seats for armoured vehicles.
+TECHNICAL BACKGROUND OF THE INVENTION
+ Armoured vehicles are brought into an operation zone where they are confronted with mines and IEDs (the acronym for "Improvised Explosive Devices").  These IEDs are homemade devices but which can implement substantial masses of explosive or
+other energetic materials (petrol, gas).
+ The impacts received by the structure, and in particular the floor, of the vehicles are considerable and generally when the seats of such a vehicle are being designed they are made to be isolated from the vehicle floor.
+ Patent WO9800309 thus proposes to provide a deformable structure between the floor and the seat, such structure absorbing part of the shock communicated by the floor.
+ Patent WO03004958 proposes to ensure the rupture of the link between the floor and the ground.
+ A more interesting solution implemented today consists in suspending the seat from the roof or from a side wall.  The seat and floor are thus uncoupled.
+ However, the shocks received by the vehicle cab communicate an acceleration to the cab whose excessive rate may cause serious injuries.
+DISCLOSURE OF THE INVENTION
+ The aim of the invention is to propose a seat for an armoured vehicle that is simple in structure and that ensures, nevertheless, an excellent level of protection with respect to the shocks received by the vehicle during the explosion of a mine
+or IED.
+ Thus, the invention relates to a seat for an armoured vehicle, incorporating a back rest integral with a wall or the roof of the vehicle and a sitting part mounted able to pivot with respect to the back rest between a folded position in which it
+is substantially parallel to the back rest and an unfolded position where it is held by a limit stop and is substantially perpendicular to the back rest, such seat wherein the sitting part is connected to the back rest by linking means ensuring, in the
+event of a predetermined load, the release of the limit stop of the sitting part and its pivoting beyond the unfolded position.
+ According to another characteristic, the sitting part is mounted able to pivot between two vertical supports, the linking means incorporating at least one protrusion, organ, or device forming a limit stop and cooperating with a stop surface
+integral with one of the supports, the profile of the protrusion or organ, the stop surface and the shape of the supports being selected so that the protrusion or organ causes a deformation of the support when a predetermined load is exerted on the
+sitting part.
+ The supports may be formed of metallic plates, the stop surface itself being formed by a rim fitted to a face of the plate that is facing the pivoting sitting part.
+ The plate may incorporate a profile such that a load of a certain level exerted on the sitting part causes the plate to deform distancing the rim from the limit stop.
+ The seat may comprise two protrusions or organs each cooperating with a stop surface of a vertical support. DESCRIPTION OF THE DRAWINGS
+ The invention will become more apparent from the following description of a particular embodiment, such description being made with reference to the appended drawings, in which:
+ FIG. 1 shows a side view of a seat according to one embodiment of the invention, the view is a section along the plane referenced AA in FIG. 2, the right part of the Figure showing the seat in its unfolded position and the left part showing the
+same seat in its folded position,
+ FIG. 2 is a front view of this same seat in its unfolded position,
+ FIG. 3 shows how the seat behaves in the event of a shock,
+ FIG. 4 is an enlarged detailed view showing how the limit stop cooperates with the rear face of a support,
+ FIG. 5 partially shows another embodiment of a support for the sitting part,
+ FIG. 6 is a partial section view of the previous Figure, such section being made along the plane referenced BB in FIG. 5.
+DETAILED DESCRIPTION OF THE INVENTION
+ With reference to FIG. 1, a seat 1 for an armoured vehicle incorporates a back rest 2 and a sitting part 3.  The back rest 2 is made integral with the roof 4 of the cab of a vehicle by means of two vertical supports 5 parallel to each other. 
+The back rest 2 may just as well be made integral with a side wall of this cab using appropriate support structures.
+ The sitting part 3 is mounted able to pivot with respect to supports 5 (and thus also with respect to the back rest 3 that is fastened to the supports) by means of pivots 6.
+ The sitting part 3 can thus move from a folded position (left part of FIG. 1) in which it is substantially parallel to the back rest 2 into an unfolded position (right part of FIG. 1) in which it is substantially perpendicular to the back rest. 
+Spring means (not shown) may be provided to bring the sitting part, in the absence of a load 7, back into the folded position.
+ The pivoting of the sitting part 3 is stopped by two limit stops 8 that are integral with arms 9 attached to the sitting part and which also carry the pivots 6.
+ According to this first embodiment, the limit stops 8 come into contact with a rear face of the supports 5.  These limit stops may be constituted by steel cylindrical rods that have a spherical end.  The profile of the rod will be selected so as
+to be able to deform the support 5 for a load predetermined by calculation during the design of the seat.
+ FIG. 3 shows the seat according to the invention when an acceleration .GAMMA.  of a substantial rate is communicated to the vehicle cab by the explosion of a mine or an IED.
+ The person occupying the seat is thus subjected to a load opposing .GAMMA.  at a very high level.  This load is communicated to the limit stops 8 by the sitting part 3.  The length of the limit stops and their profile, which may be rounded,
+enables the supports 5 to be deformed and thus enables the limit stops 8 to be exceeded and the sitting part 3 to pivot beyond its unfolded position.  The person occupying the seat is thus no longer subjected to a shock of a higher level than that needed
+to release the limit stops 8 of the chair.  The person falls onto the cab floor but after the critical moment when the loads are at their highest.
+ FIG. 4 is a detailed view that shows the rounded end 8a of a limit stop 8 and its cooperation with the rear face 5a of a support 5.  This Figure also shows that it is possible to reduce the length L of the support 5 at the limit stop 8.  Thus,
+the latter will escape from the support 5 for a lower pivoting angle of the sitting part.  This will result in the faster release of the seat's occupant.
+ Using appropriate tooling, it will be possible to reposition the sitting part in its folded position.  The tooling will be designed to ensure an elastic deformation of supports 5 to enable a return behind the limit stop 8.
+ FIGS. 5 and 6 show another embodiment of the invention.
+ FIG. 5 shows that each support 5 is made in the form of a metallic plate.
+ In this FIG. 5, the sitting part 3 and an arm 9 integral with the sitting part are shown in dotted lines.
+ We see that the support 5 incorporates a substantially triangular extension 5b onto which the pivot 6 for the sitting part is fastened.  The stop surface is formed here by a U-shaped rim 10 fastened (for example by welding) to the face of the
+plate 5 facing the pivoting sitting part 3 as well as its arms 9.
+ FIG. 6 shows a partial section of the shape of the stop surface 10 against which the limit stop 8 presses.
+ When a load of a certain level F is exerted on the sitting part 3, this load is broken down at each plate 5 into loads f exerted on the pivots 6.  These loads f (beyond a certain level) will cause the plates 5 to buckle, thereby causing a
+transversal deformation of the extensions 5b to the supports 5 (arrow G).  These deformations G, combined with the load that is exerted by each limit stop 8 on its rim 10, will lead to the passage of the limit stops 8, thereby releasing the sitting part
+3.
+ A single support 5 is shown here.  There is naturally a second identical support 5 parallel to this one and also provided with an rim 10 cooperating with another limit stop.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

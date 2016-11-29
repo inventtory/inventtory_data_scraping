@@ -1,0 +1,359 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4107&p=83&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8157311B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8157311B2
+
+
+patent_name: 
+Vehicular trim panel with storage and interfacing of electronic devices
+
+
+patent_publish_date: 
+April 17, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ An interior system of a vehicle includes an instrument panel substrate
+     having a driver side, a passenger side, and a center section between the
+     driver and passenger sides. The instrument panel substrate has an opening
+     on the passenger side. A trim panel is mounted to the instrument panel
+     substrate covering the opening and comprising a connector hub having a
+     plurality of electrical connectors for mobile electronic devices. In one
+     embodiment, at least a portion of the trim panel is releasable and
+     pivotable after mounting in order to access a rear side of the trim
+     panel. The trim panel may further include a cradle on the rear side to
+     receive a printer, a paper holder on the rear side to receive and supply
+     paper for the printer, and an elongated slot aligned with the cradle for
+     feeding printed paper from the printer to a front side of the trim panel.
+ 
+
+
+inventors: 
+Fowler; James H. (Novi, MI) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Ford Global Technologies, LLC  (Dearborn,  MI)   
+
+
+family_ID: 
+44558888
+
+
+application_number: 
+12/722,272
+
+
+filed_date: 
+March 11, 2010
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20110220430 A1
+
+
+prior_pub_data_publication_date: 
+Sep 15, 2011
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4553414, 4553414, November 1985, Caputo et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5202913, 5202913, April 1993, Lang et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5447327, 5447327, September 1995, Jarboe et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5478106, 5478106, December 1995, Bauer et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5533748, 5533748, July 1996, Wirt et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5716091, 5716091, February 1998, Wieczorek,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5839752, 5839752, November 1998, Yamasaki et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5902428, 5902428, May 1999, Gallagher et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5904389, 5904389, May 1999, Vaishnav et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5927020, 5927020, July 1999, Kobrehel,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5979931, 5979931, November 1999, Totani et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6203056, 6203056, March 2001, Labrie et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6302437, 6302437, October 2001, Marriott et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6345837, 6345837, February 2002, Warnez et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6364346, 6364346, April 2002, Preisler et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6517139, 6517139, February 2003, Sutou et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6843521, 6843521, January 2005, Oana,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6902185, 6902185, June 2005, North,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6938917, 6938917, September 2005, Jahn,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7063349, 7063349, June 2006, Takahashi,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7159916, 7159916, January 2007, Stack et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7385308, 7385308, June 2008, Yerdon et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7854459, 7854459, December 2010, Jones et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7992915, 7992915, August 2011, Kwolek,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20010013529&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2001/0013529, August 2001, Minowa et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20010050314&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2001/0050314, December 2001, Lee et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20020074776&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2002/0074776, June 2002, Labrie et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20050006918&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2005/0006918, January 2005, Neumann et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060004485&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0004485, January 2006, Thomas,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20060277555&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2006/0277555, December 2006, Howard et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070026916&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0026916, February 2007, Juds et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070169131&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0169131, July 2007, Campbell et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20080136144&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2008/0136144, June 2008, Spahr et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20080153567&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2008/0153567, June 2008, Juds et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20080255901&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2008/0255901, October 2008, Carroll et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090033149&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0033149, February 2009, Patel,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090296006&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0296006, December 2009, Campbell et al.,http://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20110220430&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2011/0220430, September 2011, Fowler
+
+
+references_primary_examiner: 
+Patel; Kiran B
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+
+
+
+other_references_attorney_agent_or_firm: 
+Brown; Gregory P.
+MacMillian, Sobanski & Todd, LLC
+
+
+patent_claims: 
+What is claimed is:  1.  An interior system of a vehicle comprising: an instrument panel substrate having a driver side, a passenger side, and a center section between the driver and passenger
+sides, the instrument panel substrate having an opening on the passenger side;  and a trim panel mounted to the instrument panel substrate covering the opening and comprising a connector hub having a plurality of electrical connectors for providing
+electrical power to mobile electronic devices;  wherein at least a portion of the trim panel is releasable and pivotable after mounting in order to access a rear side of the trim panel, and wherein the trim panel further comprises a cradle on the rear
+side to receive a printer, a paper holder on the rear side to receive and supply paper for the printer, and an elongated slot aligned with the cradle for feeding printed paper from the printer to a front side of the trim panel.
+ 2.  The interior system of claim 1 wherein the trim panel includes at least a portion which is pivotable by a user of the vehicle.
+ 3.  The interior system of claim 1 wherein the trim panel comprises a storage well, wherein at least a portion of the connector hub is mounted within the storage well.
+ 4.  The interior system of claim 1 wherein the trim panel comprises a storage well, wherein the trim panel further comprises a recharging station for docking one of the mobile electronic devices.
+ 5.  The interior system of claim 1 wherein the trim panel comprises a storage well having a floor, an upper side of the floor having a non-skid surface and a lower side of the floor having an inductive charging unit mounted thereon.
+ 6.  The interior system of claim 1 wherein the cradle and the connector hub receive a service loop of a wiring harness of the vehicle.
+ 7.  The interior system of claim 1 wherein the trim panel includes manually operable connectors for selectably releasing or locking the trim panel with the instrument panel substrate.  
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+CROSS REFERENCE TO RELATED APPLICATIONS
+ Not Applicable.
+STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH
+ Not Applicable.
+BACKGROUND OF THE INVENTION
+ The present invention relates in general to support for mobile electronic devices in an automotive vehicle, and, more specifically, to a trim panel for storage of and interfacing to mobile electronic devices (such as a printer, a fingerprint
+scanner, or other dockable devices in a police vehicle).
+ For many people, the interior of a motor vehicle has become a place where diverse work tasks and entertainment activities are performed.  Vehicles have become available with electronic interfaces for portable entertainment devices such as mp3
+players to allow the user to play audio recordings from the mp3 player through the vehicle's audio system.  For certain specialized users such as police officers and traveling business people, a need also exists for using communications and information
+systems in the vehicle to perform office-like functions.  Examples of aftermarket units that may be mounted and used in the vehicle interior include two-way radios, laptop computers, printers, video cameras, wireless microphones, flashlights, and other
+rechargeable electronic devices.
+ Conventional practice for many police or commercial vehicles is to deploy, interconnect, and stow small electronic devices or modules in the center stack area of an instrument panel or floor console (i.e., between the driver and the front, side
+passenger seat).  As a result, at least some of the center area of the instrument panel may be become blocked by the added units.  Even if existing controls such as the climate control or audio system of the vehicle are not blocked, the availability of
+the center area for placement or stowing of other devices is reduced.
+ In the current practice of installing police or other electronic equipment on or in front of the center of the instrument panel or dashboard, an aftermarket installer or police department equipment installer (often called an "up fitter") may
+need to remove existing electronics or structures to accommodate the new up-fitted devices.  The present invention addresses the problem that there is limited or no space available in the center or top of the instrument panel to relocate small electronic
+devices or personal electronics for stowage or to make connections to the devices for recharging or for communication with other devices in the vehicle.
+SUMMARY OF THE INVENTION
+ The present invention achieves logical and ergonomic placement of mobile electronic devices within a vehicle.  A trim panel is used with a modular design that is easy to use and can be easily upgraded, reconfigure, or replaced using the same
+instrument panel substrate.  The panel is low cost, light weight, and preserves the visual styling of the model of vehicle.  The trim panel allows the vehicle user to reduce clutter within the cockpit, and achieves improved stowage and management of
+electronic devices.
+ In one aspect of the invention, an interior system of a vehicle comprises an instrument panel substrate having a driver side, a passenger side, and a center section between the driver and passenger sides.  The instrument panel substrate has an
+opening on the passenger side.  A trim panel is mounted to the instrument panel substrate covering the opening and comprising a connector hub having a plurality of electrical connectors for mobile electronic devices. BRIEF DESCRIPTION OF THE
+DRAWINGS
+ FIG. 1 is a plan view generally showing an instrument panel substrate.
+ FIG. 2 is a front view of a first embodiment of the trim panel of the present invention.
+ FIG. 3 is a front view of a second embodiment of the trim panel of the present invention.
+ FIG. 4 is a side cross-sectional view of a third embodiment of the trim panel of the present invention.
+ FIG. 5 is a front view of a fourth embodiment of the trim panel of the present invention with the trim panel opened to access its rear side.
+DETAILED DESCRIPTION OF PREFERRED EMBODIMENTS
+ Referring to FIG. 1, an instrument panel substrate 10 generally includes a driver side 11, a passenger side 12, and a center section 13 between driver side 11 and passenger side 12.  The driver side 11 may include an instrument cluster 14. 
+Passenger side 12 of substrate 10 includes an opening 15 that will receive a trim panel of the present invention that is described below.  Center section 13 may include other openings for receiving manufacturer-installed accessories 16 such as a climate
+control or an audio system.  Instrument panel substrate 10 may include additional openings for receiving ventilation ducts 17 as is known in the art.
+ A first embodiment of the invention is shown in FIG. 2 wherein a trim panel 20 is received in the passenger-side opening of substrate 10.  A connector hub 21 is formed as a part of trim panel 20 and provides mounting of a plurality of electrical
+connectors including USB connectors 22, a media card slot 23, and audio/video plugs 24, for example.  Hub 21 may preferably be integrally molded as a single plastic piece with trim panel 20.  One or more conventional automotive power points 25 are shown
+closely associated with hub 21.  Power points could alternatively be included within the raised section of hub 21.
+ Trim panel 20 also preferably includes a storage well 26 that is recessed through the opening in instrument panel substrate 10.  Well 26 is placed so that it does not interfere with an existing passenger airbag system which typically has a
+deployment opening in the top instrument panel substrate 10 as shown at 27.  Well 26 may have a non-skid floor surface 28 and a manually or automatically-controlled lamp 29 at the top.  Lamp 29 may preferably provide red light in order to assist in
+maintaining dark adaptation of a police officer's vision during night duty.
+ Well 26 also includes a docking station 30 with an electrical interface connector 31 and a mounting support surface 32 adapted to receive one or more particular mobile electronic devices such as an MP3 player.  Separate adaptor pieces (not
+shown) may also be provided in the order to accommodate a variety of devices on docking station 30.  Docking station 30 may provide power for recharging a mobile device and/or may include communication lines for interfacing a particular device with other
+electronic units within the vehicle.
+ As shown in FIG. 2, the present invention also enables placement of electronic devises behind trim panel 20.  Thus, a device 33 mounted behind trim panel 20 may have an associated through slot 34 to allow various physical interactions with
+device 33.  In one embodiment, device 33 is comprised of a printer and slot 34 allows printed pages to be output from device 33 through trim panel 24 retrieval by a police officer, for example.  In order to permit access for mounting and/or maintaining
+device 33 mounted behind trim panel 20, one preferred embodiment of the invention makes trim panel 20 releasable and pivotable.  A pair of hinges or tabs 35 and 36 at a bottom edge of trim panel 20 keep trim panel 20 engaged with substrate 10.  Manually
+operable fasteners 37 and 38 interface with a matching structure of substrate 10, so that trim panel 20 can be locked down.
+ In a particularly advantageous embodiment, device 33 may be a wireless printer, such as a Pentax PocketJet printer available from Brother International Corporation of Bridgewater, N.J.  Such a printer can communicate with a laptop computer
+within the vehicle to receive print jobs via a Bluetooth link, for example.
+ FIG. 3 shows an alternative embodiment wherein a trim panel 40 includes a well 41 with a pivotable or slidable front door 42 for selectably covering well 41.  A latch (such as a magnetic latch including magnets 43 and 44) may be provided to
+secure door 42 in the closed position.  In addition to the connector hub 45, power points 46 and 47, rear mounted device 48 and access slot 49, well 41 may include a recharger socket 50 adapted to a particular device such as a rechargeable wireless
+microphone system which is commonly used in police vehicles.  A non-skid surface 51 may also be provided.
+ FIG. 4 shows another embodiment, in side cross section, wherein a trim panel 55 is mounted to instrument panel substrate 10 within opening 15.  Trim panel 55 includes a well 56 with a front side 57 and a rear side 58.  A cradle 60 is mounted to
+or integrally molded with rear side 58 of well 56 for accommodating a printer 61.  A fastener or cradle length-adjustment knob 62 is provided on cradle 60 for capturing printer 61 in a releasable and secure manner.  A paper holder 63 is also mounted to
+rear side 58 for receiving a paper roll 64.  A quick release knob or pull-tab 65 allows for changing of paper roll 64.  Paper 66 is fed from roll 64 through printer 61 and out through a slot 67 in well 56.  A connector hub 70 is mounted to front surface
+57 in well 56 and has a rear electrical housing 71 behind trim panel 55 connected to a wiring loop 72 of a vehicle wiring harness (not shown).  A quick-disconnect electrical connector 73 may be included to facilitate the opening of trim panel 55. 
+Connector 73 may alternatively comprise a twist joint or other means for managing the electrical wiring while trim panel 55 is opened and closed.
+ A floor 75 of well 56 carries a non-skid mat 76 upon which electronic devices may be placed.  For devices that are capable of inductive recharging, an inductive charger 77 is mounted to well 56 and receives electrical power via a wiring loop 78. Wiring loop 78 may also include a twist joint or quick release connector 79.
+ The bottom edge of trim panel 55 is coupled to instrument panel substrate 10 via a hinge 80.  Alternatively, tabs and slots may also be used to pivotally support the bottom edge of trim panel 55.  Along the top edge of trim panel 55, manually
+operable fastener 81 can be selectably locked to instrument panel substrate 10 using any conventional technique such as a quarter-turn cam lock or other captive fasteners.
+ In order to ensure retention of portable devices that may be stowed within well 56, a door or other closure may preferably be provided at the entrance to well 56.  As shown in FIG. 4, a cargo net 82 can be installed using a plurality of clasps
+83.
+ FIG. 5 shows an embodiment similar to FIG. 4 in an open position.  A trim panel 85 is attached to instrument panel substrate 10 by a hinge 86 in order to selectably cover opening 15.  Rotating legs 87 and 88 cooperate with slots 90 and 91 on
+lock tabs 92 and 93 that extend from substrate 10 when trim panel 85 is closed.  With trim panel 85 in its open position, rear mounted printer 94 and paper roll 95 can is be accessed.  A cradle 96 with a device lock 97 receives printer 94 in alignment
+with a paper slot (not visible) within well 98 of trim panel 85.  Paper holder 99 retains paper roll 95 and allows easy replacement of a new roll.
+ A wiring harness 100 includes electrical conductors for providing power to printer 94.  In addition, harness 100 provides electrical connections to a power point 101 and a connector hub 102.  If a printer without wireless capability is used, a
+USB or other type of cable may installed between the printer and the rear side of a USB connector in connector hub 102 so that a laptop in the passenger compartment of the vehicle can communicate with the printer via a second USB cable between the laptop
+and the USB connector in hub 102.  A twist connector 103 facilitates movement of the wiring harness during opening and closing of trim panel 85.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

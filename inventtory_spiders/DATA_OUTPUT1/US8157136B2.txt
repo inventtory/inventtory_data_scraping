@@ -1,0 +1,470 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4112&p=83&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8157136B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8157136B2
+
+
+patent_name: 
+Mobile confectionary apparatus with protectible dispensing system
+
+
+patent_publish_date: 
+April 17, 2012
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ The mobile confectionary apparatus for dispensing beverages and/or frozen
+     confections and the like, includes a vehicle configured for travel over
+     public roads to a location such as a parking lot, street, festival or
+     fair grounds, or the like. The vehicle includes an enclosure having an
+     interior space in which one or more persons can prepare and dispense
+     confections, or containers for confections or beverages. The enclosure
+     includes one or more service windows or openings for dispensing the
+     prepared confections or containers; and a self-serve liquid dispensing
+     system on or in an outer surface of the enclosure, usable by recipients
+     of the dispensed confections or containers, for selectably dispensing
+     toppings on the confections, or liquids into the containers, separately
+     from the dispensing and selling thereof. The dispensing system is
+     closable or coverable by a person from within the interior space, to
+     prevent access from the outside, and for cleaning, service and travel.
+ 
+
+
+inventors: 
+**Please see images for: ( Certificate of Correction )  **Lamb; Tony (Union, KY), Guard; Tony M. (Union, KY) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  EGR Holdings, Inc.  (Florence,  KY)   
+
+
+family_ID: 
+40470558
+
+
+application_number: 
+12/171,930
+
+
+filed_date: 
+July 11, 2008
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+Issue Date,  , 60959588, Jul 16, 2007
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20090078724 A1
+
+
+prior_pub_data_publication_date: 
+Mar 26, 2009
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2733094, 2733094, January 1956, Carlton,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2982578, 2982578, May 1961, Lowe,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3191400, 3191400, June 1965, Swenson,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3476295, 3476295, November 1969, Telfer,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4076349, 4076349, February 1978, Gettleman et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4225059, 4225059, September 1980, Kappos,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4359073, 4359073, November 1982, deStoutz,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4456149, 4456149, June 1984, Sciortino,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5154317, 5154317, October 1992, Roppolo, III,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5307957, 5307957, May 1994, Carlsson et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5564597, 5564597, October 1996, Koorse et al.,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6189944, 6189944, February 2001, Piche,http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7044335, 7044335, May 2006, Aguirre et al.
+
+
+references_primary_examiner: 
+Shaver; Kevin P
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+Cartagena; Melvin
+
+
+other_references_attorney_agent_or_firm: 
+Wood, Herron & Evans, LLP
+
+
+patent_claims: 
+What is claimed is:  1.  A mobile confectionary apparatus, comprising: a mobile vehicle including at least one upstanding side wall;  an interior space surrounded by the at least one upstanding
+side wall and configured to be usable by a person for preparing confections or dispensing containers for confections;  a first opening extending through the side wall and through which the prepared confections or containers can be dispensed and a
+monetary transaction conducted;  a liquid dispensing system supported by the side wall and being configurable in a dispensing mode, wherein the liquid dispensing system comprises: a plurality of liquid dispensers positioned and operable by a person
+located outside the mobile vehicle for dispensing a liquid onto a prepared confection or into a dispensing container that is disposed generally beneath at least one of the plurality of liquid dispensers, each of the plurality of liquid dispensers being
+connected by at least one liquid line to a reservoir carried on the mobile structure vehicle and containing a quantity of the liquid;  and tray positioned beneath and spaced away from the plurality of liquid dispensers and configured for catching liquid
+dropped from at least one of the plurality of liquid dispensers and directing the dropped liquid to a waste container carried on the mobile vehicle;  and the liquid dispensing system being further configurable in a closed mode covered by a cover member,
+wherein the liquid dispensing system is configurable between the dispensing mode and the closed mode by a person located within the interior space.
+ 2.  The mobile confectionary apparatus of claim 1, wherein the mobile vehicle comprises a truck.
+ 3.  The mobile confectionary apparatus of claim 1, wherein the mobile vehicle comprises a trailer.
+ 4.  The mobile confectionary apparatus of claim 1, further comprising a second opening extending through the side wall, wherein the liquid dispensing system is configured to close the second opening in the side wall.
+ 5.  The mobile confectionary apparatus of claim 4, wherein the liquid dispensing system is pivotally mounted to the side wall so as to pivot between the dispensing mode extending outwardly from the second opening in the side wall and the closed
+mode, wherein the plurality of liquid dispensers is retracted into the second opening and covered by the cover member, wherein the cover member is comprised of at least a portion of the tray.
+ 6.  The mobile confectionary apparatus of claim 4, wherein the waste container is located in the interior space and the liquid dispensing system further comprises: a liquid line extending from the tray to the waste container.
+ 7.  The mobile confectionary apparatus of claim 4, wherein the liquid dispensing system further comprises: an element accessible by a person from inside the interior space when the liquid dispensing system is in the dispensing mode, the element
+configured to pivot the liquid dispensing system to the closed mode.
+ 8.  The mobile confectionary apparatus of claim 1, wherein the plurality of liquid dispensers are aligned in a row and the reservoir comprises a plurality of reservoirs each containing a quantity of a liquid, wherein each of the plurality of
+liquid dispensers is connected, by the respective at least one liquid line, to the respective one of the plurality of reservoirs carried on the mobile vehicle.
+ 9.  The mobile confectionary apparatus of claim 8, wherein each of the liquids comprises a flavored liquid, and wherein each of the plurality of reservoirs is positioned above the respective one of the plurality of liquid dispenserssuch that
+each of the liquids will flow under force of gravity through the respective at least one liquid lineto the respective one of the plurality of liquid dispensers.
+ 10.  The mobile confectionary apparatus of claim 1, wherein the liquid dispensing system includes an apparatus configured to blow air past at least one of the plurality of dispensers.
+ 11.  The mobile confectionary apparatus of claim 10, wherein the apparatus configured to blow air comprises a hood disposed generally above the at least one of the plurality of dispensers, and a light operable for illuminating the at least one
+of the plurality of dispensers.
+ 12.  The mobile confectionary apparatus of claim 1, wherein the cover member is supported by the side wall and configured to slide over the the liquid dispensing system when in the closed mode.
+ 13.  The mobile confectionary apparatus of claim 1, wherein the cover member is configured to be fixedly securable to an exterior surface of the side wall so as to expose the liquid dispensing system when in the dispensing mode.
+ 14.  A mobile frozen confectionary apparatus, comprising: a mobile vehicle including at least one upstanding side wall;  an interior space surrounded by the at least one upstanding sidewall and configured to receive at least one person;  a
+frozen confection apparatus disposed in the interior space and configured to be usable by a person located in the interior space for preparing a frozen confection;  at least one opening extending through the side wall and through which the prepared
+frozen confection can be sold and dispensed;  a liquid dispensing system supported by the side wall at a location so as to be accessible by a person located outside of the mobile vehicle and spaced away from the at least one opening, the liquid
+dispensing system being moveable by a person located in the interior space between a dispensing position and a closed position, wherein the liquid dispensing system in the dispensing position projects from an exterior surface of the side wall and in the
+closed position is withdrawn into the side wall, the liquid dispensing system comprising of a plurality of liquid dispensers positioned so as to be operable by a person standing outside of the vehicle when the liquid dispensing system is in the
+dispensing position, for dispensing at least one liquid topping;  a protective cover configured to cover the liquid dispensing system in the closed position.
+ 15.  The mobile confectionary apparatus of claim 14, wherein each of the plurality of liquid dispensers is operably coupled to at least one of a plurality of reservoirs, wherein each of the plurality of reservoirs contains a quantity of the at
+least one liquid topping.
+ 16.  The mobile confectionary apparatus of claim 14, wherein the mobile vehicle comprises a wheeled vehicle.
+ 17.  The mobile confectionary apparatus of claim 14, wherein the liquid dispensing system is pivotable between the dispensing position and the closed position.
+ 18.  The mobile confectionary apparatus of claim 14, wherein the liquid dispensing system is slidable between the dispensing position and the closed position.
+ 19.  A mobile confectionary apparatus, comprising: a mobile vehicle including at least one upstanding side wall;  an interior space surrounded by the at least one upstanding wall for receiving at least one person;  an apparatus disposed in the
+interior space and configured to be usable by a person therein for preparing a frozen confection;  a confection dispensing opening extending through the side wall and through which a prepared frozen confection can be dispensed by a person located in the
+interior space to a person located outside of the mobile vehicle;  a toppings dispensing opening extending through the side wall and communicating between an exterior of the side wall and the interior space at a location so as to be accessible by a
+person located outside of the vehicle;  a liquid toppings dispensing system comprising a backsplash and a plurality of topping dispensers supported by and extending outwardly from the backsplash, each of the plurality of topping dispensers being operable
+for dispensing a liquid topping, wherein the liquid toppings dispensing system is configured to close the communication between the exterior of the side wall and the interior space through the toppings dispensing opening;  and a reservoir containing a
+quantity of the liquid topping and operably coupled to at least one of the plurality of topping dispensers.
+ 20.  The mobile confectionary apparatus of claim 19, further comprising a tray supported by the backsplash and spaced generally below at least one of the plurality of toppingdispensers the tray being configured for catching toppings dropped from
+the at least one of the plurality of topping dispenser and directing the dropped toppings to a waste container carried on the mobile vehicle.
+ 21.  The mobile confectionary apparatus of claim 19, wherein the mobile vehicle comprises a truck.
+ 22.  The mobile confectionary apparatus of claim 19, wherein the mobile vehicle comprises a trailer.
+ 23.  The mobile confectionary apparatus of claim 19, wherein the plurality of topping dispensers are positioned in a row and the reservoir is comprised of a plurality of reservoirs, each of the plurality of topping dispensers being connected by
+a respective liquid line to a respective one of the plurality of the reservoirs, each containing a quantity of the liquid topping.
+ 24.  The mobile confectionary apparatus of claim 23, wherein each of the liquid toppings comprises a flavored liquid, and wherein the plurality of reservoirs is disposed above the liquid toppings dispensersystem such that the liquid toppings
+will flow under force of gravity through the respective one of the liquid lines to the respect one of the plurality of topping dispensers.
+ 25.  The mobile confectionary apparatus of claim 19, wherein the liquid toppings dispensing system further comprises an apparatus configured to blow air past at least one of the plurality of topping dispensers.
+ 26.  The mobile confectionary apparatus of claim 25, wherein the apparatus configured to blow air includes a hood disposed generally above the at least one of the plurality of topping dispensers.
+ 27.  The mobile confectionary apparatus of claim 19, further comprising: a cover member configured to cover the liquid toppings dispensing system and to limit access to the liquid toppings dispensing system from outside of the vehicle. 
+
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+TECHNICAL FIELD
+ This invention relates generally to a mobile confectionary apparatus for dispensing drinks and/or food items such as frozen confections and the like, and more particularly, to a vehicle including a side having a window through which confections,
+or confection containers are sold or distributed, and a protectible, self-service liquid dispensing system usable for adding a topping or dispensing liquid into the container, which dispensing system has an open, operational mode, and a closed, protected
+mode so as to be inaccessible by customers, and also for cleaning, service and preparation for travel.
+BACKGROUND OF THE INVENTION
+ The disclosure of U.S.  Provisional Application No. 60/959,588, filed Jul.  11, 2007, is hereby incorporated herein in its entirety by reference.
+ Mobile confectionaries for selling a variety of confections, e.g., snow cones, shaved ice, ice creams, beverages, have been around for years.  The mobility is typically provided by incorporation into or onto a truck, trailer, kiosk, etc., and
+allows customers to purchase a beverage or the like in places they do not typically have an option to, e.g., festivals, parks, and on streets outside of customer's homes, etc. The dispensing of liquids, e.g., drinks, flavorings, etc, has typically been
+done by a person within the truck/trailer, or by the customer at a kiosk.  The known kiosks used are generally inside a larger structure or temporarily at an event and left unprotected by the elements and need to be placed in a location by a secondary
+means of transportation.  This is disadvantageous, as it either does not allow the units to be placed in locations where they are exposed to the elements, or it prevents easy portability.
+ Structurally, a mobile confectionery will typically include an enclosure, e.g. a box, having an interior work space outfitted for the preparation and sale of the confections, and at least one service window through which the confections are
+dispensed and the transaction is conducted.  The work space will be large enough for at least one person to work, and will contain apparatus for preparing the confections, e.g., ice shaving or crushing apparatus, slush making apparatus, ice cream/custard
+dispensing apparatus, or the like.
+ It has been found that in the mobile confectionery field, profitability and customer satisfaction are largely dependent on consumer appeal and productivity, which are mainly the result of providing quality products and fast service.  The sales
+opportunity may also be time sensitive, such as when crowds are present before or after a show or concert, or during an intermission, and can quickly dissipate.  For instance, if the line of customers at one confectionary is longer than at others, a
+consumer may make a choice of another confectionery.  Another important measure of product quality and customer satisfaction, particularly for frozen confections, such as shaved ice, snow cones, and the like, is the quantity of topping or flavoring
+applied to the confection.  Still further from the productivity standpoint, particularly for sales to children, it has been observed that valuable time can be lost waiting for customers to select their topping or flavor.
+ Thus, what is sought is a mobile confectionary apparatus, which increases customer satisfaction, productivity and sales, particularly for frozen confections, and which overcomes one or more of the shortcomings and problems set forth above.
+SUMMARY OF THE INVENTION
+ What is disclosed is mobile confectionary apparatus, which increases customer satisfaction, productivity and sales, and which overcomes one or more of the shortcomings and problems set forth above.
+ According to a preferred aspect of the invention, the mobile confectionary apparatus includes a mobile vehicle, such as a truck or trailer, including at least one upstanding side wall having an interior surface bounding an interior space on the
+vehicle adapted for receiving at least one person.  The confectionery apparatus includes apparatus disposed in the interior space, configured to be usable or operable by a person for preparing a confection, or the space can be used for dispensing
+containers, such as, but not limited to, cups, for holding confections, such as beverages.  For instance, such confection preparing apparatus can comprise, but is not limited to, apparatus for flaking, crushing and/or shaving ice, or for turning liquid
+into a frozen slush, and depositing the prepared confection in a cup or other container.  Such apparatus can also include an insulated container, freezer or refrigerator.  The side wall includes at least one opening or window through which the prepared
+confections, or confection containers, can be dispensed, and a monetary transaction for the confections conducted.
+ The side wall additionally includes a liquid dispensing system at a location so as to be accessible by a person located outside of the vehicle, the dispensing system being alternatively configurable in a dispensing or open mode or configuration,
+and a closed or protected mode or configuration.  In the dispensing mode, the dispensing system has at least one liquid dispenser positioned and manually operable by a person located outside of the vehicle for dispensing a liquid into a purchased
+container, or onto a confection, disposed generally beneath the dispenser.  Thus, using the system, the recipient of a container can select a liquid to be dispensed, and fill the container to a desired extent with the selected liquid.  Similarly, a
+recipient of a confection can select and apply one or more toppings to the confection, in a desired amount.  Additionally, in either instance, if allowed, the recipient can even leave and return later to refill the container or add toppings, which can be
+advantageous from a customer satisfaction standpoint.  If the confection is for a child, the external dispensary gives an attending adult the ability to limit the amount of the beverage received or topping applied, and it allows the child to take a
+longer time if desired or necessary to select a flavor or flavors, which can also increase customer satisfaction.  This is also desirable from an operations standpoint as reduces transaction time and personnel requirements, and increases the speed at
+which the confections are served, thereby improving productivity compared to if the containers are filled, or the toppings were applied by a worker.
+ As practical examples, a coach or parent purchasing confections for a team or several recipients can merely purchase a required number of confections, and the containers filled or toppings applied after the transaction, by the recipients.  Since
+less worker time is required, fewer persons are required for serving.
+ The dispensing system is preferably quickly and easily movable or convertible to the closed or protected mode or configuration, from within the interior space of the vehicle.  This is advantageous, as in the closed mode, access to the liquid
+beverage or toppings by persons outside of the vehicle is prevented, and it configures the system for travel and protects it from environmental elements, such as dirt, rain, and road spray during travel, and, in at least some embodiments, also allows
+cleaning the dispensing apparatus of the system from inside the vehicle.
+ According to another preferred aspect of the invention, each of the dispensers is connected by a liquid line to a reservoir carried on the mobile structure and containing a quantity of the beverage or topping for that dispenser.  The system, in
+the dispensing configuration, additionally preferably includes a tray spaced at least generally below the dispenser or dispensers and configured for catching spilled or dropped liquid beverages or toppings and directing them to a waste container carried
+on the vehicle.
+ As a preferred configuration of the invention, the dispenser and tray of the system are integrated so as to be positioned at an angular relationship one to the other, so as to be jointly configurable in the dispensing and closed positions, for
+instance, but not limited to, by a simple pivoting or rotating action or movement, or by a sliding movement.  Also preferably, when closed, the bottom or non-serving side of the tray can serve as the cover member.
+ According to various other preferred aspects of the invention, the system can include multiple dispensers for dispensing a variety of flavors of liquids can be provided, in connection respectively with reservoirs containing the liquids located
+within the vehicle, which liquids can be, for instance, flavored beverages such as soft drinks or juices, or toppings such as syrups.  Gravity feed can be used for dispensing the liquids, or a pressurized system used.
+ As examples of alternative constructions for the dispensing system, the cover member can be a hinged member preferably automatically movable between an open or dispensing position, and a closed or covering position.  As another alternative, the
+cover member can be configured as a sliding member disposed within the wall and manually or automatically slidable between open and closed positions.  And, as an alternative integrated construction, the cover member and dispenser or dispensers can be
+incorporated into a drawer slidable into and out of the side wall.
+ As still another alternative configuration, the apparatus of the dispensing system can be recessed in an opening in the side wall, and the tray pivotally mounted to the side wall so as to be pivotable between a generally horizontal open or
+deployed position spaced at least generally below the dispenser, and an upstanding closed position covering and protecting the opening.  In the open position, the tray is configured for catching overflowed or spilled liquid beverages or toppings, and
+directing the spillage to a waste container carried on the vehicle.
+ As still another preferred aspect of the invention, the external apparatus of the dispensing system is sufficiently spaced from the opening or window from which the confections or containers are dispensed and sold, to allow dispensing of the
+confections or containers at the dispensing opening or window, separately from the filling of the containers or application of the toppings to the confections.
+ In summary, a dispensing system for liquids is disclosed which is contained in a mobile structure, via wheels or motor/engine, so as to give or deny access to users, and when access is allowed, give them the option of dispensing the desired
+amount of liquid.  The dispensing system has the ability to be exposed or enclosed within the structure to allow/limit the access to users, and when enclosed, allow for cleaning and transportation of the structure to prevent any damage to the dispensing
+system. BRIEF DESCRIPTION OF THE DRAWINGS
+ FIG. 1 is simplified side view of a mobile confectionary apparatus of the invention;
+ FIG. 2 is a simplified sectional view of the apparatus, showing aspects of a liquid dispensing system of the apparatus in an open or dispensing mode;
+ FIG. 3 is another simplified sectional view of the confectionary apparatus, showing aspects of the dispensing system, and illustrating a person using the system to apply a topping on a confection;
+ FIG. 4 is still another simplified sectional view of the dispensing system, being moved by a person from the dispensing mode to a closed mode;
+ FIG. 4A is still another simplified sectional view of the dispensing system, in the closed mode;
+ FIG. 5 is another simplified sectional view of the apparatus, shown including an optional light in an air blower louver of the dispensing system;
+ FIG. 6 is a perspective view of a mobile confectionary apparatus including aspects of the liquid dispensing system embodied in an alternative support structure according to the invention;
+ FIG. 7 is a perspective view of a mobile confectionary apparatus showing aspects of the liquid dispensing system embodied in another construction according to the invention;
+ FIG. 8 is a perspective view of a mobile confectionary apparatus showing aspects of the liquid dispensing system embodied in another construction according to the invention;
+ FIG. 9 is a perspective view of a mobile confectionary apparatus showing aspects of the liquid dispensing system embodied in still another construction according to the invention;
+ FIG. 10 is a perspective view of a mobile confectionary apparatus showing aspects of the liquid dispensing system embodied in still another construction according to the invention, and including a cover member for the aspects of the system; and
+ FIG. 11 is a perspective view of a mobile confectionary apparatus showing aspects of the liquid dispensing system embodied in still another construction according to the invention, shown being installed on a side wall of the apparatus.
+DETAILED DESCRIPTION OF PREFERRED EMBODIMENTS
+ Referring now to the drawings wherein like numbers refer to like parts, in FIG. 1, a mobile confectionary apparatus 20 constructed and operable according to the teachings of the present invention is shown.  Apparatus 20 is shown here as
+including a conventional truck 22, including an engine and drive line (not shown) operable for drivingly rotating a pair of rear wheels 24 in the well known conventional manner, for propelling truck 22 over roads and the like to various destinations. 
+Truck 22 supports a mobile structure 26, which is essentially a box, including a side wall 28, enclosing an interior space 30, viewable through a transparent service window 32 in side wall 28.  Window 32 includes a confection dispensing opening 34,
+through which confections, or containers therefore, can be dispensed, and transactions for the confections conducted.  Window 32 is located at a suitable elevation above a surface 36 on which truck 22 is located, for a person standing beside the truck to
+receive a confection through the window.  Interior space 30 is sufficiently large for receiving a person, and is bounded on the opposite side by another side wall, on the bottom by a floor 38, on the rear by a rear wall 40, on the front by a front wall
+42, and above by a roof 44.  Roof 44 is spaced above floor 38 sufficiently for a person in interior space 30 to stand, and space 30 will preferably contain apparatus for use in making or preparing confections, as well as other apparatus, as required, for
+storing supplies, e.g., containers, for the confections, and for conducting the transaction, e.g., a cash register or the like (not shown).
+ Mobile confectionary apparatus 20 is preferably configured for making and serving frozen confections, in particular, ice confections, such as, but not limited to, shaved ice and/or snow cones, onto which a topping, such as a flavored liquid such
+as a syrup, is to be applied.  For this purpose, a machine 46 representative of well known machines usable for preparing shaved ice, snow cone, or other frozen confections, is illustrated in dotted lines in interior space 30, operable by a user in the
+well known manner for preparing a frozen confection 48.  Here, it should be recognized and understood that apparatus 20 can include a wide variety of equipment and confectionary devices in addition to, or as an alternative to, machine 46 illustrated,
+such as, but not limited to, a freezer, cooler, and/or the like (not shown), as desired or required for a particular application.
+ Referring also to FIGS. 2, 3, 4 and 5, apparatus 20 includes a liquid dispensing system 50 attached to or incorporated into mobile structure 26, so as to be configurable in a dispensing or open mode for allowing use by persons outside of the
+structure for applying a liquid topping to a confection, or filling a container with a liquid confection, and in a closed or protected mode for denying access to dispensing of liquids, and protecting apparatus of system 50 from damage by a user and
+environmental elements, such as dirt, rain, road spray, and the like, and also for allowing cleaning of the apparatus from within interior space 30.  Generally, system 50 includes one or more liquid dispensers, e.g., with or without an overflow/spill or
+catch basin attached to, or creating a structural element to be attached to, the structure.
+ Preferably, liquid dispensing system 50 is disposed in or on side wall 28 of apparatus 20, and includes at least one liquid dispenser 52 positioned, when system 50 is in the dispensing mode, at a suitable height and location so as to be manually
+operable by a person located outside of the vehicle for dispensing a liquid, e.g., a topping such as a flavored syrup, on a confection (illustrated by confection 48 in FIG. 3); or a beverage into a container such as a cup or the like, disposed generally
+beneath the dispenser 52.  Here, a row of dispensers 52 is utilized to provide a variety of flavored toppings, at a height sufficiently low to be accessible by children and disabled persons, which height can be within a range of from about 30 to about 48
+inches above a surface on which truck 22 is located.  Each dispenser 52 comprises a conventionally constructed and operable hand operated valve or spout, such as those commonly found on picnic jugs or commercial coffee makers, although alternatively, a
+variety of other selectably operable valve or closure devices could be used.  Each dispenser 52 is connected by a liquid line 54, which can be, for instance, a flexible plastic tube, to a reservoir 56 carried on mobile structure 26 and containing a
+quantity of the liquid to be dispensed by the dispenser.  System 50 additionally includes a tray 58 spaced at least generally below dispensers 52 and configured for catching toppings or other liquids or matter dropped from dispensers 52, or overflowing
+from a confection or container, such as confection 48, and directing the waste liquid or matter to a waste container 60 carried on the vehicle.  Additionally, when system 50 is in the closed mode, tray 58 comprises a cover member which covers and
+protects dispensers 52.
+ In this latter regard, tray 58 is preferably disposed on and/or forms a part of, a cover member 62 which is a portion of an L-shaped structure 64 including a backsplash 66 oriented at a fixed angle of about 90.degree.  to cover member 62. 
+L-shaped structure 64 is preferably of sheet metal or plastic material, and is pivotally mounted by a pivot joint 68, which can be a piano or other hinge, to side wall 28 below an opening 70 therethrough, so as to be pivotable between an open or
+dispensing position wherein tray 58 and cover member 62 are substantially horizontal (FIGS. 1, 2, 3 and 5) and backsplash 66 is substantially vertical, and a closed or covered position wherein tray 58 and cover member 62 are generally vertical and
+disposed in covering relation to opening 70 (FIG. 4A), and thus in covering relation to and protecting dispensers 52 from access and damage by persons outside of the vehicle, and from contact with environmental elements.
+ A detent 72, which can be, but is not limited to, a mechanical latch, clamp, clip, or the like, is disposed on side wall 28 adjacent to opening 70 (here illustrated above opening 70) in a position for engaging a periphery of backsplash 66, for
+releasably holding L-shaped structure 64 in the open position.  Detent 72 is manually operable for releasing structure 64 by a person located within interior space 30, for instance, by application of an upward force using one or more fingers of a
+person's hand 74, as illustrated in FIG. 4.  Once released, structure 64 can be manually moved to the closed position (shown in FIG. 4A, and in dotted lines in FIG. 2), to engage cover member 62 with the outer surface of side wall 28 around the periphery
+of opening 70, and to position dispensers 52, tray 58, and backsplash 66 within interior space 30, so as to be accessible to a person located therein, for cleaning or other purposes.  A suitable detent or latch (not shown) such as, but not limited to,
+another detent 72, can be utilized for releasably holding L-shaped structure 64 in the closed position.
+ Referring more particularly to FIG. 2, reservoirs 56 can be conveniently supported on racks 76 or other suitable structure or the like within interior space 30, preferably above the elevation of dispensers 52.  Liquid lines 54 extending between
+reservoirs 56 and dispensers 52, are preferably flexible, and of sufficient length, to facilitate movement of L-shaped structure 64 between the open and closed positions.  Also preferably, each reservoir 56 includes a vent 78 in an upper portion thereof,
+to facilitate liquid flow therefrom when the associated dispenser 52 is opened.  Additionally, each reservoir 56, and the connecting liquid line, is preferably of a clear material, to enable viewing the quantity of liquid contained therein, as well as
+fluid flow characteristics, from within interior space 30.  Similarly, a liquid line 54 is preferably provided extending from tray 58 to waste container 60, and is flexible to facilitate the pivotal movements of L-shaped structure 64.  To facilitate flow
+toward liquid line 54 in connection with waste container 60, tray 58 has a overflow/spill catch basin 80 which slopes downwardly toward an inlet of line 58, and a generally flat upper surface 82 of ribbed construction or the like, on which a container
+can rest, as illustrated in FIG. 3.  After waste container 60 is full, or is otherwise desired to empty the contents thereof, it is removable and detachable from line 54.
+ As an additional, optional feature, a blower 84 can be provided for directing a flow of air, as denoted by arrow A, over or across dispensers 52, and tray 58, for keeping bees, hornets, wasps and other insects away from those aspects of system
+50, as such insects may be attracted thereto, particularly when sugary liquids are present.  The flow of air can be directed downwardly, sidewardly, or in any desired manner which achieves the desired effect.  Blower 84 can be battery-powered or powered
+by an external power source in connection with apparatus 20.  As an example of one manner of directing the air flow, one or more louvers may be provided in connection with blower 84 through side wall 28, for directing the air flow downwardly toward
+dispensers 52.  Here also, blower 84 is illustrated as being located within interior space 30, but it could alternatively be located at a variety of other locations on apparatus 20, including on L-shaped structure 64, or the airflow could be directed
+over the dispensers 52 by a suitable duct from blower at a remote location on the vehicle.
+ As still another feature, as illustrated in FIG. 5, a light 88 operable for illuminating the external components of system 50 for use after dark, as generally denoted by arrows B, can be provided on louver 86 or another location.  Light 88 can
+be battery-powered, or powered by an external power source in connection with apparatus 20, as desired or required for a particular application.
+ Referring also to FIGS. 6, 7, 8, 9, 10 and 11, several alternative structures for housing and supporting aspects of liquid dispensing system 50 are shown, like elements of these structures to those of the previously described system 50 being
+identified by like numerals.  Referring more particularly to FIG. 6, liquid dispensers 52 of system 50 are located within a recess 90 within mobile structure 26, accessible through opening 70.  Liquid dispensers 52 are supported on a backsplash 66 above
+tray 58, and are connected to reservoirs 56 (e.g., FIG. 1) in the above described manner.  Tray 58 will also be connected to a waste container.  Here, tray 58 and backsplash 66 are preferably fixed or fixable in position, and can be covered by a sliding
+cover member 92 carried within or behind side wall 28, and movable by a person from within structure 26 to cover opening 70, as denoted by the large arrow.
+ Referring more particularly to FIG. 7, as another alternative, liquid dispensers 52 of system 50 are supported on backsplash 66 in a recess 90 accessible through an opening 70 on side wall 28 of structure 26, dispensers 52 being individually
+connected to liquid lines 54 and pullable by a user outwardly through opening 70 for use.
+ In FIG. 8, liquid dispensers 52 of system 50 are shown supported on a drawer 94 mounted in opening 70 of side wall 28 of structure 26, for movement inwardly and outwardly by a person located within structure 26, between a closed or protected
+position, and an open or dispensing position (shown).  A cover member 96 pivotally mounted to side wall 28 adjacent the lower periphery of opening 70 by a self-closing hinge 98, will automatically pivot into closing relation to opening 70 when drawer 94
+is moved to its closed position.
+ FIG. 9 shows still another alternative mounting structure for aspects of system 50, here including a plurality of liquid dispensers 52 thereof, which mounting structure includes a backsplash 66 mountable by a person from within structure 26, in
+an opening 70 of side wall 28 of the structure.  Liquid lines 54 will connect with reservoirs carrying the flavored liquids, as disclosed and discussed above.  Suitable detents, such as detents 72 discussed and disclosed above, or other retainer
+elements, e.g., slots or grooves (on the inside of side wall 28), can be utilized for engaging tabs 100 on backsplash 66, for retaining it in the opening.
+ In FIG. 10, still another alternative mounting structure for aspects of system 50 are shown.  Here, backsplash 66 and an integral tray 58 are shown permanently affixed to the outer surface of side wall 28 of structure 26, with a plurality of
+liquid dispensers 52 projecting from the backsplash.  A removable cover member 102 is illustrated as being positionable and securable in covering relation to dispensers 52 and tray 58, as denoted by the large curved arrow.  Liquid dispensers 52 will
+connect with the reservoirs, as already explained.
+ FIG. 11 shows still another structure 104 for supporting liquid dispensers 52 and tray 58 of system 50 on an outer surface of a side wall 28 of a mobile structure 26, here, backsplash 66 and tray 58 being incorporated into structure 104, which
+is hangable on the side wall using cooperatively engageable hanger brackets 106 and 108, as illustrated by the large curved arrow.  Again, dispensers 52 are connectable by liquid lines 54, which will extend through side wall 28, to the reservoirs for
+receiving the flavored liquids therefrom, as already explained.
+ Thus, there has been shown and described several embodiments of a novel mobile confectionary apparatus and liquid dispensing system, which overcomes many of the problems set forth above.  It will be apparent, however, to those familiar in the
+art, that many changes, variations, modifications, and other uses and applications for the subject device are possible.  All such changes, variations, modifications, and other uses and applications that do not depart from the spirit and scope of the
+invention are deemed to be covered by the invention which is limited only by the claims which follow.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
