@@ -1,6 +1,3 @@
-# inventtory_data_scraping
-data project
-
 
 ## BASIC SCRAPY OPERATION NOTES
 
