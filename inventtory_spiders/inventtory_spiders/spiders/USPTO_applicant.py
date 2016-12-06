@@ -1,3 +1,11 @@
+'''
+    File name: USPTO_applicant.py
+    Author: Seraphina Anderson
+    Date last modified: 6/12/2016
+    Python Version: 2.7, 3.5
+'''
+
+
 # -*- coding: utf-8 -*-
 
 import scrapy

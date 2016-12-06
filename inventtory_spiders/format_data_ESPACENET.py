@@ -23,8 +23,16 @@ with open('espacenet_china_test1.csv', "rt") as f:
 ###PROCESS DATA FIELDS###
 #########################
 
-###ADJUST THE FIELDS LIST AS REQUIRED - fields must be from the EspacenetItem data model, and match exactly###
+###ADJUST THE FIELDS LIST AS REQUIRED - fields must be from the EspacenetItem data model (see items.py file), and match exactly###
 fields = ['document_url', 'key_identifier', 'patent_country', 'patent_country_code', 'patent_application_number', 'patent_number', 'patent_name', 'page_bookmark', 'inventors', 'applicants', 'classification_international', 'classification_cooperative', 'application_number', 'priority_numbers', 'abstract', 'patent_description', 'original_claims', 'claims_tree', 'cited_documents', 'citing_documents', 'INPADOC_legal_status', 'INPADOC_patent_family']
+
+###WORK OUT NUMBER OF COPIES OF A DOCUMENT IN FOLDER###
+
+try:
+    len([name for name in os.listdir(csv_path) if os.path.isfile(os.path.join(csv_path, name))])
+    num = len([name for name in os.listdir(csv_path) if os.path.isfile(os.path.join(csv_path, name))]) + 1
+except:
+    num = 1
 
 for record in new_rows:
     patent_index = header.index('key_identifier')

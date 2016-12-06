@@ -1,3 +1,11 @@
+'''
+    File name: USPTO_patent_apps_classes_subclasses.py
+    Author: Seraphina Anderson
+    Date last modified: 6/12/2016
+    Python Version: 2.7, 3.5
+'''
+
+
 # -*- coding: utf-8 -*-
 
 import scrapy

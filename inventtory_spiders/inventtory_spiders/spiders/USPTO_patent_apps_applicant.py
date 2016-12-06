@@ -1,3 +1,11 @@
+'''
+    File name: USPTO_patent_apps_applicant.py
+    Author: Seraphina Anderson
+    Date last modified: 6/12/2016
+    Python Version: 2.7, 3.5
+'''
+
+
 # -*- coding: utf-8 -*-
 
 import scrapy
@@ -19,6 +27,13 @@ from inventtory_spiders.items import UsptoItem
 class UsptoSpider(CrawlSpider):
     name = "uspto_apps_applicant"
     #generate search urls
+
+##    COUNT_MAX = 5
+##    count = 0
+
+#log_path = 'C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\uspto_patent_app_numbers\LOG_uspto_patent_app_numbers\'
+
+    
     def start_requests(self):
         patent_applicants = ['Lewis-Randall-J','Sidebotham-Christopher-G','Roitburg-Leon']
         #example query strings (names have to be writtern in the format shown below):
@@ -30,12 +45,11 @@ class UsptoSpider(CrawlSpider):
         #query for multiple patents needs to take this form: PN/9503743 OR PN/9503693 OR PN/9503691
         for applicant in patent_applicants:
             applicants = applicants + 'AANM/' + str(applicant) + ' OR '
-        applicants = applicants[:-4]  
+        applicants = applicants[:-4]
         url = 'http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=0&p=1&f=S&l=50&Query=' + str(applicants) + '&d=PG01'
         #test
         print(url)
         yield Request(url, callback=self.parse_search_url, dont_filter=True)
-
 
     def parse_search_url(self, response):
         ## get URL ##

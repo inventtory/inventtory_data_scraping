@@ -9,6 +9,7 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
+
 BOT_NAME = 'inventtory_spiders'
 
 SPIDER_MODULES = ['inventtory_spiders.spiders']
@@ -91,26 +92,41 @@ DOWNLOAD_DELAY = 5 #crawler scrapes a record every n seconds
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-##########################
-###PRINT OUT SCRAPY LOG###
-##########################
 
-#comment out when not printing out log
+#STATS_CLASS = True
+#STATS_DUMP = True 
 
-LOG_STDOUT = True
-LOG_FILE = 'scrapy_log_files/espacenet_europe_test1.txt'
+#############################
+###DETERMINE LOG FILE NAME###
+#############################
+
+LOG_FILE = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\espacenet_applicant_Abstr-Claim-Descr\LOG_espacenet_applicant\espacenet_applicant_1.log'
 
 ########################
 ###CHOOSE A LOG LEVEL###
 ########################
 
-LOG_LEVEL = 'ERROR'
+LOG_LEVEL = 'INFO'
 #LOG_LEVEL = 'DEBUG'
+#LOG_LEVEL = 'ERROR'
+
+LOG_ENABLED = True
+
+LOG_STDOUT = False
 
 
-###############################
-###TURN DUPLICATE FILTER OFF###
-###############################
+
+###############
+###PIPELINES###
+###############
+
+ITEM_PIPELINES = {
+    'inventtory_spiders.pipelines.InventtorySpidersPipeline': 300,
+}
+
+USER_AGENT = "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36"
+
+#CLOSESPIDER_ITEMCOUNT = 5
 
 
 

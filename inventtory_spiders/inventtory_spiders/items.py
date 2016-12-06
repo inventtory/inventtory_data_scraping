@@ -120,29 +120,5 @@ class UsptoItem(scrapy.Item):
     patent_description = scrapy.Field()
 
 
-class TestItem(scrapy.Item):
-    page_number = scrapy.Field()
-    patent_link_number = scrapy.Field()
-    patent_name = scrapy.Field()
-    patent_url = scrapy.Field()
-    tab_1 = scrapy.Field()
-    tab_2 = scrapy.Field()
-    tab_3 = scrapy.Field()
-    tab_4 = scrapy.Field()
-    tab_5 = scrapy.Field()
-    tab_6 = scrapy.Field()
-    tab_7 = scrapy.Field()
 
-
-
-
-
-
-
-
-
-
-
-    
-    
 

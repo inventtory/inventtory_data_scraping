@@ -1,3 +1,11 @@
+'''
+    File name: ww_espacenet_patent_number.py
+    Author: Seraphina Anderson
+    Date last modified: 6/12/2016
+    Python Version: 2.7, 3.5
+'''
+
+
 # -*- coding: utf-8 -*-
 
 import sys
@@ -147,22 +155,24 @@ class EspacenetSpider(CrawlSpider):
                           
         item['page_bookmark'] = bookmark0 + bookmark1
        
-        try:
-            response.xpath('//span[@id="inventors"]/text()').re('(\w+[^\n\t\r]+;?)?\\r.*')
-            inventors = response.xpath('//span[@id="inventors"]/text()').re('(\w+[^\n\t\r]+;?)?\\r.*')
-            inventors = [e for e in inventors if e != '']
-            #item['inventors'] = ' '.join(inventors)
+        if response.xpath('//span[@id="inventors"]/text()') != []:
+            print("inventors contains stuff!")
+            inventors = response.xpath('//span[@id="inventors"]/text()').extract()
+            inventors = [e.decode('unicode_escape').encode('ascii','ignore') for e in inventors]
+            inventors = ''.join(inventors)
             item['inventors'] = inventors
-        except:
+        else:
+            print("we're empty!")
             item['inventors'] = 'NEEDS FIXING!'
 
-        try:
-            response.xpath('//span[@id="applicants"]/text()').re('(\w+[^\n\t\r]+;?)?\\r.*')
-            applicants = response.xpath('//span[@id="applicants"]/text()').re('(\w+[^\n\t\r]+;?)?\\r.*')
-            applicants = [e for e in applicants if e != '']
-            #item['applicants'] = ' '.join(applicants)
+        if response.xpath('//span[@id="applicants"]/text()') != []:
+            print("applicants contains stuff!")
+            applicants = response.xpath('//span[@id="applicants"]/text()').extract()
+            applicants = [e.decode('unicode_escape').encode('ascii','ignore') for e in applicants]
+            applicants = ''.join(applicants)
             item['applicants'] = applicants
-        except:
+        else:
+            print("we're empty!")
             item['applicants'] = 'NEEDS FIXING!'
 
         if response.xpath('//td[@class="containsTable"]//tbody/tr[1]//a//text()') != []:
@@ -190,9 +200,9 @@ class EspacenetSpider(CrawlSpider):
                 
         
         try:
-            response.xpath('//td[@class="printTableText"]//text()').re('([A-Z]{2}[0-9]+\s*\d{8})+')
-            priority_numbers = response.xpath('//td[@class="printTableText"]//text()').re('([A-Z]{2}[0-9]+\s*\d{8})+')
-            item['priority_numbers'] = response.xpath('//td[@class="printTableText"]//text()').re('([A-Z]{2}[0-9]+\s*\d{8})+')
+            response.xpath('//th[contains(text(),"Priority number(s)")]').xpath('//td[@class="printTableText"]//text()').re('([A-Z]{2}[0-9]+[A-Z]*\s*\d{8})+')
+            priority_numbers = response.xpath('//th[contains(text(),"Priority number(s)")]').xpath('//td[@class="printTableText"]//text()').re('([A-Z]{2}[0-9]+[A-Z]*\s*\d{8})+')[1:]
+            item['priority_numbers'] = ', '.join(priority_numbers)
         except:
             item['priority_numbers'] = ''
             
@@ -205,6 +215,8 @@ class EspacenetSpider(CrawlSpider):
 
         #generate next tab URL
         desc_tab = url1 + 'description' + url2
+
+        print("Testing - bibliographic tab!")
 
         yield Request(desc_tab, callback=self.parse_desc_tab, meta=dict(item=item))
 
@@ -227,11 +239,13 @@ class EspacenetSpider(CrawlSpider):
         item = response.meta['item']
 
         #URL: https://worldwide.espacenet.com/publicationDetails/description?CC=US&NR=9486108B1&KC=B1&FT=D&ND=3&date=20161108&DB=EPODOC&locale=en_E
-        try:
+        if response.xpath('//p[@class="printTableText"]//text()') != []:
             response.xpath('//p[@class="printTableText"]//text()').extract()
             patent_description = response.xpath('//p[@class="printTableText"]//text()').extract()
-            item['patent_description'] = patent_description[1:]
-        except:
+            patent_description = patent_description[1:]
+            patent_description = ''.join(patent_description)
+            item['patent_description'] = patent_description.decode('unicode_escape').encode('ascii','ignore')
+        else:
             item['patent_description'] = ''
 
         print("Testing - description tab!")
@@ -258,15 +272,17 @@ class EspacenetSpider(CrawlSpider):
         item = response.meta['item']
 
         #URL: https://worldwide.espacenet.com/data/publicationDetails/claims?CC=US&NR=9486108B1&KC=B1&FT=D&ND=3&date=20161108&DB=EPODOC&locale=en_EP
-        try:
-            response.xpath('//div[@id="claims"]/p[@lang="en"]//text()').extract()
+        if response.xpath('//div[@id="claims"]/p[@lang="en"]//text()') != []:
+            original_claims = response.xpath('//div[@id="claims"]/p[@lang="en"]//text()').extract()
+            print(original_claims)
             item['original_claims'] = response.xpath('//div[@id="claims"]/p[@lang="en"]//text()').extract()
-        except:
+        elif response.xpath('//div[@id="claims"]/p[@lang="en"]//text()') == []:
             item['original_claims'] = ''
-        try:
-            response.xpath('//ul[@id="claimsTree"]//text()').extract()
+        if response.xpath('//ul[@id="claimsTree"]//text()') != []:
+            claims_tree = response.xpath('//ul[@id="claimsTree"]//text()').extract()
+            print(claims_tree)
             item['claims_tree'] = response.xpath('//ul[@id="claimsTree"]//text()').extract()
-        except:
+        elif response.xpath('//ul[@id="claimsTree"]//text()'):
             item['claims_tree'] = ''
         
         print("Testing - claims tab!")
