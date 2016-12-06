@@ -27,7 +27,12 @@ with open('espacenet_china_test1.csv', "rt") as f:
 #########################
 
 ###ADJUST THE FIELDS LIST AS REQUIRED - fields must be from the EspacenetItem data model (see items.py file), and match exactly###
+            
+#option 1
+fields = ['document_url', 'key_identifier', 'abstract', 'patent_description', 'original_claims', 'claims_tree']
+#option 2
 fields = ['document_url', 'key_identifier', 'patent_country', 'patent_country_code', 'patent_application_number', 'patent_number', 'patent_name', 'page_bookmark', 'inventors', 'applicants', 'classification_international', 'classification_cooperative', 'application_number', 'priority_numbers', 'abstract', 'patent_description', 'original_claims', 'claims_tree', 'cited_documents', 'citing_documents', 'INPADOC_legal_status', 'INPADOC_patent_family']
+
 
 ###WORK OUT NUMBER OF COPIES OF A DOCUMENT IN FOLDER###
 

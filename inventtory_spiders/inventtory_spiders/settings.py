@@ -29,7 +29,7 @@ ROBOTSTXT_OBEY = False
 # See http://scrapy.readthedocs.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
 
-DOWNLOAD_DELAY = 5 #crawler scrapes a record every n seconds
+DOWNLOAD_DELAY = .5 #crawler scrapes a record every n seconds
 
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
@@ -100,7 +100,7 @@ DOWNLOAD_DELAY = 5 #crawler scrapes a record every n seconds
 ###DETERMINE LOG FILE NAME###
 #############################
 
-LOG_FILE = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\espacenet_china_Abstr-Claim-Descr\LOG_espacenet_china\espacenet_china_1.log'
+LOG_FILE = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\espacenet_europe_Abstr-Claim-Descr\LOG_espacenet_europe\espacenet_europe_1.log'
 
 ########################
 ###CHOOSE A LOG LEVEL###

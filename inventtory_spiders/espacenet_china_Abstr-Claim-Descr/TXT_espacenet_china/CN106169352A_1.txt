@@ -1,0 +1,24 @@
+document_url: 
+https://worldwide.espacenet.com/data/publicationDetails/biblio?DB=EPODOC&II=1&ND=3&adjacent=true&locale=en_EP&FT=D&date=20161130&CC=CN&NR=106169352A&KC=A
+
+
+key_identifier: 
+CN106169352A
+
+
+abstract: 
+An inductor includes a stacked body with a plurality of structural bodies that are stacked. Each of the plurality of structural bodies includes a wiring and an insulation layer formed on the wiring. The wirings of the plurality of structural bodies are connected in series to form a helical coil. The inductor further includes a through hole, which extends through the stacked body in a thickness direction of the stacked body, and a plurality of discrete insulation films, which are spaced apart from each other and cover surfaces of the wires of the plurality of structural bodies exposed from a surface of the stacked body.
+
+
+patent_description: 
+
+
+
+original_claims: 
+
+
+
+claims_tree: 
+
+
+

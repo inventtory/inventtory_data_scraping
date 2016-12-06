@@ -34,3 +34,15 @@
 2016-12-06 16:47:05 [scrapy] INFO: Crawled 61 pages (at 10 pages/min), scraped 0 items (at 0 items/min)
 2016-12-06 16:48:05 [scrapy] INFO: Crawled 71 pages (at 10 pages/min), scraped 0 items (at 0 items/min)
 2016-12-06 16:49:05 [scrapy] INFO: Crawled 82 pages (at 11 pages/min), scraped 0 items (at 0 items/min)
+2016-12-06 16:50:05 [scrapy] INFO: Crawled 91 pages (at 9 pages/min), scraped 0 items (at 0 items/min)
+2016-12-06 16:51:05 [scrapy] INFO: Crawled 101 pages (at 10 pages/min), scraped 0 items (at 0 items/min)
+2016-12-06 16:52:05 [scrapy] INFO: Crawled 111 pages (at 10 pages/min), scraped 0 items (at 0 items/min)
+2016-12-06 16:53:05 [scrapy] INFO: Crawled 122 pages (at 11 pages/min), scraped 1 items (at 1 items/min)
+2016-12-06 16:54:05 [scrapy] INFO: Crawled 131 pages (at 9 pages/min), scraped 1 items (at 0 items/min)
+2016-12-06 16:55:05 [scrapy] INFO: Crawled 141 pages (at 10 pages/min), scraped 5 items (at 4 items/min)
+2016-12-06 16:56:05 [scrapy] INFO: Crawled 150 pages (at 9 pages/min), scraped 14 items (at 9 items/min)
+2016-12-06 16:57:05 [scrapy] INFO: Crawled 161 pages (at 11 pages/min), scraped 17 items (at 3 items/min)
+2016-12-06 16:58:05 [scrapy] INFO: Crawled 171 pages (at 10 pages/min), scraped 17 items (at 0 items/min)
+2016-12-06 16:58:15 [scrapy] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2016-12-06 16:58:15 [scrapy] INFO: Closing spider (shutdown)
+2016-12-06 16:58:58 [scrapy] INFO: Received SIGINT twice, forcing unclean shutdown

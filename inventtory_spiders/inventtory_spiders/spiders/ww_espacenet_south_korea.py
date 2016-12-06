@@ -65,7 +65,7 @@ class EuropeSpider(CrawlSpider):
             num_pages = int(num_results/25) + 1
 
         #print total number of pages
-        print("total number of pages is: " + num_pages)
+        print("total number of pages is: " + str(num_pages))
 
         #iterate through pages
         i = 0

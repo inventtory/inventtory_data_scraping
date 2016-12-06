@@ -11,7 +11,7 @@ new_rows = []
 ###ENTER SPIDER NAME HERE###      #-*-STEP 1-*-#
 ############################
 
-spider_name = 'espacenet_china'
+spider_name = 'espacenet_europe'
 
 timestr = time.strftime("%Y%m%d-%H%M%S")
 
