@@ -1,0 +1,627 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2150&p=43&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8567843B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8567843B2
+
+
+patent_name: 
+Tonneau cover having securing mechanism
+
+
+patent_publish_date: 
+October 29, 2013
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ A tonneau cover apparatus for securing a flexible cover about a cargo box
+     of a pickup truck. The apparatus comprises the cover and a support frame
+     for attachment to the cargo box. The frame has two opposing side rails,
+     each of which has a lock engaging surface. The support frame further
+     includes a pair of securing plate engagement members, each of which is
+     secured to one of the respective opposing side rails. The apparatus
+     further comprises a flexible cover securing plate attached to the cover.
+     The flexible cover securing plate includes a channel and least one
+     locking member. Each locking member is secured within the channel and
+     each respective locking member is engagable with the lock engaging
+     surface of the respective side rail such that the flexible cover securing
+     plate is prevented from disengaging with respect to the respective side
+     rail when it is in a first position.
+ 
+
+
+inventors: 
+Schmeichel; Charles M. (Jamestown, ND), Schmeichel; Steven C. (Jamestown, ND) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Agri-Cover, Inc.  (Jamestown,  ND)   
+
+
+family_ID: 
+22843554
+
+
+application_number: 
+13/687,749
+
+
+filed_date: 
+November 28, 2012
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+Issue Date,  , 13323971
+
+
+related_US_patent_document_2: 
+Dec 11, 2012, 8328267,  
+
+
+related_US_patent_document_3: 
+12577285, Dec 27, 2011, 8083281
+
+
+related_US_patent_document_4: 
+ , 11778473, Nov 24, 2009
+
+
+related_US_patent_document_5: 
+7621582,  , 11045857
+
+
+related_US_patent_document_6: 
+Jan 6, 2009, 7472941,  
+
+
+related_US_patent_document_7: 
+09930680, Aug 14, 2001,  
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20130140843 A1
+
+
+prior_pub_data_publication_date: 
+Jun 6, 2013
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F1500091, 1500091, July 1924, Weiske et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2906323, 2906323, September 1959, Macyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3923334, 3923334, December 1975, Keyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4036521, 4036521, July 1977, Clenetrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4272119, 4272119, June 1981, Adamsrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4273377, 4273377, June 1981, Alexanderrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4757854, 4757854, July 1988, Rippbergerrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4838602, 4838602, June 1989, Nettrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4923240, 4923240, May 1990, Swansonrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5040843, 5040843, August 1991, Russell et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5058652, 5058652, October 1991, Wheatley et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5067766, 5067766, November 1991, Lovaasrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5076338, 5076338, December 1991, Schmeichel et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5174353, 5174353, December 1992, Schmeichel et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5251951, 5251951, October 1993, Wheatleyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5263761, 5263761, November 1993, Hathaway et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5350213, 5350213, September 1994, Bernardorowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5364154, 5364154, November 1994, Kaiserrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5427428, 5427428, June 1995, Ericson et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5480206, 5480206, January 1996, Hathaway et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5487585, 5487585, January 1996, Wheatleyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5522635, 5522635, June 1996, Downeyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5540475, 5540475, July 1996, Kersting et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5553652, 5553652, September 1996, Rushfordrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5584521, 5584521, December 1996, Hathaway et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5595417, 5595417, January 1997, Thoman et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5655808, 5655808, August 1997, Wheatleyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5688017, 5688017, November 1997, Bennettrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5758922, 5758922, June 1998, Wheatleyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5765902, 5765902, June 1998, Loverowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5788315, 5788315, August 1998, Tuckerrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5860691, 5860691, January 1999, Thomsen et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5906407, 5906407, May 1999, Schmeichelrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5921603, 5921603, July 1999, Karrerrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6024401, 6024401, February 2000, Wheatley et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6024402, 6024402, February 2000, Wheatleyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6030021, 6030021, February 2000, Ronairowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6053556, 6053556, April 2000, Webbrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6053558, 6053558, April 2000, Weldy et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6209366, 6209366, April 2001, Zagoroffrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6234561, 6234561, May 2001, Huotarirowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6257306, 6257306, July 2001, Weldyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6257647, 6257647, July 2001, Ninness et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6264266, 6264266, July 2001, Ruso et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6427500, 6427500, August 2002, Weinerman et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6439640, 6439640, August 2002, Wheatleyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6499791, 6499791, December 2002, Wheatleyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6543835, 6543835, April 2003, Schmeichel et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6568740, 6568740, May 2003, Dimmerrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6575520, 6575520, June 2003, Spencerrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6607234, 6607234, August 2003, Schmeichelrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6672644, 6672644, January 2004, Schmeichelrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6719353, 6719353, April 2004, Isler et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6814388, 6814388, November 2004, Wheatleyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6851738, 6851738, February 2005, Schmeichel et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6893073, 6893073, May 2005, Wheatleyrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7066524, 7066524, June 2006, Schmeichel et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7104586, 7104586, September 2006, Schmeichel et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7621582, 7621582, November 2009, Schmeichel et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7828361, 7828361, November 2010, Spencerrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F8083281, 8083281, December 2011, Schmeichel et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F8328267, 8328267, December 2012, Schmeichel et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F8336946, 8336946, December 2012, Schrader et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F8439423, 8439423, May 2013, Schmeichel et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20010020792&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2001/0020792, September 2001, Huotarirowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20020096910&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2002/0096910, July 2002, Schmeichel et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20030197394&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2003/0197394, October 2003, Dimmerrowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20040212212&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2004/0212212, October 2004, Spencer et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20100019530&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2010/0019530, January 2010, Schmeichel et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20110169296&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2011/0169296, July 2011, Schrader et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20120049568&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2012/0049568, March 2012, Wolf et al.
+
+
+references_primary_examiner: 
+Dayoan; Glenn
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+Blankenship; Gregory
+
+
+other_references_attorney_agent_or_firm: 
+Moore & Hansen, PLLC
+
+
+patent_claims: 
+What is claimed is:  1.  A tonneau cover apparatus for removable attachment about a top of a perimeter of a cargo box of a vehicle, the perimeter of the cargo box including a forward end and two
+opposing sidewalls, the tonneau cover apparatus comprising: a flexible cover including a sheet of coated fabric material, the flexible cover having first and second ends;  a support frame for attachment to the cargo box, the support frame having two
+opposing side rails and a pair of securing plate engagement members, each of which is secured to one of the respective opposing side rails in a position rearward of the forward end when the tonneau cover apparatus is attached to the cargo box;  a
+flexible cover securing plate attached to one end of the flexible cover;  the flexible cover securing plate configured to cooperatively engage and pivot with respect to each of the respective securing plate engagement members at first and second
+engagement positions;  wherein the securing plate engagement members cooperate to engage the flexible cover securing plate when the first end of the flexible cover is operatively connected to the support frame forward of the respective securing plate
+engagement members, such that the flexible cover securing plate can pivot into and out of a fixed stretching position, at the respective first and second engagement positions, wherein the flexible cover is stretched so as to place a tension on the
+flexible cover;  a locking member, the locking member being secured to the flexible cover securing plate and movable between a first position and a second position when the flexible cover securing plate is in the fixed stretching position;  and an
+elongated member selected from the group consisting of a cable and draw cord;  the elongated member connected to the locking member;  wherein the locking member prevents the flexible cover securing plate from being disengaged from the fixed stretching
+position when the locking member is in the first position in which an extension of the locking member engages the side rail adjacent to the flexible cover securing plate to prevent such movement, and wherein the flexible cover securing plate can be
+disengaged from the fixed stretching position when the locking member is in the second position.
+ 2.  The tonneau cover apparatus of claim 1, wherein the flexible cover securing plate includes a channel, wherein the locking member is secured within the channel.
+ 3.  The tonneau cover apparatus of claim 2, wherein the flexible cover securing plate has first and second ends, wherein the channel extends from the first end of the flexible cover securing plate to the second end of the flexible cover securing
+plate.
+ 4.  The tonneau cover apparatus of claim 1, wherein the locking member is spring biased in the first position.
+ 5.  A tonneau cover apparatus for removable attachment about a top of a perimeter of a cargo box of a vehicle, the perimeter of the cargo box including a forward end and two opposing sidewalls, the tonneau cover apparatus comprising: a flexible
+cover, the flexible cover having first and second ends;  the flexible cover also having a first fastener;  a support frame for attachment to the cargo box;  the support frame having two opposing side rails and a pair of securing plate engagement members,
+each of which is secured to one of the respective opposing side rails in a position rearward of the forward end when the tonneau cover apparatus is attached to the cargo box;  the side rails further including a second fastener corresponding to the first
+fastener;  a flexible cover securing plate attached to the second end of the flexible cover, the flexible cover securing plate configured to cooperatively engage the respective securing plate engagement members when the flexible cover is drawn over the
+top of the perimeter of the cargo box;  two locking members, each locking member being secured to the flexible cover securing plate;  and an elongated member selected from the group consisting of a cable and draw cord;  the elongated member
+interconnected to each of the two locking members;  wherein the elongated member can be used to draw each of the locking members from a first position to a second position when the flexible cover securing plate is in the closed position;  wherein the
+securing plate engagement members cooperate to engage the flexible cover securing plate in a full engagement position when the first end of the flexible cover is operatively connected to the support frame forward of the respective securing plate
+engagement members, and the flexible cover securing plate is in a closed position, wherein the flexible cover is stretched so as to place a tension on the flexible cover;  and wherein the locking members prevent the flexible cover securing plate from
+being disengaged from the closed position when the locking members are in the first position in which an extension of each of the respective locking members engages one of the respective side rails adjacent to the flexible cover securing plate to prevent
+such movement, and wherein the flexible cover securing plate can be disengaged from the closed position when each of the respective locking members are in the second position.
+ 6.  The tonneau cover apparatus of claim 5, wherein the locking members are located on an underside of the flexible cover securing plate.
+ 7.  The tonneau cover apparatus of claim 5, wherein the first fastener and the second fastener are selected from the group consisting of hook fastener and loop fastener.
+ 8.  The tonneau cover apparatus of claim 5, wherein each of the respective locking members are spring biased toward the first position.
+ 9.  A tonneau cover apparatus for removable attachment about a top of a perimeter of a cargo box of a vehicle, the perimeter of the cargo box including a forward end and two opposing sidewalls, the tonneau cover apparatus comprising: a flexible
+cover, the flexible cover having first and second ends;  two opposing side rails, each side rail including a flexible cover securing plate engagement member in a position rearward of the forward end when the tonneau cover apparatus is attached to the
+cargo box;  and a flexible cover securing plate attached to the second end of the flexible cover, the flexible cover securing plate configured to cooperatively engage the respective securing plate engagement members;  wherein each of the respective
+securing plate engagement members include a surface for engagement with the flexible cover securing plate that faces rearward of the forward end, when the side rails are attached about the top of the perimeter of the cargo box, that is accessible to
+engagement by the flexible cover securing plate from a position rearward of such surface so that the respective securing plate engagement members can engage respective ends of the flexible cover securing plate when the first end of the flexible cover is
+operatively connected to the side rails forward of the respective securing plate engagement members;  wherein the flexible cover securing plate further includes a spring-biased locking member on an underside of the flexible cover securing plate, the
+locking member being movable between a first position and a second position;  wherein the locking member can prevent the flexible cover securing plate from being disengaged from the securing plate engagement members when the locking member is in the
+first position and wherein the flexible cover securing plate can be disengaged from the respective plate engagement members when the locking member is in the second position;  and an elongated member selected from the group consisting of a cable and draw
+cord;  the elongated member connected to the locking member such that the elongated member can draw the locking member from the first position to the second position.
+ 10.  The tonneau cover apparatus of claim 9, wherein the flexible cover securing plate has two locking members each of which is spring-biased toward the first position.
+ 11.  The tonneau cover apparatus of claim 9, wherein the flexible cover securing plate includes a channel;  wherein the locking member is slidably secured within the channel.
+ 12.  The tonneau cover apparatus of claim 9, wherein the locking member is spring biased toward the first position with a spring.
+ 13.  The tonneau cover apparatus of claim 12, wherein the spring is selected from a compression spring and a tension spring.
+ 14.  A tonneau cover apparatus for removable attachment about a top of a perimeter of a cargo box of a vehicle, the perimeter of the cargo box including a forward end and two opposing sidewalls, the tonneau cover apparatus comprising: a flexible
+cover including a sheet of coated fabric material, the flexible cover having a first fastener;  a support frame for attachment to the cargo box, the support frame having two opposing side rails, each of which can be secured to one of the respective
+opposing side walls and each of which have a second fastener that corresponds to the first fastener;  and a flexible cover securing plate having first and second ends, the flexible cover securing plate being attached to the flexible cover, the flexible
+cover securing plate being engageable with the respective side rails to secure the flexible cover to the support frame;  wherein the flexible cover securing plate includes a locking member and a channel proximate one of the respective ends, the locking
+member being slidably secured within the channel;  and an elongated member selected from the group consisting of a cable and draw cord;  the elongated member connected to the locking member;  wherein the flexible cover securing plate is prevented from
+disengaging from the respective side rail when the locking member is in a first position and the flexible cover securing plate is secured to at least one of the respective side rails;  wherein the locking member is biased toward the first position;  and
+wherein the flexible cover securing plate can disengage from the respective side rails when the locking member is in a second position.
+ 15.  The tonneau cover apparatus of claim 14, wherein each side rail includes a securing plate engagement member and the flexible cover securing plate is configured to cooperatively engage and pivot with respect to each of the respective
+securing plate engagement members at first and second engagement positions.
+ 16.  The tonneau cover apparatus of claim 14, wherein the flexible cover securing plate includes two locking members, each locking member being slidably secured within the channel.
+ 17.  The tonneau cover apparatus of claim 14, wherein the locking member has a finger portion with a tapered shape.
+ 18.  The tonneau cover of claim 14, wherein the flexible cover securing plate has a channel proximate each end and two locking members, each of which is slidably secured within such channel at an end opposite the end where the other locking
+member is secured.
+ 19.  The tonneau cover of claim 18, wherein each of the locking members are spring-biased toward the first position.
+ 20.  A tonneau cover apparatus for removable attachment about a top of a perimeter of a cargo box of a vehicle, the perimeter of the cargo box including a forward end and two opposing sidewalls, the tonneau cover apparatus comprising: a flexible
+cover having first and second ends;  a support frame for attachment to the cargo box, the support frame having two opposing side rails, each of which can be secured to one of the respective opposing side walls;  and a flexible cover securing plate having
+first and second ends and an underside, the flexible cover securing plate being attached to the flexible cover, wherein the flexible cover securing plate includes a channel proximate the underside that extends from the first end to the second end, the
+flexible cover securing plate being engageable with the respective side rails to secure the flexible cover to the support frame;  wherein the flexible cover securing plate includes at least one locking member and the at least one locking member is
+slidably secured within the channel proximate one of the ends of the flexible cover securing plate;  wherein the flexible cover securing plate further includes an elongated member selected from the group consisting of a cable and draw cord;  the
+elongated member connected to the at least one locking member;  wherein the at least one locking member is engaged with the respective opposing side rail and the flexible cover securing plate is prevented from disengaging from the respective side rail,
+when the at least one locking member is in a first position and the flexible cover securing plate is secured to each of the respective side rails;  wherein the at least one locking member is biased toward the first position with a spring;  and wherein
+the flexible cover securing plate can disengage from the respective side rail with which the at least one locking member is engaged when the locking member is drawn from the first position to a second position by the elongated member.
+ 21.  The tonneau cover apparatus of claim 20, wherein the flexible cover securing plate includes two locking members, both of which are connected to the elongated member.
+ 22.  The tonneau cover apparatus of claim 21, wherein the elongated member interconnects the two locking members.
+ 23.  The tonneau cover apparatus of claim 20, wherein the support frame further includes a pair of securing plate engagement members, each of which is secured to one of the respective side rails in a position rearward of the forward end when the
+tonneau cover apparatus is attached to the cargo box.
+ 24.  The tonneau cover apparatus of claim 20, wherein the channel extends from the first end of the flexible cover securing plate to the second end of the flexible cover securing plate.
+ 25.  A tonneau cover apparatus for removable attachment about a top of a perimeter of a cargo box of a vehicle, the tonneau cover apparatus comprising: a flexible cover;  a support frame for attachment to the cargo box, the support frame having
+two opposing side rails, each of which can be secured to one of the respective opposing side walls;  and a flexible cover securing plate having first and second ends, the flexible cover securing plate being attached to the flexible cover, the flexible
+cover securing plate being engageable with the respective side rails to secure the flexible cover to the support frame;  wherein the flexible cover securing plate includes two locking members interconnected by a cable;  wherein the flexible cover
+securing plate is prevented from disengaging from the respective side rail, when the locking members are in a first position and the flexible cover securing plate is secured to each of the respective side rails;  wherein the locking members are biased
+toward the first position;  and wherein the flexible cover securing plate can disengage from the respective side rails when the cable is pulled such that the locking members move into in a second position.
+ 26.  The tonneau cover apparatus of claim 25, wherein the locking member s are biased toward the first position with a spring selected from the group consisting of a tension spring and a compression spring.
+ 27.  The tonneau cover apparatus of claim 25, wherein the flexible cover securing plate includes a channel proximate each end;  wherein each locking member is slidably secured within one respective channel.
+ 28.  The tonneau cover apparatus of claim 25, wherein the locking member has a finger portion with a tapered shape.
+ 29.  The tonneau cover apparatus of claim 25, wherein each side rail has an engaging surface and the engaging surface is constructed and arranged so that a portion of the locking member can be positioned below the respective engaging surface
+when the lock member is engaged with the side rail and in the first position.
+ 30.  A tonneau cover apparatus for removable attachment about a top of a perimeter of a cargo box of a vehicle, the tonneau cover apparatus comprising: a flexible cover;  a support frame for attachment to the cargo box, the support frame having
+two opposing side rails, each of which can be secured to one of the respective opposing side walls;  and a flexible cover securing plate having first and second ends, the flexible cover securing plate being attached to the flexible cover, the flexible
+cover securing plate being engageable with the respective side rails to secure the flexible cover to the support frame;  wherein the flexible cover securing plate includes a locking member slidably secured within a channel proximate one of the respective
+ends;  wherein the flexible cover securing plate is prevented from disengaging from the respective side rail, when the locking member is in a first position and the flexible cover securing plate is secured to each of the respective side rails;  wherein
+the locking member is biased toward the first position;  and wherein the flexible cover securing plate can disengage from the respective side rails when the locking member is in a second position.
+ 31.  The tonneau cover apparatus of claim 30, wherein the locking member is biased toward the first position with a spring selected from the group consisting of a tension spring and a compression spring.
+ 32.  The tonneau cover apparatus of claim 30, wherein the flexible cover securing plate can be disengaged from the opposing side rails when the locking member is in the second position.
+ 33.  The tonneau cover apparatus of claim 30, further comprising a cable connected to the locking member;  wherein the cable can move the locking member out of the first position.
+ 34.  The tonneau cover apparatus of claim 30, wherein the locking member has a finger portion with a tapered shape.
+ 35.  The tonneau cover apparatus of claim 30, wherein each side rail has an engaging surface and the engaging surface is constructed and arranged so that a portion of the locking member can be positioned below the respective engaging surface
+when the lock member is engaged with the side rail and in the first position.  
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+BACKGROUND OF THE INVENTION
+ The present invention relates to Tonneau Covers, particularly Tonneau Covers including a flexible cover and an apparatus for attaching the flexible cover to a cargo box of a pick up truck; the apparatus includes a flexible cover securing plate
+and securing plate engagement members cooperating to impart tension to the flexible cover when the flexible cover securing plate pivots into or is positioned in a closed position with respect to the securing plate engagement members; and, preferably a
+locking member or members preventing unauthorized detachment of the flexible cover securing plate from the securing plate engagement members.
+DESCRIPTION OF THE PRIOR ART
+ Numerous protective covers for preventing rain, debris and wind from damaging or disrupting the contents of a pickup truck bed are currently available.  Generally, the covers are made of some sort of fabric, often coated with a polymeric
+material, which is detachably fastenable to a rigid frame so as to enclose and protect a given area.  The covering materials used are generally stretchable to the extent that once they are in a position, they are pulled taut and then attached to the
+frame by numerous methods such as snaps, grommets, or hook-and-loop fasteners and stretcher bars.
+ The use of hook-and-loop type fasteners and stretcher bars to fasten a cover to a frame structure forms the subject matter of U.S.  Pat.  Nos.  5,076,338 ('338 patent) and 5,174,353 ('353 patent) issued to Steven Schmeichel et al., the
+disclosures of which are incorporated herein by reference.
+ In the Schmeichel et al. patents, an edge portion of a covering fabric is attached to a generally L-shaped end plate or stretcher bar.  The end plate is provided with a peak or crest, which pivotally contacts ends of the frame structure as the
+end plate is rotated into a fixed, stretching position.  As the end plate rotates into the fixed, stretching position, an enlarged ridge of the end plate is either captured by a spring loaded lock element as depicted in a first embodiment, or engages and
+deflects a biased pawl element as depicted in a second embodiment.  After the enlarged ridge passes the lock or pawl element, the lock or pawl element springs back to its undeflected state thereby maintaining the end plate in the fixed, stretching
+position.  In order to move the end plate out of the fixed stretching position, the biasing force of the lock or the pawl element must be overcome.  In the first embodiment, this biasing force may be overcome by the movement of the enlarged ridge as the
+end plate is pivoted out of the fixed stretching position.  In the second embodiment, deflection of the pawl is best accomplished by manipulating a release member which projects from a portion of a latching member, or by opening the tailgate and manually
+disengaging the pawl from the enlarged ridge.
+ Although the Schmeichel et al. patents teach a number of significant improvements over the prior art, there are several limitations of the prior art, which are addressed and improved upon by the present invention.
+ One limitation of the first embodiment of the Schmeichel et al. patents, as depicted, is that the L-shaped lock member, by virtue of its resilient nature, merely imparts a dynamic force, which tends to maintain the end plate in the fixed
+stretching position.  This force, however, can be overcome by the action of the enlarged ridge as it moves past the inclined portion of the L-shaped lock.  Thus, the L-shaped lock does not function as a lock in a conventional sense.
+ A limitation of the second embodiment of the Schmeichel et al. patents is in the location and construction of the lock element.  As depicted, the lock element comprises a pawl element, which is attached to one end of an elongated leaf spring. 
+The other end of the leaf spring is attached to a connector, which in turn is connected to a side rail of the support frame structure.  While this embodiment functions to lock the end plate and support frame structure in the fixed stretching position, it
+would appear that absent support, the pawl element may be forcibly disengaged and/or damaged by forcible movement of the end plate out of the fixed, stretching position.
+ Another limitation of the second embodiment of the Schmeichel et al. patents is that the flexible cover securing plate may be disengaged from the lock member by a person with knowledge of the location of the release member.
+ A limitation common to both the first and second embodiments of the Schmeichel et al. patents regards the attachment point and the design of the engagement member (or strike) which engages the flexible cover securing plate.  As depicted in the
+drawings the strike is attached to the frame structure by a fastening element located a substantial distance from the inclined portion of the strike.  This allows the strike to be flexed or bent upwardly in reaction to the stress forces exerted on the
+strike when the flexible cover securing plate is pivoted into and out of the fixed stretching position.  Repeated flexure and/or bending may result in loosening and/or premature failure of the strike.  Additionally, the strike includes a relatively thin
+lip portion which extends beyond the body of the strike and which rotatingly contacts the flexible cover securing plate as it is pivoted into and out of the fixed stretching position.  This lip portion is subject to high amounts of stress and is subject
+to flexure and/or bending which may lead to premature failure.
+ Another limitation common to both the first and second embodiments of the Schmeichel et al. patents is in the attachment of the support frame about the perimeter of a cargo box of the vehicle.  In Schmeichel et al., a support frame is attached
+to an inner side-wall by a C-shaped clamp.  The effectiveness of the clamp may, however, become compromised by overtightening the clamping bolt and may lead to deformation and/or failure the body of the clamp.  Additionally, due to the tapered vertical
+attachment portion of the frame support, there is a tendency for the clamp to become dislodged from the clamping position.
+ The present invention provides improvements which address these and other limitations associated with the prior art.
+SUMMARY OF THE INVENTION
+ Preferred embodiments of the present invention generally relate to a tonneau cover apparatus for attaching and locking a flexible cover about a cargo box of a vehicle, such as a pickup truck.  The tonneau cover apparatus comprises a flexible
+cover and a support frame for attachment to the cargo box.  The support frame has two opposing side rails, each having a lock engaging surface.  When in use, each opposing side rail is secured to respective opposing side walls of the cargo box.  The
+support frame further includes a pair of securing plate engagement members, each of which can be secured to one of the respective opposing side rails.
+ The preferred tonneau cover apparatus further comprises a flexible cover securing plate attached to the flexible cover.  The flexible cover securing plate has first and second ends and a channel extending from the first end to the second end. 
+The flexible cover securing plate is engageable with the respective securing plate engagement members.  The flexible cover securing plate additionally includes at least one locking member that is slidably secured within the channel proximate one of the
+ends of the flexible cover securing plate.  The locking member is preferably spring biased and there will preferably be one at each end of the securing plate.  When the locking members are in the first position, each respective locking member is engaged
+with a lock engaging surface of the respective opposing side rail and the flexible cover securing plate is secured to each respective side rail.  In the first position, the respective flexible cover securing plate is prevented from pivoting or
+disengaging with respect to the respective side rail.  When the locking members are in a second position, the flexible cover securing plate can pivot and disengage with respect to the respective side rail.
+ These and various other advantages and features of novelty which characterize the present invention are pointed out with particularity in the claims annexed hereto and forming a part hereof.  However, for a better understanding of the invention,
+its advantages and objects obtained by its use, reference should be made to the drawings which form a further part hereof, and to the accompanying descriptive matter, in which there is illustrated and described a preferred embodiment of the present
+invention. BRIEF DESCRIPTION OF THE DRAWINGS
+ FIG. 1 is a partially broken away perspective view of a preferred embodiment of a tonneau cover apparatus 8 of the present application, including a flexible cover 10 in accordance with the present invention, attached to a pickup truck 6 (shown
+in broken lines) with the cover 10 being disposed in a covered or fixed stretching position;
+ FIG. 2 is a fragmentary perspective view of the preferred tonneau cover apparatus 8 shown in FIG. 1 (but separated from the pickup truck), illustrating the flexible cover securing plate and flexible cover after they have been rotated out of the
+covered or fixed stretching position shown in FIG. 1;
+ FIG. 3 is an enlarged fragmentary sectional view which illustrates (1) the preferred apparatus in the fixed stretching position, shown in FIG. 1, in which the flexible cover securing plate exerts a tensile force on the flexible cover, and (2)
+(in phantom lines) the preferred apparatus as it is unlatched and rotated out of the fixed stretching position in which the flexible cover is relatively loose or relaxed;
+ FIG. 4 is an enlarged simplified side view of a latch member 190 of the preferred apparatus, when disengaged from the apparatus partial or complete views of the latch member, or parts thereof, shown in situ in various;
+ FIG. 5 is a simplified fragmentary perspective view of a side rail 106 of the preferred apparatus, partially shown in FIG. 3, with the latch member attached;
+ FIG. 6 is an enlarged perspective view of the locking member 60 of the preferred apparatus, which illustrates the position of the locking finger and the location of the frictional elements;
+ FIG. 7 is an enlarged fragmentary perspective view of the locking member 60 as it is being inserted into a channel 38 in the flexible cover securing plate 20 and illustrates the interaction between the channel 38 and the frictional imparting
+element 74 and the guide strips 80 (not shown) and 82;
+ FIG. 8 is an enlarged fragmentary sectional view as seen generally along line 8-8 of FIG. 3 which shows a portion of the preferred apparatus as it is attached to an inner wall 14 of a side wall 12 of a cargo box of a pickup truck and which
+illustrates in phantom lines the locking member as it moves into engagement with the side rail 106;
+ FIG. 9 is an enlarged fragmentary sectional view of the latching member illustrating the range of motion as the release member 196 is depressed from the position shown in phantom so that the flexible cover securing plate 20 (not shown) can be
+disengaged from the securing plate engagement member 170 (not shown) and showing the adjustability of the latching member relative to the inwardly extending flange 118 of the side rail;
+ FIG. 10 is a fragmentary perspective view from inside a cargo box of the pickup truck when the tailgate is in an open position (not shown), the view showing the preferred apparatus in the fixed stretching position with the latching member
+operatively engaging the flexible cover securing plate, and the locking member disengaged from the inwardly extending flange;
+ FIG. 11 is a fragmentary perspective view showing an alternate embodiment of the invention, which is similar to the preferred embodiment, but has different flexible cover securing plate 420 which engages in a somewhat different way with the
+securing plate engagement member 440, wherein the flexible cover securing plate 420 is shown in an engaged position, but not in a fixed stretching position similar to that shown in FIG. 3;
+ FIG. 12 is an enlarged fragmentary sectional view of the alternate embodiment of FIG. 11 which illustrates the alternate apparatus in a fixed stretching position in which the flexible cover securing plate 420 exerts a tensile force to a flexible
+cover 410, and which illustrates in phantom lines the apparatus as it is unlatched and rotated out of the fixed stretching position in which the flexible cover is relatively relaxed;
+ FIG. 13 is an enlarged fragmentary sectional view of a further alternate embodiment of the present tonneau cover apparatus, showing only a very small portion of an alternate pickup truck 506 in phantom, and showing the flexible cover securing
+plate 520 in a fixed stretching position;
+ FIG. 14 is an enlarged fragmentary sectional view of the further alternate embodiment shown in FIG. 13, shown separate from the pickup truck, but showing the flexible cover securing plate 520 pivoted out of the fixed stretching position such
+that the flexible cover 510 is relatively loose or relaxed;
+ FIG. 15 is a fragmentary sectional view of the further embodiment shown in FIG. 13 as generally seen from line 15-15 of FIG. 13 showing the side rail 606 clamped to the sidewall 512 of the pickup truck 506 and showing the locking member 560 in a
+locking position where the finger portion 568 of the locking member 560 is engaged with an inwardly extending flange 618 of the side rail 606 to hold the flexible cover securing plate 520 in the fixed stretching position;
+ FIG. 16 is a fragmentary section view similar to that shown in FIG. 8, but of a portion of yet another alternate embodiment which is the same as the preferred embodiment shown in FIG. 8 except that there is no latch member and the locking member
+760, while it is similar to the locking member 60 shown in FIG. 8, is shown in a disengaged position where the locking member 760 is in contact with the inwardly extending flange 818, furthermore, the locking member 760 does not have guide strips or a
+friction imparting element as disclosed in association with locking member 60 and locking member 760 slides easily within channel 738 which is the same as channel 38 in flexible cover securing plate 20 of the preferred embodiment shown in FIG. 8; the
+locking member 760 differing from locking member 60 also because it is secured within the flexible cover securing plate 720 with a tension spring 774 which biases the locking member 760 toward a position consistent with a latched or locked position shown
+in FIG. 17;
+ FIG. 17 is a further fragmentary sectional view of the alternate embodiment shown in FIG. 16 except the locking member 760 is shown in a locked or latched position where the finger portion 768 is fully engaged with the inwardly extending flange
+818 and abuts against stop bolt 819 which prevents locking member 760 from being drawn in further by the tension spring 774; and
+ FIG. 18 is a fragmentary sectional view similar to that shown in FIG. 17, but of a further alternate embodiment the same as that shown in FIG. 17 except that the locking member 960 is biased toward a position consistent with a locked or a
+latched position by a compression spring 980 pushing the locking member 960 to such position rather than operating in the manner the tension spring 774 shown in FIG. 17, that biases the locking member 760 by pulling on it.
+DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT
+ Referring now to the drawings, and specifically FIGS. 1-10, there is illustrated a preferred embodiment of the present invention, wherein reference numeral 6 designates a vehicle, preferably a pickup truck, reference numeral 8 designates a
+preferred tonneau cover apparatus and reference numeral 10 designates the flexible cover.  FIG. 1 illustrates a flexible cover 10 in use on a cargo box 11 of a pickup truck 6 having two outer sidewalls 12, each having an inner sidewall 14 (shown in FIG.
+8), a forward end 13 and a tailgate 16, preferably with a release handle and lock mechanism 18, actuated with a key (not shown) or, alternatively, a remotely actuated lock mechanism, having a remote keyless actuator (not shown), like those which are now
+well known in the art.  As depicted, the flexible cover 10 is covering a top of a perimeter of the cargo box 11 of the pickup truck 6.  The flexible cover 10 is secured to a front plate 19 and an flexible cover securing_plate 20 each of which are secured
+to support frame 104 that includes rails 106 which are clamped to the respective sidewalls 12 of the pickup truck 6.
+ FIG. 2 shows the preferred tonneau cover apparatus 8, including the flexible, stretchable fabric cover 10, separated from the pickup truck.  The rearward end of the flexible cover is attached to an elongated flexible cover securing plate 20
+having a plate cap 90 with an exterior surface 92.  The other end of the flexible cover 10 is preferably attached to the front plate 19 (shown in FIG. 1) in a manner similar to that disclosed in U.S.  Pat.  No. 5,906,407 to Schmeichel ('407 patent), the
+disclosure of which is hereby incorporated herein by reference.  The front plate 19 is preferably secured to the respective side rails 106 in an equivalent or similar manner that is disclosed in U.S.  Pat.  No. 5,076,338, the disclosure of which is
+hereby incorporated by reference, or in other Schmeichel patents that are incorporated herein by reference.  In preferred embodiments, the front plate 19 will be secured to the respective side rails 106 in the manner disclosed in the '407 patent.  The
+flexible cover 10 is preferably made of a resilient fabric material, which is preferably laminated to a polyester sheet to give it strength, flexibility, additional resilience, and water resistance.
+ The preferred tonneau cover apparatus 8 is secured to the sidewalls 12 of the pickup truck 6 using clamps 130 (see FIGS. 3 and 8), which secure the respective side rails 106 to the inner wall 14, which is an extension of the sidewall 12.  The
+front plate 19 is secured to the respective side rails 106 as described above and the flexible cover securing plate 20 is engaged to a pair of securing plate engagement members 170 (see FIGS. 3 and 5).  When the flexible cover securing plate 20 is
+engaged it will initially occupy a position with respect to the respective engagement members 170 similar to that shown in phantom in FIG. 3.  The distal end 32 of the flexible cover securing plate 20 is then pushed downward and the peak or crest 26 of
+the proximate end 20 will then pivot against the pivot point 176 of the respective engagement member 170 such that the foot 30 of the flexible cover securing plate 20 will push the pawl element 200 of the latch member 190 downward and out of its path, so
+that the flexible cover securing plate 20 can become fully engaged within the respective engagement members 170 and the foot 30 becomes fully engaged within the inclined portion 178 (see FIG. 5) of the engagement member 170, as shown in FIG. 3.  In this
+position, the flexible cover securing plate 20 is in a closed or a fixed stretching position, where the flexible cover securing plate 20 preferably exerts a tensile force upon the flexible cover 10 so that the flexible cover 10 will stretch and remain
+taught over the cargo box 11.
+ When the flexible cover securing plate 20 is in the fixed stretching position, locking members 60 can be pushed into a closed or locking position to prevent the flexible cover securing plate 20 from being disengaged from the respective
+engagement members 170.  The locking members 60 slide, when pushed, within a second channel 38 in the flexible cover securing plate 20.  Because locking members 60 are designed to create friction when moved within the second channel 38, it takes some
+force to move the locking members 60 into a locking position like that shown in phantom in FIG. 8.  This requirement for force to slide the locking members is designed to prevent the locking members from accidentally sliding into such a position when
+they are meant to be disengaged, and from sliding into an unlocked or disengaged position similar to that shown in FIG. 8 when they are meant to be in the fully engaged or locked position shown in phantom in FIG. 8.
+ When the flexible cover securing plate 20 is in the closed or fixed stretching position shown in FIG. 3, and it is desirable to open the tonneau cover apparatus 8 to gain access to the cargo box 11, the locking members 60 must be moved to a
+position where they are not engaged with the inwardly extending flange 118 of the support structure 104.  The latch member 190 must then be depressed to a position consistent with that shown in phantom in FIG. 3 so that the pawl element 200 is disengaged
+from the foot 30 of the flexible cover securing plate 20 so that the foot can pivot out of the cavity proximate the inclined portion 178 of the engagement member 170 without being impeded by the pawl element 200.  This can be accomplished either by
+pushing downward on the release member 196 or pulling downward on the grip element 236 with enough force to bend the latch member 190.  In this way, the flexible cover securing plate 20 is freed to pivot out of the fully engaged relationship with the
+respective engagement members 170 and release the tension on the flexible cover and even roll the flexible cover up around the flexible cover securing plate in a manner similar to that described in the previously described and incorporated Schmeichel
+patents.
+ As depicted in FIG. 2, the flexible cover securing plate 20 is disengaged from a pawl element 200 on a latching member 190 and a locking member 60 is disengaged from an inward extending flange 118 of a side rail 106 (shown in FIG. 8) prior to
+pivoting or rotating the flexible cover securing plate 20 about a securing plate engagement member 170 and out of a fixed stretching position shown in FIG. 1.  Although a generally rectangularly shaped flexible cover securing plate 20 is depicted in the
+drawings, it is understood that the flexible cover securing plate 20 may have other configurations without departing from the spirit and scope of the invention.  Moreover, it is understood that only selected portions of the flexible cover securing plate
+20 are necessary to normal operation and that unnecessary portions may be omitted, if desired.  In preferred embodiments the flexible cover securing plate is made of an aluminum alloy material.  Referring now also to FIG. 7, the flexible cover securing
+plate 20 has an underside 56, a base portion 24, an upper surface 33 and a trailing surface 34.
+ FIGS. 2, 3, 5 and 8-10 also illustrate attachment of the flexible cover 10 to the support frame 104.  As depicted, the support frame 104 preferably includes side rails 106 having a vertical attachment portion 108 including a sidewall contacting
+surface 110, an inwardly extending portion 114, and an inclined portion 116 onto which one half of a two part, hook and loop type fastener 124 has been attached.  The flexible cover 10 has been provided with the other half of the two part, hook and loop
+type fastener 124 to enable the sides of the flexible cover 10 to be removably attached to the inclined portion 116 of the side rail 106.  One method by which an end of the flexible cover 10 is attached to a portion of the flexible cover securing plate
+20 shown in FIG. 2 is described in U.S.  Pat.  Nos.  5,076,338 and 5,174,353, the disclosures of which are incorporated by reference.  Note that in the embodiment shown in FIG. 2 the strap 86 is attached to a locking member 60 rather than a portion of
+the flexible cover securing plate itself.  It will be appreciated that this strap might be just as effective if it were attached directly to the flexible cover securing plate (not shown) in other embodiments and that it need not be attached to the
+locking members 60.  As shown in FIG. 12, which discloses an alternate embodiment, the flexible cover material can be secured in such a way that additional material creates a flap 123 which covers the top of the tailgate 16 and provides a further seal or
+covering to limit the passage of dust and moisture into the cargo box 11.
+ FIGS. 3 and 10 illustrate the apparatus as it pivots or rotates position into and out of a fixed stretching position and when in the fixed stretching position.  As best seen in phantom lines, flexible cover securing plate 20 includes a distal
+end 32, which terminates in a first channel 36, which receives an end of the flexible cover 10.  The flexible cover securing plate 20 also includes a second channel 38, which is sized to slidingly receive a locking member 60.  The second channel 38 is
+generally T-shaped and includes opposing sidewalls 40, 42 an upper wall 44 and opposing flanges 46, 48.  The flexible cover securing plate or stretcher bar 20 also includes cavities 52, 54, which are sized to receive plugs 94, 96 that extend from a plate
+cap 90.  The plugs 94, 96 are provided with ribs 98, 100 which allow the plate cap 90 to be frictionally attached to the flexible cover securing plate 20.  When the flexible cover securing plate 20 is rotated or pivoted into a fixed stretching position,
+a peak or crest 26 of the flexible cover securing plate 20 contacts a pivot point 176 of a securing plate engagement member, or strike 170.  A ridge 28 on the base portion 24 of the flexible cover securing plate 20 then sweeps across an upper surface 177
+of an extension portion 174 of the securing plate engagement member 170.  Referring now also to FIGS. 4-5 and 8-9, the ridge 28 then contacts and deflects the pawl element 200 of the engagement portion 194 of a latching member 190.  That is to say, the
+latching member 190 is deflected from a first position where the flexible cover securing plate is prevented from being disengaged from the fixed stretching position to a second position, which permits the apparatus to be disengaged from the fixed
+stretching position.  After the ridge 28 passes the pawl element 200, two things occur.  First, the base portion 24 is moved into a base portion receiving area 180 in the securing plate engagement member 170, and second, the latching member 190 moves
+from the second position to the first position wherein the pawl element 200 of the latching member 190 is biased into a pawl receiving area 50 of the flexible cover securing plate 20 where it confronts the foot 30 on the flexible cover securing plate 20. The pawl element 200 may be disengaged from the foot 30 and withdrawn from the pawl receiving area 50 by placing downward pressure on the release member 196 or pulling downward on the grip element 236, which is engaged with the latching member 190
+through an opening 234.
+ Turning more specifically to FIG. 4, the latching member 190 has a body portion 192, an engagement portion 194, a release member 196 and an attachment portion 198.  The engagement portion 194 includes a pawl element 200 having a ridge engagement
+surface 202 and a foot engagement surface 204.  Adjacent the foot engagement surface 204 is a recess or relief 206 which accommodates a fastening element 186 used to attach the securing plate engagement member or strike 170 to the support frame 104 (see
+FIG. 3).  Note that the angle "A" between the foot engagement surface 204 and a top surface 207 of the recess 206 of the body portion 192 is less than or equal to 90 degrees, preferably about 88 degrees to prevent the flexible cover securing plate 20
+from being forced out of the fixed stretching position when lifting force is applied upwardly upon the bottom of flexible cover securing plate 20 when it is in the fixed stretching position as shown in FIG. 3.  The upper surface 212 of the latch member
+190 is generally parallel with the top surface 207 of the recess 206, so the angle "A" will be the same as an angle (not shown) between the foot engagement surface 204 and the upper surface 212 of the latch member 190.  The latching member 190 includes a
+release member 196, which is preferably an upright member 208 with an enlarged head 210.  In operation, the release member 196 is manipulated by placing downward pressure on the enlarged head 210 of the release member 196 through the flexible cover 10
+and is used to disengage the pawl element 200 from the foot 30 of the flexible cover securing plate 20.  Referring now also to FIG. 9, an upwardly extending recess 214, having a throat portion 216, partially delineates or separates the attachment portion
+198 from the body portion 192.  The attachment portion 198 is connected to the body portion 192 by a thinned portion 218.  The attachment portion 198 includes a slot 226, which receives a fastener 220 and a threaded aperture 228, which receives an
+adjustment member or element 230.  The attachment portion 198 also includes a limiter or stop 232, which controls the range of motion of the latching member 190 as it moves from the first position to the second position.  Note that the upper and lower
+surfaces 198a, 198b of the attachment portion 198, that are parallel to broken line 198c (shown schematically in FIG. 4), reside at an angle, B, with respect to upper and lower surfaces 192a, 192b of the body portion 192, respectively, when the latch
+member 190 is disengaged from the side rail 106.  This angle "B" is about 1 to about 7, preferably about 4 degrees and ensures that the upper surface 212 of the latching member 190 biasingly contacts an inwardly extending flange 118 on a side rail 106
+when the latching member 190 is attached thereto as shown in FIGS. 3 and 5.  The latching member 190 is preferably manufactured from a glass filled nylon resin material.
+ FIG. 5 illustrates the juxtaposition between a side rail 106 a securing plate engagement member or strike 170 and a latching member 190.  As can be seen, the side rail 106 includes an inclined portion 116 and an inwardly extending flange 118
+with an upper surface 120.  The securing plate engagement member 170 generally includes a body portion 172 and an extension portion 174.  More specifically, the body portion 172 includes a pivot point 176, an inclined portion 178 and a plate base portion
+receiving area 180.  The extension portion 174 is somewhat tapered and includes an upper surface 177 and an aperture 188.  Referring now also to FIG. 3, the securing plate engagement member 170 has a lower surface 184 common to the body portion 172 and
+the extension portion 174.  Also referring to FIG. 3, the body portion 172 of the securing plate engagement member 170 includes an integrally attached fastening element 186, a portion of which extends beyond the body portion 172 and through an aperture
+126 in the flange 118 and which is secured by an appropriately sized nut 127.  Like the aforementioned latching element 190, the securing plate engagement member 170 is formed so that the lower surface 184 is slightly concave.  This allows the extension
+portion 174 to biasingly contact the upper surface 120 of the flange 118 when the securing plate engagement member 170 is attached thereto.  As with the aforementioned latching member, the securing plate engagement member 170 is preferably manufactured
+from a glass filled nylon resin material.
+ The bolt or fastening element 186 preferably has an axis "b" which passes through the center of the bolt 186.  This axis "b" is preferably located a distance, "d.sub.1", from the pivot point 176, denoted by line "a" in FIG. 3, which is 3/4ths of
+an inch in the most preferred embodiment shown in FIG. 3.  In alternative embodiments, however, this distance, "d.sub.1", will be equal to or less than 2.0 inches, more preferably 1.5 inches, even more preferably 1.0 inch.  In a more preferred
+embodiment, this distance will be about 13/16ths of an inch.
+ FIG. 6 illustrates a locking member 60 in isolation prior to use.  The locking member 60 generally comprises an upper portion 62, a lower portion 64 and a web 66 therebetween.  In particular, the upper portion 62 includes a top surface 72 onto
+which a friction-imparting element 74 has been affixed.  The term friction-imparting element in the context of this invention is understood to mean a material, which is capable of causing friction between the locking member 60 and the flexible cover
+securing plate 20 when the locking member is moved within the flexible cover securing plate.  The preferred friction imparting element 74 in this instance is a loop portion of a hook and loop type fastening element.  The upper portion 62 also includes
+opposing side surfaces 76, 78 and corresponding opposite guide strips 80, 82.  The term guide strip in the context of this invention is understood to mean a structure, which is preferably relatively rigid in comparison to the friction-imparting element,
+although it need not be so.  The preferred guide strip in this instance is composed of the same material as the locking member.  As illustrated, the upper portion 62 has the same general cross-sectional T-shape as the channel 38 into which it is
+inserted.  While a T-shape is illustrated, it is understood that the channel 38 and upper portion 62 may be formed in other complimentary configurations without departing from the spirit and scope of the invention.  When locking member 60 is first placed
+into the channel 38, the guide strips 80, 82 are generally shaved off a bit to fit the channel.  Once the resulting shavings 83 fall away, the locking member 60 will be friction fit in the channel 38.  This is important so that the locking member will
+not inadvertently slide closed when it is intended to be open or slide open when it is intended to be closed.  Turning to the lower portion 64, one end of the lower portion includes a finger 68, which extends beyond the body of the lower portion 64.  The
+finger portion 68 includes an engagement surface 70, which is configured to slidingly engage the flange 118 of a side rail 106 (see FIG. 8).  The lower portion 64 is also provided with a slot 84 through which a strap 86 may be threaded, the strap 86
+serving to position and align the base portion 24 of the flexible cover securing plate 20 adjacent the securing plate engagement member or strike 170 prior to pivoting the flexible cover securing plate into the fixed stretching position shown in FIGS. 1
+and 3.
+ FIG. 7 illustrates a locking member 60 as it is being installed into a channel 38 of flexible cover securing plate 20.  As the locking member 60 is inserted into the channel 38, the friction-imparting element 74 is compressed and comes into
+sliding contact with the upper surface 44 of the channel 38 (see FIG. 3).  At the same time, the guide strips 80, 82 are engaged by sidewalls 40, 42 of channel 38 (see also FIG. 3).  The sidewalls 40, 42, being constructed of relatively harder material,
+modify the opposite guide strips as the locking member is inserted into the channel 38.  As depicted a portion 83 of the opposite guide strips are planed away or shaved during assembly.  Thus, the width of the upper portion 62 and attendant guide strips
+80, 82 is then sized to friction fit within the width of the channel 38.  In especially cold weather, the resin material of the preferred locking member 60 and the aluminum alloy of the preferred flexible cover securing plate both contract, but the
+locking member 60 will contract somewhat more than the flexible cover securing plate 20.  In especially hot weather, both the preferred locking member 60, made of resin material, and the preferred flexible cover securing plate 20, made of aluminum alloy,
+will expand, but it is believed that the expansion of the aluminum alloy will be greater.  In each case, therefore, in both especially cold temperatures and in especially hot temperatures, the preferred locking member 60 and the preferred flexible cover
+securing plate 20 will contract or expand at different rates and this will cause some looseness of the sliding locking member 60 within the flexible cover securing plate 20.  The use of the friction-imparting element 74 is intended to compensate for this
+variation and to prevent the locking member 60 from sliding into a locked position when it has been placed, and is intended to remain in, an open position.
+ In the preferred embodiment, the friction imparting element 74 and the guide strips 80, 82, are all in sliding contact with the walls 40, 42, 44, respectively, while the remaining surfaces of the upper portion 66 are in sliding contact with
+flanges 46, 48 of the second channel 38.  These sliding contacts combine to provide a relatively constant resistive force over a wide range of temperatures as the locking element is manipulated along the channel.  While the preferred embodiment features
+one friction imparting element and a plurality of guide strips elements, it is understood that other combinations may be used.  As with the aforementioned latching member and securing plate engagement member, the locking member 60 is preferably
+manufactured from a glass filled nylon resin material.  As with the aforementioned latching member and securing plate engagement member, the locking member 60 is preferably manufactured from a glass filled nylon resin material.
+ FIG. 8 illustrates a portion of the apparatus attached to an inner sidewall 14 of the pickup truck.  More specifically, a side rail 106 of the support frame is attached to the inner sidewall 14 preferably by a plurality of clamps 130.  The clamp
+130 has a first arm 132 and a second arm 150.  As illustrated, the first arm 132 and the second arm 150 engage each other at contact surfaces 139 and 157, respectively.  The contact surfaces 139 and 157 serve several different functions.  First, the
+contact surfaces 139 and 157 provide a point about which the arms 132 and 150 may pivot with respect to each other.  And second, the contact surfaces 139 and 157 serve to align and guide the arms 132 and 150 so that they are brought into confronting
+relation with each other when the clamp 130 is tightened.  The first arm 132 includes a proximal end 134, a transition portion 136 and a distal end 138.  The proximal end 134 includes the contact surface 139 having a recess 140, which is configured to
+receive and rotatingly support a pivot or projection 158 on the second arm 150.  The preferred configuration of the recess 140 is generally oriented orthogonally to the longitudinal axis of the arm 132.  The proximal end 134 also includes a transversely
+aligned cavity 144, which is coaxially aligned with an aperture 166 in a nut 167.  The cavity 144 is sized to securely retain the nut 167 of a fastening element 169, which includes nut 167 and bolt 164.  The cavity 144 is sized to loosely receive the
+shaft of a bolt 164 of the fastening element 169.  Although the aperture 166 is sized to fit the bolt 164, the cavity is much larger which allows the clamp to fall open easily at the end nearest the distal end 138 and distal non-parallel side joint
+between two surfaces similar to that shown in FIG. 8.  The distal end 138 of the first arm 132 includes a sidewall-contacting portion 146, which is preferably provided with a grip element 148.  The grip element 148 has an irregular shaped surface and may
+be suitably affixed to the sidewall-contacting portion 146.  The preferred grip element 148 has an irregular surface similar to course sandpaper and the preferred method of affixing is by using an adhesive.  The second arm 150 includes a proximal end
+152, a transition portion 154 and a distal end 156.  As mentioned above, the proximal end includes a contact surface 157 having a pivot or projection 158, which is configured to be rotatingly supported within a recess 140 in the proximal end 134 of the
+first arm 132.  As with the recess 140, the preferred configuration of the projection is generally oriented orthogonally to the longitudinal axis of the arm 150.  The proximal end 152 of the second arm also includes a transversely aligned cavity 145,
+which is sized to loosely receive the shaft of a bolt 164 of the fastening element 169.  The distal end 156 includes a side rail-contacting portion 162.  As depicted, the side rail contacting portion 162 is configured to mesh with a similarly configured
+surface on a vertical attachment portion 108 of a side rail 106.  Since the oversized cavities 144,145 of the respective first and second arms 132, 150 allow the respective arms to pivot within the joint created by the insertion of the pivot 158 into the
+pivot receiving recess 140, the respective side rail and sidewall contact portions 146, 162, respectively, can pass through a range of non-parallel orientations with respect to one another especially enabling the clamp 130 to forcibly hold together a
+pair of relatively flat objects whose opposite surfaces when joined together present non parallel surfaces.
+ In operation, to secure a side rail 106 to an inner wall 14 of a truck, a side rail 106 is brought into contact with an inner sidewall 14 of a truck 6.  A clamp 130 is then positioned so that it straddles the inner sidewall 14 and the side rail
+106.  With the recess 140 and the projection 158 of the respective contact surfaces 139 and 157 in communication with each other, the fastening element is then snugged up so that the distal ends 138 and 156 contact the sidewall 14 and side rail 106,
+respectively.  The fastening element is then manipulated to gradually increase the clamping force.  As the force is increased several things occur.  First, the arms 132 and 150 are aligned and guided by the cooperative interaction of the contact surfaces
+139 and 157.  Second, limiter surfaces 142 and 160 on the first and second arms 132, 150, respectively, converge towards each other, and third, the arms 132, 150 flex slightly, at the transition portions 136, 154, respectively, where they have some give
+due to the materials used to make them and the design of respective first and second arms 132, 150 which include the narrower transition portions 136, 154, respectively.  When the limiter surfaces 142 and 160 contact each other, attachment of the side
+rail 106 to an inner sidewall 14 is essentially completed.  This is because the clamp may not be easily over tightened.  With this preferred embodiment, not only is the possibility of overtightening substantially reduced, but the clamp 130 provides a
+relatively constant clamping force, which compensates for differences in thickness of the material to be clamped together and also differences in attachment points.
+ FIG. 8 also illustrates the operation of the locking member 60 as it may be manipulated between a first position (shown in phantom lines) where it operatively connects flexible cover securing plate 20 to a side rail 106 of a support frame 104
+and a second position where the locking member 60 is disengaged from the side rail 106 of the support frame 104.  Note in the first position, that engagement surface 70 of the finger portion 68 engages the lower surface 122 of the side rail flange 118.
+ FIG. 9 illustrates in broken line a position of the latching member 190 at the point where either the release member 196 has been manipulated by placing a downward force upon it, or by pulling downward on the body portion 192 or the chord 236
+secured to the far end of body portion 192 and the pawl element 200 (see FIG. 4) has been disengaged from the pawl element receiving area 50 of the flexible cover securing plate 20 (see FIG. 3).  That is, the latching member 190 has been moved to the
+second position.  Note that the throat portion 216 has been effectively closed and the body portion 192 is in contact with the limiter 232.  As the release member 196 is manipulated, it is contained within or encircled by an appropriately over-sized
+opening 128 in the inwardly extending flange 118 of a side rail 106.  The latching member 190 is attached to the flange 118 by a fastening element 219, such as a bolt 220 and attendant washer 222 and nut 224.  The bolt 220 is inserted through an
+appropriately sized aperture 126 and through the latching member 190, after which it is secured with a washer 222 and nut 224.  The latching member 190 may be adjusted relative to the flange 118 and bolt 220 by the provision of a somewhat oversized slot
+226, which slidingly admits the shaft of a bolt 220 of the fastening element 219.  Positioning of the shaft of the bolt 220 within the slot 226 may be achieved by manipulating an adjustment bolt 230, which is threadably received in a threaded aperture
+228 within the attachment portion 198 of the latch member 190.
+ Referring now specifically to FIG. 10, a flexible cover securing plate 20 is shown in the fixed stretching position in which the pawl element 200 (see FIGS. 3 and 5) of the latching member 190 projects through the flange 118 of a side rail 106
+and into the pawl receiving area 50 of the flexible cover securing plate 20.  The locking member 60 has been manipulated or moved to the second position so that it lies inboard of the flange 118.  In this position, the finger 68 does not operatively
+connect the flexible cover securing plate 20 to the support frame.  Note that the strap 86 has one end, which is attached to the locking member 60, and another end which is attached to a mid bar or bow 250.  Such an arrangement serves to guide the
+peak/crest 26 of the flexible cover securing plate 20 into operative contact with the pivot point 176 of the securing plate engagement member 170 prior to rotating the flexible cover securing plate 20 into the fixed stretching position.
+ Referring now also to FIGS. 11 and 12, a further embodiment of the tonneau cover apparatus 408 is depicted.  A flexible cover 410 is shown attached to a flexible cover securing plate 420 having a side panel 430.  This embodiment differs from the
+preferred embodiment in that the flexible cover securing plate 420 is provided with generally radially shaped base portion 422 and the securing plate engagement member 440 is provided with a reciprocally shaped base portion receiving area 442 so that the
+base portion 422 can slidably pivot within the base portion receiving area 442 when fully engaged therewith as shown in FIG. 11, such that the flexible cover securing plate 420 can be lifted away from the fixed stretching position, shown in FIG. 12, and
+the base portion 422 has pivoted within the receiving area 442, slightly away from the fixed stretching position.  As shown in phantom in FIG. 12, when the base portion 422 is pivoted further, it will come away from the base portion receiving area 442,
+but not before it has slidingly pivoted somewhat within the receiving area 442.
+ In this embodiment, the reciprocating radial base portion 422 and base portion receiving area 442 of the securing plate engagement member 440 compliment each other so that the base portion 422 can pivot smoothly within the engagement member 440
+through a limited but significant radius.  When the base portion 422 has pivoted far enough that a catch point 424 of the flexible cover securing plate 420 engages a pivot point 444 of the engagement member 440, a notch or dip 426 between the catch point
+424 and the arcuate surface 428 of the base portion 422 will rotate or slide over the rounded surface 446 of the pivot point 444, enabling the base portion 422 to disengage from the base portion receiving area 442 of the securing plate engagement member
+440.
+ The alternate embodiment shown in FIGS. 13, 14 and 15 also includes a locking member 560 that engages an inward extending flange 618 of a side rail 606 in a manner similar to that disclosed in the preferred embodiment, except that the locking
+member 560 is configured differently and the finger portion 568 is configured somewhat differently.  In addition the locking member 560 is secured within a channel 538 by securing a bolt 539 to the locking member 560 with a nut 541.  The bolt 539 slides
+easily within the channel 538 to engage the inwardly extending flange 618 of the side rail 606.  In preferred embodiments, the flexible cover securing plate 520 will have a pair of radial base portions 522 proximate the respective ends of the flexible
+cover securing plate 520 which are configured to reciprocally engage a pair of engagement members 670 secured to each of a pair of side rails 606 attached to respective sidewalls (not shown) of the pickup truck 506.  The other features of this alternate
+invention are similar to or the equivalent to those features of the preferred embodiment disclosed in FIGS. 1-10.  The further alternate embodiment of the invention includes a tonneau cover apparatus 508 having a support frame 604, which can be secured
+to a side wall (not shown) of a pick-up truck (not shown) using a clamp 630 secured at least in part with a bolt 664.  A flexible cover 510 is shown, which is secured to the flexible cover securing plate 520 within a channel 536, shown in FIG. 13.
+ The alternate embodiment shown in FIGS. 13, 14 and 15 also includes a locking member 560 that engages an inward extending flange 618 of a side rail 606 in a manner similar to that disclosed in the preferred embodiment, except that the locking
+member 560 is configured differently and the finger portion 568 is configured somewhat differently.  In addition the locking member 560 is secured within a channel 538 by securing a bolt 539 to the locking member 560 with a nut 541.  The bolt 539 slides
+easily within the channel 538 to engage the inwardly extending flange 618 of the side rail 606.  In preferred embodiments, the flexible cover securing plate 520 will have a pair of radial base portions 522 proximate the respective ends of the flexible
+cover securing plate 520 which are configured to reciprocally engage a pair of engagement members 670 secured to each of a pair of side rails 606 attached to respective sidewalls (not shown) of the pickup truck 506.  The other features of this alternate
+inventions are similar to or the equivalent to those features of the preferred embodiment disclosed in FIGS. 1-10.
+ Referring now also to FIGS. 16 and 17, yet another alternate embodiment of the present invention is disclosed in which the alternate embodiment differs from the preferred embodiment disclosed in FIGS. 1-10, by providing an alternate locking
+member 760 which slides easily within a channel 738 similar to the second channel 38 of the preferred embodiment.  The alternate embodiment includes a support frame 804 and a side rail 806 like those associated with the previously disclosed embodiment
+shown in FIGS. 1-10.  In the alternate embodiment shown in FIGS. 16 and 17, the locking member 760 does not include the friction imparting elements or guide strips of the preferred embodiment.  Instead, the alternate flexible cover securing plate 720
+includes a tension spring 774 secured at each end of the elongated flexible cover securing plate 720 to bias each of two locking members toward a position consistent with a closed or locked position similar to that shown in FIG. 17.  The tension springs
+774 are secured to the respective interior surfaces (not shown) of respective end caps 790 at each of the ends 793 of the alternate flexible cover securing plate 720 and to the respective locking members 760, thereby biasing each of the locking members
+760 toward a pair of stop bolts 819 secured to the flexible cover securing plate 720 proximate each of the respective ends 793 of the flexible cover securing plate 720.  A draw cord or cable 765 is also attached to each of the respective locking members. Each of the respective draw cords are preferably passed through an eyebolt guide 767 and gathered together in a guide actuator 769.
+ During use, the alternate flexible cover securing plate 720 provides a locking or latch mechanism because the chamfered or beveled bottom surface 781 of each of the finger portions 768 of each locking member 760 will be displaced when the
+endplate 720 pivots with respect to the engagement members (not shown) into a closed or fixed stretching position from a position in which the flexible cover securing plate 720 is engaged with the respective engagement members (not shown), but has not
+pivoted into the position shown in FIG. 17.  In FIG. 16, the locking members 760 are just beginning to be displaced as the flexible cover securing plate 720 pivots down to a closed position shown in FIG. 17.  When the locking members 760 rest against the
+stop bolts 819, against which they are biased by the tension spring 774, they will engage the flange 818 if the flexible cover securing plate 720 is in the closed or fixed stretching position.  As the flexible cover securing plate 720 is pivoted with
+respect to the engagement members (not shown), the beveled bottom surface 781 will first contact the upper side of the end 821 of the respective inwardly extending flange 818, will be forced away from the stop bolt 819 until the finger portion 768 passes
+below the flange 818 and flexible cover securing plate 720 is fully engaged as shown in FIG. 17.  In FIG. 17, the beveled bottom surface 781 is no longer engaged with the upper side of the end 821 of the inwardly extending flange 818, and the spring
+biased locking member will engage the flange 818 as shown in FIG. 17.  When the flexible cover securing plate 720 is not engaged as shown in FIG. 17 the spring biased locking member 720 will slide to the same position shown in FIG. 17, because it will
+spring biased against the stop bolt 819 which is positioned within the flexible cover securing plate 720 such that the locking member 760 will stop against the stop bolt 819 is the same position it will occupy within the flexible cover securing plate 720
+when the locking member 760 is biased up against the end 821 of the flange 818.
+ In order to lift the flexible cover securing plate 720 and pivot it out of the fixed stretching position in which it resides in FIG. 17, a user can draw the draw cords or cables 765 by pulling on the pull actuator 769, thereby drawing the
+locking members 760 away from each of the respective flanges 818, thereby disengaging the respective finger portions 768 from the respective flanges 818 as shown in phantom in FIG. 17 when the locking members 760 are in this position, the flexible cover
+securing plate 720 can be pivoted out of the respective engagement members, and the cover 710 can be rolled up in order to gain better access to the cargo box.
+ Yet another alternate embodiment is shown in FIG. 18 where an embodiment like that shown in FIGS. 16 and 17 is shown, but which differs primarily only because the tension springs 774 of the embodiment shown in FIGS. 16 and 17 are replaced by
+compression springs 974 which push, rather than pull the locking member 960 or members, if there are more than one, which there preferably are, against the flange 1018 and/or the stop bolt 1019.  In this case, the compression spring 974 slides over and
+is engaged by a first spring guide protrusion 977 extending away from the locking member 960 and a second spring guide protrusion 979 extending away from a spring stop 983.  All the other features of this embodiment are preferably the same as the
+features of the alternate embodiment shown in FIGS. 16 and 17 and this embodiment operates generally in the same way with the exception of the operation of the compression spring 974 as compared to the tension spring 774.  The embodiment shown in FIG. 18
+includes a support frame 1004 having a side rail 1006.  The flexible cover securing plate 920 is shown in an engaged position.  The flexible cover 910 is engaged with the support frame 1004 and the finger 968 of the locking member 960, configured to
+slidingly engage an outwardly extending flange 1018 of the support frame 1004, is shown in an engage position, similar to that shown in FIG. 17 with respect to the prior embodiment, wherein the finger 968 can be slidingly positioned under an end 1021 of
+the outwardly extending flange 1018, as shown.
+ It is to be understood, however, that even though numerous characteristics and advantages of the present invention have been set forth in the foregoing description, together with details of the structure and function of the invention, the
+disclosure is illustrative only, and changes may be made in detail, especially in matters of shape, size and arrangement of parts within the principles of the invention to the full extent indicated by the broad general meaning of the terms in which the
+appended claims are expressed.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

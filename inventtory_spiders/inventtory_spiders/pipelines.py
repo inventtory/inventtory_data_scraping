@@ -177,12 +177,12 @@ class InventtorySpidersPipeline(object):
                 reader = f_old.readlines()
                 for i, row in enumerate(reader):
                     new_rows.append(row)
-            find1 = re.match('(.*?=\s*)?\'C:\\.*',new_rows[9]).group(1)
-            find2 = re.match('with\s*open\(\'(.*?)\'.*',new_rows[12]).group(1)
-            #FILE PATH - new_rows[9]
-            new_rows[9] = find1 + '\'' + txt_path + '\''
-            #FILE NAME - new_rows[12]   
-            new_rows[12] = new_rows[12].replace(find2, 'CSV_' + spider_name + '\\' + name_of_csv)
+            find1 = re.match('(.*?=\s*)?\'C:\\.*',new_rows[12]).group(1)
+            find2 = re.match('with\s*open\(\'(.*?)\'.*',new_rows[15]).group(1)
+            #FILE PATH - new_rows[12]
+            new_rows[12] = find1 + '\'' + txt_path + '\''
+            #FILE NAME - new_rows[15]   
+            new_rows[15] = new_rows[15].replace(find2, 'CSV_' + spider_name + '\\' + name_of_csv)
             name_of_file = "convert_" + spider_name + ".py"
             complete_name = os.path.join(spider_path, name_of_file)
             f_new = open(complete_name,"w")
@@ -195,12 +195,12 @@ class InventtorySpidersPipeline(object):
                 reader = f_old.readlines()
                 for i, row in enumerate(reader):
                     new_rows.append(row)
-            find1 = re.match('(.*?=\s*)?\'C:\\.*',new_rows[9]).group(1)
-            find2 = re.match('with\s*open\(\'(.*?)\'.*',new_rows[12]).group(1)
-            #FILE PATH - new_rows[9]
-            new_rows[9] = find1 + '\'' + txt_path + '\''
-            #FILE NAME - new_rows[12]   
-            new_rows[12] = new_rows[12].replace(find2, 'CSV_' + spider_name + '\\' + name_of_csv)
+            find1 = re.match('(.*?=\s*)?\'C:\\.*',new_rows[12]).group(1)
+            find2 = re.match('with\s*open\(\'(.*?)\'.*',new_rows[15]).group(1)
+            #FILE PATH - new_rows[12]
+            new_rows[12] = find1 + '\'' + txt_path + '\''
+            #FILE NAME - new_rows[15]   
+            new_rows[15] = new_rows[15].replace(find2, 'CSV_' + spider_name + '\\' + name_of_csv)
             name_of_file = "convert_" + spider_name + ".py"
             complete_name = os.path.join(spider_path, name_of_file)
             f_new = open(complete_name,"w")

@@ -1,0 +1,344 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2056&p=42&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8585127B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8585127B2
+
+
+patent_name: 
+Cable guide on a vehicle door
+
+
+patent_publish_date: 
+November 19, 2013
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ The present invention relates to a motor vehicle having a component whose
+     position can be changed and which is provided with a cable. For this
+     cable, the motor vehicle has a cable store with a force and/or torque
+     storage means, of which the stored force and/or stored torque changes
+     with the position of the component.
+ 
+
+
+inventors: 
+Zimmermann; Detlef (Kurten, DE), Luciani; Christophe (Weinheim, FR), Blessing; Ansgar (Karlsruhe-Durlach, DE), Kurpiers; Waldemar (Bruhl, DE), Zischka; Helmut (Weissach, DE), Nuyan; Vedat (Wuppertal, DE) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Johnson Controls Interiors GmbH & Co. KG  (Grefrath,  DE)  Carl Freudenberg KG  (Weinheim,  DE)   
+
+
+family_ID: 
+40429913
+
+
+application_number: 
+12/742,913
+
+
+filed_date: 
+November 11, 2008
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20110042991 A1
+
+
+prior_pub_data_publication_date: 
+Feb 24, 2011
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5992919, 5992919, November 1999, Menkerowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6076883, 6076883, June 2000, Labonde et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6358073, 6358073, March 2002, Jhanson et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6916062, 6916062, July 2005, Suzuki et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20030037958&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2003/0037958, February 2003, Watanabe et al.
+
+
+references_primary_examiner: 
+Gordon; Stephen
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+
+
+
+other_references_attorney_agent_or_firm: 
+Foley & Lardner LLP
+
+
+patent_claims: 
+The invention claimed is:  1.  A motor vehicle comprising a component whose position may be changed and which is provided with a cable, wherein the motor vehicle comprises a cable store with a
+force and/or torque storage means, of which a stored force and/or stored torque changes with the position of the component, wherein the cable store comprises two rollers, rotational axes thereof being rotatable about a common center of rotation which is
+located between the rollers, in particular located centrally between the rollers.
+ 2.  The motor vehicle as claimed in claim 1, wherein the cable store is provided in the component and/or connected to a vehicle chassis.
+ 3.  The motor vehicle as claimed in claim 1, wherein the component is a vehicle door or a tailgate.
+ 4.  The motor vehicle as claimed in claim 3, wherein the stored force and/or stored torque of the force and/or torque storage means increases when the component is opened and reduces when the component is closed.
+ 5.  The motor vehicle as claimed in claim 1, wherein the two rollers are arranged on a rotary plate.
+ 6.  The motor vehicle as claimed in claim 1, wherein the cable has a deformation which is elastically deformed when the position of the component changes.
+ 7.  The motor vehicle as claimed in claim 6, wherein the cable itself has sufficient material properties for permanent plastic deformation.
+ 8.  The motor vehicle as claimed in claim 6, wherein a permanently plastically deformable means is arranged on the cable.
+ 9.  A motor vehicle comprising: a component whose position may be changed and which is provided with a cable, wherein the motor vehicle comprises a cable store with a force and/or torque storage means, of which a stored force and/or stored
+torque changes with the position of the component, wherein the cable store comprises two rollers which are arranged on a rotary plate.
+ 10.  The motor vehicle as claimed in claim 9, wherein the cable store is provided in the component and/or connected to a vehicle chassis.
+ 11.  The motor vehicle as claimed in claim 9, wherein the component is a vehicle door or a tailgate.
+ 12.  The motor vehicle as claimed in claim 11, wherein the stored force and/or stored torque of the force and/or torque storage means increases when the component is opened and reduces when the component is closed.
+ 13.  The motor vehicle as claimed in claim 9, wherein the cable has a deformation which is elastically deformed when the position of the component changes.
+ 14.  The motor vehicle as claimed in claim 13, wherein the cable itself has sufficient material properties for permanent plastic deformation.
+ 15.  The motor vehicle as claimed in claim 13, wherein a permanently plastically deformable means is arranged on the cable.  
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+CROSS-REFERENCE TO RELATED APPLICATIONS
+ This application is a National Stage application of PCT/EP2008/009500, filed Nov.  11, 2008, which claims the priority of German Patent Application No. 10 2007 054 656.6, filed Nov.  14, 2007.  The foregoing applications are incorporated by
+reference herein in their entirety.
+ The present invention relates to a motor vehicle comprising a component whose position may be changed and which is provided with a cable.  For this cable, the motor vehicle comprises a cable store with a force and/or torque storage means, of
+which the stored force and/or stored torque changes with the position of the component.
+ It is already known to provide vehicles, in particular motor vehicles, with movable, in particular pivotable, vehicle doors, electrical and/or electronic components and/or consumers, such as for example window lifters, door locks, illuminating
+devices, acoustic devices such as loudspeakers or the like being arranged in or on the vehicle door.  Said electrical and/or electronic components and/or consumers are in this case, for example, connected by a round cable to the remaining electrical
+components of the vehicle and/or the cable harness of the vehicle, in particular via or through a part of the vehicle chassis, in particular the A-pillar and/or the B-pillar.  The length of the cable in this connection has to be provided for the open
+position of the vehicle door.
+ The object of the present invention is to provide a motor vehicle with a cable guide which avoids an uncontrolled cable path, for example when the door is closed.
+ The object is achieved by a motor vehicle comprising a component whose position may be changed and which is provided with a cable and which comprises a cable store with a force and/or torque storage means, of which the stored force and/or stored
+torque changes with the position of the component.
+ The present invention relates to a motor vehicle comprising a component whose position may be changed.  Said component may, for example, be a vehicle door, a vehicle tailgate, an engine hood but also a vehicle seat or a vehicle seat bench.  Said
+component is provided with a cable in order, for example, to provide electrical or electronic consumers, for example window lifters, door locks, illuminating devices, acoustic devices such as loudspeakers, heaters, motorized drives or the like, which are
+located in the respective component, with energy and/or signals.  The cable extends, moreover, into the vehicle chassis and/or is connected to a further cable which extends in the vehicle chassis.  The cable may be a flat or round cable, in particular a
+ribbon cable.  The cable may comprise a plurality of separate electrical conductors.
+ According to the invention, a cable store is provided which cooperates with the cable of the respective component and stores said cable as required.  Said cable store may be located in the component, i.e. for example in the vehicle door or
+tailgate or in the vehicle seat.  However, it may also or additionally be arranged fixedly in the vehicle chassis, preferably directly adjacent to the respective component.
+ Said cable store has a force and/or torque storage means, of which the stored force and/or stored torque changes with the position of the component.  The emptier the cable store is, preferably the greater the stored force and/or the stored
+torque and vice versa.  Preferably, the force and/or torque storage means always has a certain pretensioning so that the cable never sags.
+ Preferably, the cable store is provided in the component, for example in the vehicle door or in the vehicle seat.  Alternatively or additionally, however, the cable store may also be provided on the bodywork of the vehicle.  For example, the
+cable store may be provided on or in the respective pillar or the respective upright to which the vehicle door or the tailgate is fastened.  The cable store may, however, also be mounted on the vehicle floor in the region of the respective seat.
+ In the event that the component is a vehicle door or a vehicle tailgate, the stored force and/or or the stored torque of the force and/or torque storage means increases when the door is opened and reduces when the vehicle door is closed.
+ Preferably, the cable store comprises two rollers, the rotational axes thereof being rotatable about a common center of rotation which is preferably located between, in particular centrally between, the rollers.  When rotated in one direction,
+cable material is stored thereby, which is released again when rotated in the opposing direction.  Particularly preferably, the rotational axes of the rollers are arranged parallel to one another and preferably adjacent to one another.  Preferably, the
+rollers are arranged on a common rotary plate.  The rotary plate is preferably connected to a spring, for example a torsion spring which is tensioned when the vehicle door is opened and thus releases the cable and is relaxed when the door is closed and
+thus stores cable material.  The rollers in turn may additionally be mounted to be rotatable about their own axis.
+ In a further preferred embodiment the cable is permanently, i.e. plastically, bent and elastically deformed when the position of the component changes.  Preferably, the cable or parts of the cable itself has or have sufficient material
+properties for permanent deformation.  Alternatively or additionally, a permanently plastically deformable means, for example a resilient material is arranged, in particular bonded, on the cable.  The invention is explained hereinafter with
+reference to FIGS. 1-4.  Said explanations are provided merely by way of example and do not restrict the general idea of the invention.
+ FIG. 1a shows a first embodiment of a vehicle door, which is pivotably arranged on a pillar of the vehicle chassis, in the closed state.
+ FIG. 1b shows the vehicle door according to FIG. 1a in the open state.
+ FIG. 2a shows a second embodiment of a vehicle door which is pivotably arranged on a pillar of the vehicle chassis in the closed state.
+ FIG. 2b shows the vehicle door according to FIG. 2a in the open state.
+ FIGS. 3a, 3b and 3c show the embodiment according to FIG. 2.
+ FIG. 4 shows the embodiment according to FIG. 1 when the vehicle door is closed.
+ FIG. 1a shows a automobile door 2 which is arranged pivotably on a pillar 1, in this case the A-pillar or B-pillar, in the closed state.  This automobile door 2 has electrical-electronic components (not shown) which are provided via a cable, a
+system cable 3, with energy and/or signals.  The cable 3 is, on the one hand, directly connected or indirectly connected to the pillar 1 and, on the other hand, to the control unit 5.  The cable store 4 is located between the control unit 5 and the
+pillar 1, preferably in the door.  Said cable store consists in the present case of two, preferably rotatably mounted, rollers 6, 7 about which the cable is partially wound.  Said two rollers are rotatably mounted about a center of rotation which is
+preferably located centrally between the two rollers, for example on a rotary table.  The rotational axes of the rollers are arranged parallel but not concentrically.
+ FIG. 1b shows the automobile door according to FIG. 1a in the open state.  By opening the door, additional cable material is required.  As a result, the rollers 6, 7 rotate clockwise, and thus release the stored cable material.  The rotation of
+the rollers 6, 7 clockwise takes place counter to a force storage means, for example a spring, in particular a torsion spring, which pretensions the rollers rotating counterclockwise, so that as soon as the door is closed again, the rollers rotate back
+counterclockwise into the position shown in FIG. 1a, and thus again store the cable.
+ In the FIGS. 2 a further embodiment of the cable store is shown.  In the present case, the cable 3 in the region 3' is permanently, i.e. plastically, bent, in particular in the shape of an omega.  When opening the door (FIG. 2b) said
+omega-shaped bent portion is stretched by elastic deformation of the region 3' and thus the stored cable material is released.  As soon as the door is closed again (FIG. 2a) the cable in the region 3' regains its original shape.  Should the cable
+material itself not have sufficient material properties for permanent bending, on the cable in the region 3' a bent means 8 (see FIGS. 3b and 3c), for example a spring means, in particular a leaf spring, may be arranged, which has the desired bending,
+and which when opening the door is reversibly stretched.
+ FIGS. 3a, 3b and 3c show once again the embodiment according to FIG. 2.  In FIG. 3a the upright 1 and the open door 2 and the cable 3 located between the door and the upright may be seen.  FIG. 3b shows the closed state of the door.  In this
+view, the reinforcement of the cable 3 which is bent In the manner of a crooked stick may be seen, and which when opening the door (FIG. 3c) is reversibly stretched.
+ FIG. 4 shows the embodiment according to FIG. 1 when the door is closed.
+ List of Reference Numerals
+ 1 Pillar 2 Door, tailgate 3 Cable, system cable 4 Cable store 5 Control unit 6 Roller 7 Roller 8 Reinforcement
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+

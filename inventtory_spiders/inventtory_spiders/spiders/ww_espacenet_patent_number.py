@@ -70,8 +70,8 @@ class EspacenetSpider(CrawlSpider):
         else:
             num_pages = int(num_results/25) + 1
 
-        #test
-        print(num_pages)
+        #print total number of pages
+        print("total number of pages is: " + num_pages)
 
         #iterate through pages
         i = 0
@@ -98,7 +98,7 @@ class EspacenetSpider(CrawlSpider):
         url2 = re.match('(https:\/\/worldwide\.espacenet\.com\/data\/publicationDetails\/)\w+(\?.*)',url).group(2)
 
         #test we've got here...
-        print("We are here!")
+        #print("We are here!")
 
         ##############################
         ###TAB1: Bibliographic data###
@@ -156,23 +156,23 @@ class EspacenetSpider(CrawlSpider):
         item['page_bookmark'] = bookmark0 + bookmark1
        
         if response.xpath('//span[@id="inventors"]/text()') != []:
-            print("inventors contains stuff!")
+            #print("inventors contains stuff!")
             inventors = response.xpath('//span[@id="inventors"]/text()').extract()
             inventors = [e.decode('unicode_escape').encode('ascii','ignore') for e in inventors]
             inventors = ''.join(inventors)
             item['inventors'] = inventors
         else:
-            print("we're empty!")
+            #print("we're empty!")
             item['inventors'] = 'NEEDS FIXING!'
 
         if response.xpath('//span[@id="applicants"]/text()') != []:
-            print("applicants contains stuff!")
+            #print("applicants contains stuff!")
             applicants = response.xpath('//span[@id="applicants"]/text()').extract()
             applicants = [e.decode('unicode_escape').encode('ascii','ignore') for e in applicants]
             applicants = ''.join(applicants)
             item['applicants'] = applicants
         else:
-            print("we're empty!")
+            #print("we're empty!")
             item['applicants'] = 'NEEDS FIXING!'
 
         if response.xpath('//td[@class="containsTable"]//tbody/tr[1]//a//text()') != []:
@@ -274,13 +274,13 @@ class EspacenetSpider(CrawlSpider):
         #URL: https://worldwide.espacenet.com/data/publicationDetails/claims?CC=US&NR=9486108B1&KC=B1&FT=D&ND=3&date=20161108&DB=EPODOC&locale=en_EP
         if response.xpath('//div[@id="claims"]/p[@lang="en"]//text()') != []:
             original_claims = response.xpath('//div[@id="claims"]/p[@lang="en"]//text()').extract()
-            print(original_claims)
+            #print(original_claims)
             item['original_claims'] = response.xpath('//div[@id="claims"]/p[@lang="en"]//text()').extract()
         elif response.xpath('//div[@id="claims"]/p[@lang="en"]//text()') == []:
             item['original_claims'] = ''
         if response.xpath('//ul[@id="claimsTree"]//text()') != []:
             claims_tree = response.xpath('//ul[@id="claimsTree"]//text()').extract()
-            print(claims_tree)
+            #print(claims_tree)
             item['claims_tree'] = response.xpath('//ul[@id="claimsTree"]//text()').extract()
         elif response.xpath('//ul[@id="claimsTree"]//text()'):
             item['claims_tree'] = ''
@@ -562,7 +562,7 @@ class EspacenetSpider(CrawlSpider):
                 data = [e.replace('\t','') for e in data]
                 data = ''.join(data)
                 inpadoc = inpadoc + str(data) + '\n'
-                print(inpadoc)
+                #print(inpadoc)
 
             item['INPADOC_legal_status'] = inpadoc
 

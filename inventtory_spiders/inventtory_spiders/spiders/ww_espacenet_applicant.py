@@ -69,7 +69,7 @@ class EspacenetSpider(CrawlSpider):
         else:
             num_pages = int(num_results/25) + 1
 
-        #test
+        #print total number of pages
         print("total number of pages is: " + num_pages)
 
         #iterate through pages
@@ -694,5 +694,5 @@ class EspacenetSpider(CrawlSpider):
 
     
 
-#scrapy crawl espacenet_applicant -o espacenet_applicant_test1.csv
+#scrapy crawl espacenet_applicant
     

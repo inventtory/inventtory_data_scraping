@@ -1,13 +1,16 @@
 import sys
 import csv
+import re
 import os.path
+from os import listdir
+from os.path import isfile, join
 
 csv.field_size_limit(sys.maxsize)
 
 new_rows = []
 
 ###CHANGE DIRECTORY PATH AS REQUIRED###
-save_path = 'C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\DATA_OUTPUT2'
+save_path = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders'
 
 
 with open('espacenet_china_test1.csv', "rt") as f:
@@ -28,24 +31,37 @@ fields = ['document_url', 'key_identifier', 'patent_country', 'patent_country_co
 
 ###WORK OUT NUMBER OF COPIES OF A DOCUMENT IN FOLDER###
 
-try:
-    len([name for name in os.listdir(csv_path) if os.path.isfile(os.path.join(csv_path, name))])
-    num = len([name for name in os.listdir(csv_path) if os.path.isfile(os.path.join(csv_path, name))]) + 1
-except:
-    num = 1
+if (os.listdir(save_path) == []) == True:
 
-for record in new_rows:
-    patent_index = header.index('key_identifier')
-    #patent_index = header.index('patent_number')
-    name_of_file = str(record[patent_index])+ ".txt"
-    complete_name = os.path.join(save_path, name_of_file)
-    #f = open(str(record[header.index('patent_number')])+".txt","w")
-    f = open(complete_name,"w")
-    print(record[patent_index])
-    for field in fields:
-        field_index = header.index(field)
-        entry = str(field) + ": " + "\n" + record[field_index] + "\n\n\n"
-        f.write(entry)
-    f.close()
+    for record in new_rows:
+        patent_index = header.index('key_identifier')
+        name_of_file = str(record[patent_index])+ "_1.txt"
+        complete_name = os.path.join(save_path, name_of_file)
+        f = open(complete_name,"w")
+        print(name_of_file)
+        for field in fields:
+            field_index = header.index(field)
+            entry = str(field) + ": " + "\n" + record[field_index] + "\n\n\n"
+            f.write(entry)
+        f.close()
+
+else:
+
+    for record in new_rows:
+        patent_index = header.index('key_identifier')
+        test_name = str(record[patent_index])
+        only_files = [f for f in listdir(save_path) if isfile(join(save_path, f))]
+        only_files = [re.match('([A-Z]{2}[0-9]+[0-9A-Z]{0,2}).*',e).group(1) for e in only_files]
+        ###determine how many of a particular patent document there are in directory###
+        num = only_files.count(test_name) + 1
+        name_of_file = str(record[patent_index])+ '_' + str(num) + ".txt"
+        complete_name = os.path.join(save_path, name_of_file)
+        f = open(complete_name,"w")
+        print(name_of_file)
+        for field in fields:
+            field_index = header.index(field)
+            entry = str(field) + ": " + "\n" + record[field_index] + "\n\n\n"
+            f.write(entry)
+        f.close()
 
 

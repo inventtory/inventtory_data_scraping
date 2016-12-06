@@ -100,7 +100,7 @@ DOWNLOAD_DELAY = 5 #crawler scrapes a record every n seconds
 ###DETERMINE LOG FILE NAME###
 #############################
 
-LOG_FILE = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\espacenet_applicant_Abstr-Claim-Descr\LOG_espacenet_applicant\espacenet_applicant_1.log'
+LOG_FILE = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\espacenet_china_Abstr-Claim-Descr\LOG_espacenet_china\espacenet_china_1.log'
 
 ########################
 ###CHOOSE A LOG LEVEL###

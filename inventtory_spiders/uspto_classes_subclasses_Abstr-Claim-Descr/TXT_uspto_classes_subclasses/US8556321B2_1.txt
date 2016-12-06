@@ -1,0 +1,418 @@
+document_url: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2200&p=44&f=G&l=50&d=PTXT&S1=(((177%2F136.CCLS.+OR+180%2F273.CCLS.)+OR+701%2F517.CCLS.)+OR+296%2F$.CCLS.)&OS=CCL/177/136+OR+CCL/180/273+OR+CCL/701/517+OR+CCL/296/$&RS=(((CCL/177/136+OR+CCL/180/273)+OR+CCL/701/517)+OR+CCL/296/$)
+
+
+key_identifier: 
+US8556321B2
+
+
+patent_country_code: 
+US
+
+
+patent_country: 
+United States
+
+
+patent_application_number: 
+
+
+
+patent_number: 
+US8556321B2
+
+
+patent_name: 
+Refrigerated trailer door having an automotive-style handle and locking     mechanism
+
+
+patent_publish_date: 
+October 15, 2013
+
+
+patent_kind_code: 
+B2
+
+
+abstract: 
+ A door for a refrigerated trailer including a door pan formed of
+     fiberglass reinforced plastic, the door pan having an inner surface and
+     an outer surface. A door sheet is formed of fiberglass reinforced plastic
+     and has an inner surface and an outer surface. A foamed plastic core is
+     provided between the inner surfaces of the door pan and the door sheet. A
+     housing is mounted between the inner surfaces of the door pan and the
+     door sheet and is substantially encapsulated within the foamed plastic
+     core. An automotive-style handle and locking mechanism is mounted to the
+     housing.
+ 
+
+
+inventors: 
+Johnson; Peter J. (Bloomer, WI), Marino; John A. (Rice Lake, WI) 
+
+
+applicant_1: 
+
+
+
+applicant_2: 
+
+
+
+applicant_3: 
+
+
+
+applicant_4: 
+
+
+
+applicant_5: 
+
+
+
+applicant_6: 
+
+
+
+applicant_7: 
+
+
+
+applicant_8: 
+
+
+
+applicant_9: 
+
+
+
+applicant_10: 
+
+
+
+assignee: 
+ Assignee:  Johnson Truck Bodies, LLC  (Chicago,  IL)   
+
+
+family_ID: 
+46651444
+
+
+application_number: 
+13/397,524
+
+
+filed_date: 
+February 15, 2012
+
+
+pct_filed: 
+
+
+
+pct_number: 
+
+
+
+pct_pub_number: 
+
+
+
+pct_pub_date: 
+
+
+
+related_US_patent_document_1: 
+Issue Date,  , 61443948, Feb 17, 2011
+
+
+related_US_patent_document_2: 
+
+
+
+related_US_patent_document_3: 
+
+
+
+related_US_patent_document_4: 
+
+
+
+related_US_patent_document_5: 
+
+
+
+related_US_patent_document_6: 
+
+
+
+related_US_patent_document_7: 
+
+
+
+related_US_patent_document_8: 
+
+
+
+related_US_patent_document_9: 
+
+
+
+related_US_patent_document_10: 
+
+
+
+current_US_class: 
+
+
+
+current_CPC_class: 
+
+
+
+current_international_class: 
+
+
+
+class_at_publication: 
+
+
+
+international_class: 
+
+
+
+field_of_search: 
+
+
+
+prior_pub_data_document_identifier: 
+US 20120210743 A1
+
+
+prior_pub_data_publication_date: 
+Aug 23, 2012
+
+
+references_cited: 
+http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F2894378, 2894378, July 1959, Saunders et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F3153553, 3153553, October 1964, Sandorrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4223482, 4223482, September 1980, Barroero et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F4303286, 4303286, December 1981, McClellanrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F5983682, 5983682, November 1999, Parikhrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6192703, 6192703, February 2001, Salyer et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6244458, 6244458, June 2001, Frysinger et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6308518, 6308518, October 2001, Hunterrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F6378767, 6378767, April 2002, Steelerowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7111880, 7111880, September 2006, Saitohrowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7134552, 7134552, November 2006, McDonagh et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7263855, 7263855, September 2007, Meyer et al.rowhttp://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN%2F7603875, 7603875, October 2009, Carrrowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20010011832&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2001/0011832, August 2001, Ehrlich et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20030094025&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2003/0094025, May 2003, Dallmanrowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20050247086&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2005/0247086, November 2005, Nixon, Jr.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070186786&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0186786, August 2007, Chitwood et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070193297&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0193297, August 2007, Wilsonrowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20070289976&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2007/0289976, December 2007, Meyer et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20090126854&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2009/0126854, May 2009, Khanrowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20100119323&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2010/0119323, May 2010, Nelsonrowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20110094255&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2011/0094255, April 2011, Jeffery et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20120227323&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2012/0227323, September 2012, Guarino et al.rowhttp://patft.uspto.govhttp://appft.uspto.gov/netacgi/nph-Parser?TERM1=20120324936&amp;Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=0&amp;f=S&amp;l=50, 2012/0324936, December 2012, Cur et al.
+
+
+references_primary_examiner: 
+Patel; Kiran B
+
+
+references_assistant_examiner: 
+
+
+
+references_attorney_agent_or_firm: 
+
+
+
+ref_cited_US_patent_documents: 
+
+
+
+ref_cited_foreign_patent_documents: 
+
+
+
+ref_cited_other_references: 
+
+
+
+other_references: 
+
+
+
+other_references_primary_examiner: 
+
+
+
+other_references_assistant_examiner: 
+
+
+
+other_references_attorney_agent_or_firm: 
+Nelson Mullins Riley & Scarborough, LLP
+
+
+patent_claims: 
+The invention claimed is:  1.  A door for a refrigerated trailer comprising: a door pan formed of fiberglass reinforced plastic, the door pan having an inner surface and an outer surface;  a door
+sheet formed of fiberglass reinforced plastic, the door sheet having an inner surface and an outer surface;  a foamed plastic core provided between the inner surfaces of the door pan and the door sheet;  a housing mounted between the inner surfaces of
+the door pan and the door sheet and substantially encapsulated within the foamed plastic core;  and an automotive-style handle and locking mechanism mounted to the housing.
+ 2.  The door for a refrigerated trailer as defined in claim 1, wherein the housing is formed of fiberglass reinforced plastic.
+ 3.  The door for a refrigerated trailer as defined in claim 1, wherein the locking mechanism includes a receiver for receiving signals for unlocking and/or locking the automotive-style handle and locking mechanism.
+ 4.  The door for a refrigerated trailer as defined in claim 3, wherein the locking mechanism includes a key hole into which a key is inserted for manually locking and/or unlocking the door.
+ 5.  The door for a refrigerated trailer as defined in claim 1, wherein the locking mechanism includes a key hole into which a key is inserted for manually locking and/or unlocking the door.
+ 6.  The door for a refrigerated trailer as defined in claim 1, wherein the locking mechanism includes a handle having an outer surface which is substantially flush with the outer surface of the door sheet. 
+
+
+
+parent_case_text: 
+
+
+
+patent_description: 
+FIELD OF THE INVENTION
+ The present invention relates to a door having an automotive-style handle and locking mechanism for a refrigerated trailer.
+BACKGROUND OF THE INVENTION
+ A prior art refrigerated trailer includes a body formed from a pair of rectangular sidewalls, at least one door provided in a sidewall, a front wall, a rear frame, at least one door supported in the rear frame, a roof or top panel, and a floor
+structure.  The doors are hingedly mounted by hinges.  The body defines an interior cargo compartment for carrying cargo.  A refrigeration unit is mounted in the front wall and provides conditioned air to the interior cargo compartment.  The floor
+structure may be supported by conventional axles and wheels, or may be supported by a rear undercarriage assembly and a landing gear.  The trailer can be connected to a tractor having a cab by conventional means, such as a fifth wheel assembly.  Each of
+the sidewalls, front wall and roof includes a foamed plastic core between first and second skins formed from fiberglass reinforced plastic (FRP) (this structure is commonly known in the industry as a composite plate).
+ Conventional door lock mechanisms include an elongated, cylindrical lockrod which extends along the height of the respective door.  A generally U-shaped bearing plate is provided proximate each end of the lockrod and the bearing plates are
+secured to the respective door by fasteners, such as rivets.  The lockrod rotates within the bearing plates, and a handle is provided for manipulating the position of the lockrod.  The handle is provided partway up the lockrod on the respective door.  A
+cam which is integrally formed at each end of the lockrod is configured to engage corresponding keeper on the body, thereby locking the doors into a closed position.  Each keeper is attached to the body by suitable means, such as a weldment.  Brackets
+are typically provided on the doors for engaging and securing the handles.  Typically, the brackets are configured such that padlocks can be engaged with the brackets, thereby locking the handles in place on the doors (and thereby locking the doors in
+the closed position).
+ Because the handles are provided partway up the doors and extend outwardly from the doors, when the doors are swung to the open position, the handles may bear against the body, possibly causing damage.  In addition, the handles are large and
+heavy, which makes the handles difficult for an operator to use.
+ The present disclosure provides a locking mechanism which addresses various disadvantages presented by the prior art.  Other features and advantages will become apparent upon a reading of the attached specification, in combination with a study
+of the drawings.
+SUMMARY OF THE INVENTION
+ The present invention recognizes and addresses considerations of prior art constructions and methods.  One embodiment of a door for a refrigerated trailer includes a door pan formed of fiberglass reinforced plastic, the door pan having an inner
+surface and an outer surface.  A door sheet is formed of fiberglass reinforced plastic and has an inner surface and an outer surface.  A foamed plastic core is provided between the inner surfaces of the door pan and the door sheet.  A housing is mounted
+between the inner surfaces of the door pan and the door sheet and is substantially encapsulated within the foamed plastic core.  An automotive-style handle and locking mechanism is mounted to the housing.
+ In another embodiment, a refrigerated trailer includes a body defining an interior cargo compartment, a refrigeration unit mounted on the body for providing conditioned air to the interior cargo compartment, and at least one door hingedly
+mounted to the body.  The at least one door includes a door pan formed of fiberglass reinforced plastic, the door pan having an inner surface and an outer surface, a door sheet formed of fiberglass reinforced plastic having an inner surface and an outer
+surface, a foamed plastic core provided between the inner surfaces of the door pan and the door sheet, a housing mounted between the inner surfaces of the door pan and the door sheet and substantially encapsulated within the foamed plastic core, and an
+automotive-style handle and locking mechanism mounted to the housing.
+ In another embodiment, a method of forming a door for a refrigerated trailer includes providing a door pan formed of fiberglass reinforced plastic, providing a door sheet formed of fiberglass reinforced plastic, attaching the door pan to the
+door sheet such that a space is formed therebetween, cutting an access aperture into the door pan such that the space can be accessed, inserting a housing through the access aperture in the door pan and securing the housing to the door sheet, mounting a
+wire through the door pan and the housing, injecting foam into the space, thereby substantially encapsulating the housing within the foam, cutting aligned holes through the door pan and the housing, cutting an access aperture through the door sheet,
+inserting an automotive-style handle and locking mechanism through the access aperture in the door sheet, mounting the automotive-style handle and locking mechanism to the housing and the wire and at least through the aligned holes, inserting a foam plug
+through the access opening in the door pan, and attaching a panel over the access opening in the door pan.
+ The accompanying drawings, which are incorporated in and constitute a part of this specification, illustrate one or more embodiments of the invention and, together with the description, serve to explain the principles of the invention.
+BRIEF DESCRIPTION OF THE DRAWINGS
+ A full and enabling disclosure of the present invention, including the best mode thereof, directed to one of ordinary skill in the art, is set forth in the specification, which makes reference to the appended drawings, in which:
+ FIG. 1 is a perspective view of a refrigerated trailer which incorporates the features of the invention;
+ FIG. 2 is a left (or curbside) side elevational view of the refrigerated trailer;
+ FIG. 3 is a right (or street side) elevational view of the refrigerated trailer;
+ FIG. 4 is an exploded perspective view of the components that form the doors of the refrigerated trailer;
+ FIG. 5 is a perspective view of portions of the door of FIG. 3;
+ FIG. 6 is an alternate perspective view of portions of the door of FIG. 3; and
+ FIG. 7 is a cross-sectional view of the door along line 7-7 of FIG. 3.
+ Repeat use of reference characters in the present specification and drawings is intended to represent same or analogous features or elements of the invention according to the disclosure.
+DETAILED DESCRIPTION OF THE ILLUSTRATED EMBODIMENTS
+ While the invention may be susceptible to embodiment in different forms, there is shown in the drawings, and herein will be described in detail, a specific embodiment with the understanding that the present disclosure is to be considered an
+exemplification of the principles of the invention, and is not intended to limit the invention to that as illustrated and described herein.  Therefore, unless otherwise noted, features disclosed herein may be combined together to form additional
+combinations that were not otherwise shown for purposes of brevity.
+ A refrigerated trailer 20 includes a body 22 generally formed from a pair of rectangular sidewalls 24, a front wall 26, a rear frame 28, a wall or door (not shown) supported in the rear frame 28, a roof or top panel 30, and a floor structure
+(not shown).  The body 22 defines an interior cargo compartment for holding and transporting cargo.  A refrigeration unit 32 is mounted in the front wall 26 and provided conditioned air to the interior cargo compartment.  The floor structure may be
+supported by conventional axles and wheels or may be supported by a conventional rear undercarriage assembly and landing gear.  The trailer 20 can be connected to a cab by suitable means, or to a tractor having a cab (not shown) by conventional means,
+such as a fifth wheel assembly.  Each of the sidewalls 24, front wall 26, roof 32 and rear wall/doors includes a foamed plastic core between first and second skins formed from fiberglass reinforced plastic (FRP) (this structure is commonly known in the
+industry as a composite plate) as shown in FIG. 7.
+ A plurality of doors 34 are provided in the sidewalls 24 as shown in FIGS. 2 and 3.  As discussed, a door(s) (not shown) can also be provided in the rear of the body 22.  Each door 34 (including the rear door(s)) is hingedly mounted to the body
+22 by hinges 36 provided at the top and bottom corners of one side of each door 34.
+ Each door 34 is formed of a foamed plastic core 146 provided in a space between a door pan 166 and a door sheet 168.  The door 34, along with the equipment used to foam each door 34, preferably contain foam with a foam expansion pressure of 8
+PSI.  The door pan 166 and the door sheet 168 are formed from fiberglass reinforced plastic (FRP).  Referring additionally to FIGS. 4-6, an automotive-style handle and locking mechanism 152 is mounted to a housing 180 which is provided in the space.  An
+example of such an automotive-style handle and locking mechanism 152 is shown in U.S.  Pat.  No. 7,111,880 which disclosure is herein incorporated by reference in its entirety.
+ Each door 34 includes the door pan 166, the door sheet 168, right and left backing channels 170, 172, an inner backing plate 174, an outer backing plate 176, the automotive-style handle and locking mechanism 152 mounted to the housing 180 and
+the foamed plastic core 146.  The inner backing plate 174 and the outer backing plate 176 are assembled together to form a latch housing 180.  The backing channels 170, 172 and the latch housing 180 are mounted between the door pan 166 and the door sheet
+168.  The automotive-style handle and locking mechanism 152 is mounted to the latch housing 180.
+ The door pan 166 is formed of FRP and includes a rectangular planar base wall 182 and a skirt 184 depending therefrom.  The skirt 184 includes a top wall 184a which extends perpendicularly from an upper edge of the base wall 182, a bottom wall
+184b which extends perpendicularly from a lower edge of the base wall 182, a right side wall 184c which extends perpendicularly from the right side edge of the base wall 182, and a left side wall 184d which extends at an angle relative to the left side
+edge of the base wall 182.  The base wall 182 and the skirt 184 form a recess 186 into which the backing channels 170, 172 and the latch housing 180 are mounted.  A lip 188 extends outwardly and generally perpendicularly from the skirt 184.  The lip 188
+includes an upper flange 188a which extends outwardly and generally perpendicularly from the end of the top wall 184a, a lower flange 188b which extends outwardly and generally perpendicularly from the end of the bottom wall 184b, a right side flange
+188c which extends outwardly and generally perpendicularly from the end of the left side wall 184c, and a right side flange 188d which extends outwardly and generally perpendicularly from the end of the right side wall 184c.
+ The left side wall 184d has an upper section 190a which extends from the top wall 184a downwardly, a lower section 190b which extends from the bottom wall 184b upwardly and is planar with the upper section 190a, and a recessed section 190c
+provided between the upper and lower sections 190a, 190b and extends into the recess 186.  The recessed section 190c includes an upper wall 192a which extends generally perpendicular to the upper section 190a and inwardly toward the recess 186, a lower
+wall 192b which extend generally perpendicular to the lower section 190b and inwardly toward the recess 186, and an intermediate wall 192c extending between the inner ends of the upper and lower walls 192a, 192b and which is parallel to, but offset from,
+the upper and lower sections 190a, 190b.  A strike hole 194 is provided through the intermediate wall 190c.
+ A wire access hole 196 is provided through the base wall 182 proximate to the top edge thereof.  An elongated access aperture 198 is provided through the base wall 182 proximate to, but spaced from, the recessed section 190c.  A shallow
+depression 200 surrounds the access aperture 198 and extends into the recess 186.  An access panel 202, formed of FRP, seats within the depression 200 and is secured by suitable means, such as adhesive, over the elongated access aperture 198.  As a
+result, a flush inner surface of the door 34 is provided.
+ The door sheet 168 is a rectangular planar sheet of FRP material.  The door sheet 168 has an access aperture 204 therethrough which is proximate to one of the sides of the door sheet 168.  The door sheet 168 is shaped to correspond to the outer
+perimeter shape of the lip 188 of the door pan 166 such that when the door sheet 168 is seated on the lip 188, an interior space is provided.  Hinges 36 are mounted on the door sheet 168 on the side opposite to the access aperture 204 for attaching the
+door 34 to the body 22.
+ The right backing channel 170 is generally U-shaped and has a height which is approximately the same as the height of the base wall 182 of the door pan 166.  The backing channel 170 includes a generally rectangular base wall 170a having a right
+leg 170b extending perpendicularly from the right edge thereof and along the entire height of the base wall 170a, and a left leg 170c extending perpendicularly from the left edge thereof and along the entire height of the base wall 170a.  The left leg
+170c has a width (the distance the leg extends from the base wall 170a) which is less than the left leg 170b.  The base wall 170a of the backing channel 170 seats against the base wall 182 of the door pan 166 and the right leg 170b seats against the
+right side wall 184c of the door pan 166.  The backing channel 170 does not cover the wire access hole 196.
+ The left backing channel 172 is generally U-shaped and has a height which is approximately the same as the height of the base wall 182 of the door pan 166.  The backing channel 172 includes a generally rectangular base wall 172a having a right
+leg 172b extending perpendicularly from the right edge thereof and along the entire height of the base wall 172a, an upper left leg 172c extending perpendicularly from the upper portion of the left edge of the base wall 172a, and a lower left leg 172d
+extending perpendicularly from the lower portion of the left edge of the base wall 172a.  The upper left leg 172c and the lower left leg 172d are planar and have the same width (the distance the legs extends from the base wall 170a).  The right leg 172
+has a width which is less than the legs 172c, 172d.  Each left leg 172c, 172d has a plurality of spaced-apart apertures provided therethrough.  A space 206 is provided between the lower end of the upper left leg 172c and the upper end of the lower left
+leg 172d.  A cutout 208 is provided in the base wall 172a and joins with the space 206.  The base wall 172a seats against the base wall 182 of the door pan 166 and the left legs 172c, 172d of the backing channel 172 are positioned proximate to the left
+side wall 184d of the door pan 166.  Since the left side wall 184d of the skirt 184 is angled, a space is provided between the left legs 172c, 172d and the left side wall 184d.  The space/cutout 206/208 align with the recessed section 190c of the left
+side wall 184d.
+ The inner backing plate 174 is formed of FRP and includes a rectangular base wall 210, a top wall 212a which extends perpendicularly from an upper edge of the base wall 210, a bottom wall 212b which extends perpendicularly from a lower edge of
+the base wall 210, and a side wall 212c which extends perpendicularly from a side edge of the base wall 210.  A wiring aperture (not shown) is provided through the inner backing plate 174.  A three-sided flange 214 extends perpendicularly outwardly from
+the top, base and bottom walls 212a, 210, 212b.  A three-sided flange 216 extends perpendicularly outwardly from the top, side and bottom walls 212a, 212b, 212c.  The outer backing plate 176 is formed of FRP and has a base wall 218 and a side wall 220
+which is perpendicular to the base wall 218.  An access hole 222 is provided through the side wall 220 and aligns with the strike hole 194.  As best shown in FIG. 5 (in which the inner backing plate 174 is not shown), a plurality of spaced apart
+apertures 224, 226, 228 are provided through the base wall 218.  The base wall 218 of the outer backing plate 176 seats against the three-sided flange 216 of the inner backing plate 174, and the side wall 220 of the outer backing plate 176 seats against
+the three-sided flange 214 of the inner backing plate 174 to form an enclosure in which at least a portion of the automotive-style handle and locking mechanism 152 is seated.  The inner backing plate 174 and the outer backing plate 176 are suitably
+secured together, for example by adhesive, to form the latch housing 180.
+ The base wall 210 of the inner backing plate 174 is proximate to the access opening 198 in the door pan 166.  The side wall 220 of the outer backing plate 176 seats against the legs 172c, 172d of the backing channel 172.
+ The automotive-style handle and locking mechanism 152 is a standard automotive handle and lock constructed for opening and closing an automobile side door which is known in the art.  The automotive-style handle and locking mechanism 152 is
+mounted to the outer backing 176 and is accessed through access aperture 204 in the door sheet 168.
+ The automotive-style handle and locking mechanism 152 includes a handle base 230 seated in aperture 228 and a handle 232 swing ably connected to the handle base 230.  The handle 232 has a horizontally long shape and one end thereof is swingably
+connected to the handle base 230.  The handle 232 is mounted to the door sheet 168 such that its axis of rotation is perpendicular to the height of the door 34.  The handle 232 is swingable between its initial position in which an outer surface of the
+handle 232 lies substantially flush with the door sheet 168, and its opening position reached when the handle 232 is pulled away from the door sheet 168.
+ The automotive-style handle and locking mechanism 152 also includes known mechanical and electronic assemblies 234 for interconnecting the handle 232 and the locking assembly on the trailer when the door 34 is in the closed and locked position. 
+The mechanical and electronic assemblies 234 preferably includes a receiver 236 for receiving signals for unlocking/locking the automotive-style handle and locking mechanism 152 as is known in the art, a key hole 238 into which a key is inserted for
+manually locking/unlocking the door 34, and a linkage 240 (see FIG. 6 which shows the outer backing plate 176 as transparent so the inner components can be seen) which extends through the access hole 222 in the outer backing plate 176.  The receiver 236
+may be wired to locks in the tractor/cab to receive signals therefrom (which may be generated by a key fob).  The linkage 240 is connected to a rotary strike 242 that is seated within the recessed portion 190c.  This rotary strike 242 interacts with a
+corresponding lock (not shown) on the body 22 to maintain the door 34 in the closed and locked position as is known in the art.  The handle 132 can be easily grasped by a user and pulled to open the door 34 in the same way that a car door handle is
+activated.
+ A wire 244 (shown broken in FIGS. 4 and 5) is inserted through a receptacle in the wire access hole 196 and is in electrical connection with the automotive-style handle and locking mechanism 152.  The wire 244 provides electrical signals from
+the tractor/cab to the automotive-style handle and locking mechanism 152 and supplies power from the power supply in the tractor/cab or on the trailer to the automotive-style handle and locking mechanism 152.
+ Now that the specifics of the door 34 have been described, the method of forming the door 34 is described.
+ The access aperture 198 is cut into the base wall 182 of the door pan 166.  The backing channels 170, 172 are mounted in the recess 186 of the door pan 166 and are secured thereto by suitable means, such as adhesive.
+ The door pan 166 is attached to the door sheet 168 by suitable means, for example by adhesive, and clamped in a press.  Thereafter, the door sheet 168 is trimmed to conform to the shape of the lip 188 on the door pan 166.
+ The outer backing plate 176 is attached to the inner backing plate 174 by suitable means, for example by adhesive, and the latch housing 180 is formed.  The wiring aperture is drilled into the inner backing plate 174.
+ Next, the access aperture 204 is cut into the door sheet 168.  The latch housing 180 is inserted through the access aperture 198 in the door pan 166 and using the access aperture 204 in the door sheet 168, the latch housing 180 is properly
+positioned within the recess 186 using an alignment plug (not shown).  When properly positioned, the apertures 224, 226, 228 in the outer backing plate 176 align with the access aperture 204 in the door sheet 168.  The outer backing plate 176 is secured
+to the door sheet 168 by suitable means, for example by adhesive.
+ The wire access hole 196 is drilled in the base wall 182 of the door pan 166 and the wiring receptacle is inserted therethrough.  The wire 244 is run into the inner backing plate 174 through the wiring aperture.  Thereafter, the wiring aperture
+in the inner backing plate 174 is sealed by suitable means by a user through the access aperture 204.  As a result, the enclosure formed by the latch housing 180 is completely separated from the remainder of the interior space between the door pan 166
+and the door sheet 168.
+ A foaming plug (not shown) is then installed in the access aperture 198 in the door pan 166.  Foam is injected into the recess 186 through the foaming plug by suitable known means.  The door 34, along with the door foaming equipment, preferably
+contains foam with a foam expansion pressure of 8 PSI.  This provides sufficient structural rigidity to the resulting door 34.  As a result, the latch housing 180 is substantially encapsulated by foam on three sides.  The remaining side of the latch
+housing 180 abuts against the FRP door sheet 168.
+ Next, the strike hole 194 in the door pan 166 and the access hole 222 in the outer backing plate 176 are cut by suitable means and in this process, any foam in this pathway is removed.
+ The automotive-style handle and locking mechanism 152 is then inserted through the access aperture 204 in the door sheet 168 and is mounted to the inner backing plate 174 by suitable means, such as adhesive.  The automotive-style handle and
+locking mechanism 152 is connected to wire 244.  The linkage 240 is installed through the aligned holes 194, 222.  A rotary strike gasket 246 is installed into the strike hole 194 and the rotary strike 242 is installed therein and connected to the
+linkage 240.  The handle 232 and base 230 are mounted through the access aperture 204 in the door sheet 168.  A cover plate 250 is secured to the outer surface of the door sheet 168 to cover the access aperture 204.
+ A foam plug 248 is inserted through the access opening 198 to encapsulate the remainder of the automotive-style handle and locking mechanism 152 on its inner side.  The access panel 202 seats over the access opening 198 and is attached thereto
+by suitable means, such as adhesive.  Thereafter, the hinges 36 are installed and the completed door 34 is attached to the body 22.
+ The door 34 can be unlock by pressing the "Unlock" button on the key fob or using the keyed lock 238 on the automotive-style handle and locking mechanism 152.  The handle 232 is pulled to release the automotive-style handle and locking mechanism
+152 and thereafter, is used to pull the door 34 open.  The door 34 can be closed by pushing the door 34 closed to engage automotive-style handle and locking mechanism 152.  The door 34 is locked by pressing the "Lock" button on the key fob or using the
+keyed lock 238 on the automotive-style handle and locking mechanism 152.
+ The doors 34 formed by the present invention can be up to four, five or six inches thick.  This results in a thicker door 34 than prior art trailer doors, which can result in increased insulating properties.
+ The doors 34 are easy to operate and include the aesthetically appealing automotive-style handle and locking mechanism 152.  The doors 34 provide ergonomics which potentially result in reduced fatigue and improved efficiencies of delivery route
+personnel.  The automotive-style handle and locking mechanism 152 is lightweight and has a low profile to improve fuel mileage.  The automotive-style handle and locking mechanism 152 can be electronically controlled through a key fob.  The ease and
+convenience of the electronic lock decreases the chance of product theft.
+ While one or more preferred embodiments of the invention are described above, it should be appreciated by those skilled in the art that various modifications and variations can be made in the present invention without departing from the scope
+and spirit thereof.  It is intended that the present invention cover such modifications and variations as come within the scope and spirit of the appended claims and their equivalents.
+* * * * *
+
+   
+   
+   
+   
+   
+   
+   
+   
+     
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
