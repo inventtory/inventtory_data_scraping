@@ -11,7 +11,7 @@ new_rows = []
 ###ENTER SPIDER NAME HERE###      #-*-STEP 1-*-#
 ############################
 
-spider_name = 'espacenet_europe'
+spider_name = 'espacenet_ipc'
 
 timestr = time.strftime("%Y%m%d-%H%M%S")
 
@@ -26,15 +26,15 @@ option_2 = 'All-Fields'
 ###EDIT DIRECTORY PATHS TO MATCH YOUR LOCAL REPOSITORY###
 #########################################################
 
-save_path = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\inventtory_spiders'
-edit_path = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders'
+save_path = '/Users/romerchris/Desktop/Desktop/Companies/inventtory/inventtory/PAMM/Complements/Scraping/Scrapy/inventtory_spiders_CHRIS_COPY/inventtory_data_scraping/inventtory_data_scraping/inventtory_spiders/inventtory_spiders'
+edit_path = '/Users/romerchris/Desktop/Desktop/Companies/inventtory/inventtory/PAMM/Complements/Scraping/Scrapy/inventtory_spiders_CHRIS_COPY/inventtory_data_scraping/inventtory_data_scraping/inventtory_spiders'
 
 #################################
 ###COMMENT OUT PATHS NOT USING###      #-*-STEP 2-*-#
 #################################
 
-log_path = edit_path + '\\' + spider_name + '_' + option_1 + '\\' + 'LOG_' + spider_name
-#log_path = edit_path + '\\' + spider_name + '_' + option_2 + '\\' + 'LOG_' + spider_name
+log_path = edit_path + '/' + spider_name + '_' + option_1 + '/' + 'LOG_' + spider_name
+#log_path = edit_path + '/' + spider_name + '_' + option_2 + '/' + 'LOG_' + spider_name
 
 
 if not os.path.exists(log_path):
@@ -50,7 +50,7 @@ except:
     num = 1
     
 
-with open(save_path + '\\' + 'settings.py') as f_old:
+with open(save_path + '/' + 'settings.py') as f_old:
     reader = f_old.readlines()
     for i, row in enumerate(reader):
         new_rows.append(row)
@@ -75,7 +75,7 @@ except:
 ###DETERMINE FILE NUMBER###
 ###########################
 
-new_rows[102] = find1 + '\'' + log_path +'\\' + spider_name + '_' + str(num) + '.log\'' + find2
+new_rows[102] = find1 + '\'' + log_path + '/' + spider_name + '_' + str(num) + '.log\'' + find2
 
 name_of_file = "settings.py"
 complete_name = os.path.join(save_path, name_of_file)

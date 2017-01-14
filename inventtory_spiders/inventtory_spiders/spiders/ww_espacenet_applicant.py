@@ -54,12 +54,15 @@ class EspacenetSpider(CrawlSpider):
         if "Approximately" in clean:
             clean = re.match('.*?Approximately\s*(\d+,?\d+)\s*results\s*found.*', clean).group(1)
             num_results = int(clean.replace(',',''))
+            print("total records found: " + str(num_results))
         elif re.match('(\d+)\s*results\s*found.*',clean) is not None:
             clean = re.match('(\d+)\s*results\s*found.*',clean).group(1)
             num_results = int(clean.replace(',',''))
+            print("total records found: " + str(num_results))
         else:
             clean = re.match('More\s*than\s*(\d+,?\d+)\s*results.*',clean).group(1)
             num_results = int(clean.replace(',',''))
+            print("total records found: " + str(num_results))
 
 
 

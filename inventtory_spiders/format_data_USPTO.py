@@ -10,8 +10,8 @@ csv.field_size_limit(sys.maxsize)
 new_rows = []
 
 ###CHANGE DIRECTORY PATH AS REQUIRED###
-save_path = 'C:\Users\serap\Documents\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\DATA_OUTPUT1'
-             
+save_path = '/Users/romerchris/Desktop/Desktop/Companies/inventtory/inventtory/PAMM/Complements/Scraping/Scrapy/inventtory_spiders_CHRIS_COPY/inventtory_data_scraping/inventtory_data_scraping/inventtory_spiders'
+
 
 with open('uspto_classes_subclasse_test2.csv', "rt") as f:
     reader = csv.reader(f)
@@ -43,7 +43,7 @@ if (os.listdir(save_path) == []) == True:
         name_of_file = str(record[patent_index])+ "_1.txt"
         complete_name = os.path.join(save_path, name_of_file)
         f = open(complete_name,"w")
-        print(record[patent_index])
+        print(name_of_file)
         for field in fields:
             field_index = header.index(field)
             entry = str(field) + ": " + "\n" + record[field_index] + "\n\n\n"
@@ -62,7 +62,7 @@ else:
         name_of_file = str(record[patent_index])+ '_' + str(num) + ".txt"
         complete_name = os.path.join(save_path, name_of_file)
         f = open(complete_name,"w")
-        print(record[patent_index])
+        print(name_of_file)
         for field in fields:
             field_index = header.index(field)
             entry = str(field) + ": " + "\n" + record[field_index] + "\n\n\n"

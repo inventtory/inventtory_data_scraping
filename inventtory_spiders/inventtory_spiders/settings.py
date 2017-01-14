@@ -100,7 +100,7 @@ DOWNLOAD_DELAY = .5 #crawler scrapes a record every n seconds
 ###DETERMINE LOG FILE NAME###
 #############################
 
-LOG_FILE = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\espacenet_europe_Abstr-Claim-Descr\LOG_espacenet_europe\espacenet_europe_1.log'
+LOG_FILE = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\espacenet_ipc_Abstr-Claim-Descr\LOG_espacenet_ipc\espacenet_ipc_1.log'
 
 ########################
 ###CHOOSE A LOG LEVEL###
@@ -121,12 +121,17 @@ LOG_STDOUT = False
 ###############
 
 ITEM_PIPELINES = {
+    'inventtory_spiders.pipelines.CountPipeline': 300,
     'inventtory_spiders.pipelines.InventtorySpidersPipeline': 300,
 }
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36"
 
-#CLOSESPIDER_ITEMCOUNT = 5
+#effective for USPTO spiders
+CLOSESPIDER_ITEMCOUNT = 10
+CONCURRENT_REQUESTS = 1
+CONCURRENT_ITEMS = 1
+
 
 
 

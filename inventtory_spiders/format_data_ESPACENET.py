@@ -10,7 +10,7 @@ csv.field_size_limit(sys.maxsize)
 new_rows = []
 
 ###CHANGE DIRECTORY PATH AS REQUIRED###
-save_path = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders'
+save_path = '/Users/romerchris/Desktop/Desktop/Companies/inventtory/inventtory/PAMM/Complements/Scraping/Scrapy/inventtory_spiders_CHRIS_COPY/inventtory_data_scraping/inventtory_data_scraping/inventtory_spiders'
 
 
 with open('espacenet_china_test1.csv', "rt") as f:

@@ -30,6 +30,28 @@ option_1 = 'Abstr-Claim-Descr'
 option_2 = 'All-Fields'
 
 
+
+class CountPipeline(object):
+
+    def __init__(self, stats):
+        self.stats = stats
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(crawler.stats)
+
+    def process_item(self, item, spider):
+        num = self.stats.get_value('item_scraped_count')
+        if num == None:
+            num = 1
+            print("record number: " + str(num))
+        else:
+            num = num + 1
+            print("record number: " + str(num))
+        
+        return item
+
+
 class InventtorySpidersPipeline(object):
 
     def __init__(self):
@@ -48,15 +70,14 @@ class InventtorySpidersPipeline(object):
         spider_name = str(spider.name)
         print(spider_name)
         ###OPTION 1###
-        spider_path = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\\' + spider_name + '_' + option_1
+        spider_path = '/Users/romerchris/Desktop/Desktop/Companies/inventtory/inventtory/PAMM/Complements/Scraping/Scrapy/inventtory_spiders_CHRIS_COPY/inventtory_data_scraping/inventtory_data_scraping/inventtory_spiders/' + spider_name + '_' + option_1
         ###OPTION 2###
-        #spider_path = 'C:\Users\serap\Desktop\inventtory_spider_respository_chris\inventtory_data_scraping\inventtory_data_scraping\inventtory_spiders\\' + spider_name + '_' + option_2
-
+        #spider_path = '/Users/romerchris/Desktop/Desktop/Companies/inventtory/inventtory/PAMM/Complements/Scraping/Scrapy/inventtory_spiders_CHRIS_COPY/inventtory_data_scraping/inventtory_data_scraping/inventtory_spiders/' + spider_name + '_' + option_2
         if not os.path.exists(spider_path):
             os.makedirs(spider_path)
-            csv_path = spider_path + '\\' + 'CSV_' + spider_name
-            txt_path = spider_path + '\\' + 'TXT_' + spider_name
-            log_path = spider_path + '\\' + 'LOG_' + spider_name
+            csv_path = spider_path + '/' + 'CSV_' + spider_name
+            txt_path = spider_path + '/' + 'TXT_' + spider_name
+            log_path = spider_path + '/' + 'LOG_' + spider_name
             if not os.path.exists(csv_path):
                 os.makedirs(csv_path)
                 os.makedirs(txt_path)
@@ -67,7 +88,7 @@ class InventtorySpidersPipeline(object):
                 except:
                     num = 1
                 name_of_csv = spider_name + '_' + str(num) + '.csv'
-                new_file = open(csv_path+'/'+'%s_%d.csv' % (spider_name, num), 'w+b')
+                new_file = open(csv_path +'/'+'%s_%d.csv' % (spider_name, num), 'w+b')
                 self.files[spider] = new_file
                 self.exporter = CsvItemExporter(new_file, 'data', 'row')
 
@@ -88,7 +109,7 @@ class InventtorySpidersPipeline(object):
                 except:
                     num = 1
                 name_of_csv = spider_name + '_' + str(num) + '.csv'
-                new_file=open(csv_path+'/'+'%s_%d.csv' % (spider_name, num), 'w+b')
+                new_file=open(csv_path +'/'+'%s_%d.csv' % (spider_name, num), 'w+b')
                 self.files[spider] = new_file
                 self.exporter = CsvItemExporter(new_file, 'data', 'row')
 
@@ -106,9 +127,9 @@ class InventtorySpidersPipeline(object):
                     self.exporter.start_exporting()
 
         else:
-            csv_path = spider_path + '\\' + 'CSV_' + spider_name
-            txt_path = spider_path + '\\' + 'TXT_' + spider_name
-            log_path = spider_path + '\\' + 'LOG_' + spider_name
+            csv_path = spider_path + '/' + 'CSV_' + spider_name
+            txt_path = spider_path + '/' + 'TXT_' + spider_name
+            log_path = spider_path + '/' + 'LOG_' + spider_name
             if not os.path.exists(csv_path):
                 os.makedirs(csv_path)
                 os.makedirs(txt_path)
@@ -118,7 +139,7 @@ class InventtorySpidersPipeline(object):
                 except:
                     num = 1
                 name_of_csv = spider_name + '_' + str(num) + '.csv'
-                new_file=open(csv_path+'/'+'%s_%d.csv' % (spider_name, num), 'w+b')
+                new_file=open(csv_path + '/' + '%s_%d.csv' % (spider_name, num), 'w+b')
                 self.files[spider] = new_file
                 self.exporter = CsvItemExporter(new_file, 'data', 'row')
                 
@@ -143,7 +164,7 @@ class InventtorySpidersPipeline(object):
                 except:
                     num = 1
                 name_of_csv = spider_name + '_' + str(num) + '.csv'
-                new_file = open(csv_path+'/'+'%s_%d.csv' % (spider_name, num), 'w+b')
+                new_file = open(csv_path + '/' + '%s_%d.csv' % (spider_name, num), 'w+b')
                 self.files[spider] = new_file
                 self.exporter = CsvItemExporter(new_file, 'data', 'row')
 
@@ -177,12 +198,12 @@ class InventtorySpidersPipeline(object):
                 reader = f_old.readlines()
                 for i, row in enumerate(reader):
                     new_rows.append(row)
-            find1 = re.match('(.*?=\s*)?\'C:\\.*',new_rows[12]).group(1)
+            find1 = re.match('(.*?=\s*)?\'\/Users.*',new_rows[12]).group(1)
             find2 = re.match('with\s*open\(\'(.*?)\'.*',new_rows[15]).group(1)
             #FILE PATH - new_rows[12]
             new_rows[12] = find1 + '\'' + txt_path + '\''
             #FILE NAME - new_rows[15]   
-            new_rows[15] = new_rows[15].replace(find2, 'CSV_' + spider_name + '\\' + name_of_csv)
+            new_rows[15] = new_rows[15].replace(find2, 'CSV_' + spider_name + '/' + name_of_csv)
             name_of_file = "convert_" + spider_name + ".py"
             complete_name = os.path.join(spider_path, name_of_file)
             f_new = open(complete_name,"w")
@@ -195,12 +216,12 @@ class InventtorySpidersPipeline(object):
                 reader = f_old.readlines()
                 for i, row in enumerate(reader):
                     new_rows.append(row)
-            find1 = re.match('(.*?=\s*)?\'C:\\.*',new_rows[12]).group(1)
+            find1 = re.match('(.*?=\s*)?\'\/Users.*',new_rows[12]).group(1)
             find2 = re.match('with\s*open\(\'(.*?)\'.*',new_rows[15]).group(1)
             #FILE PATH - new_rows[12]
             new_rows[12] = find1 + '\'' + txt_path + '\''
             #FILE NAME - new_rows[15]   
-            new_rows[15] = new_rows[15].replace(find2, 'CSV_' + spider_name + '\\' + name_of_csv)
+            new_rows[15] = new_rows[15].replace(find2, 'CSV_' + spider_name + '/' + name_of_csv)
             name_of_file = "convert_" + spider_name + ".py"
             complete_name = os.path.join(spider_path, name_of_file)
             f_new = open(complete_name,"w")
