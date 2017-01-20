@@ -48,6 +48,7 @@ class EpoRepresentativesItem(scrapy.Item):
     # main data
     postcode = scrapy.Field()
     company_id = scrapy.Field()
+    company_name = scrapy.Field()
     strasse1 = scrapy.Field()
     strasse2 = scrapy.Field()
     strasse3 = scrapy.Field()

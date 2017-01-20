@@ -6,7 +6,7 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 from scrapy import signals
-from scrapy.contrib.exporter import CsvItemExporter
+from scrapy.exporters import CsvItemExporter
 
 ##class EpoRepresentativesPipeline(object):
 ##    def process_item(self, item, spider):
@@ -28,7 +28,7 @@ class CSVPipeline(object):
     file = open('%s_items_2.csv' % spider.name, 'w+b')
     self.files[spider] = file
     self.exporter = CsvItemExporter(file)
-    self.exporter.fields_to_export = ['iter1', 'iter2', 'iter3', 'page_url', 'no_hits', 'iso', 'country_name', 'paging_info', 'params', 'n_recs', 'page_Id', 'pages', 'city', 'per_page', 'country_id_1', 'country_id_2', 'name', 'data_format', 'module', 'callback', 'post_code', 'pane', 'pg', 'nr', 'postcode', 'company_id', 's_name', 'strasse1', 'strasse2', 'strasse3', 'strasse4', 'telefax1', 'telefax2', 'email', 's_city', 'land1', 'land2', 'postcodelr', 'ort', 'tel1', 'tel2', 'first_names', 'last_name', 'url', 'telex']
+    self.exporter.fields_to_export = ['iter1', 'iter2', 'iter3', 'page_url', 'no_hits', 'iso', 'country_name', 'paging_info', 'params', 'n_recs', 'page_Id', 'pages', 'city', 'per_page', 'country_id_1', 'country_id_2', 'name', 'data_format', 'module', 'callback', 'post_code', 'pane', 'pg', 'nr', 'postcode', 'company_id', 'company_name', 'strasse1', 'strasse2', 'strasse3', 'strasse4', 'telefax1', 'telefax2', 'email', 's_city', 'land1', 'land2', 'postcodelr', 'ort', 'tel1', 'tel2', 'first_names', 'last_name', 'url', 'telex']
     self.exporter.start_exporting()
 
   def spider_closed(self, spider):

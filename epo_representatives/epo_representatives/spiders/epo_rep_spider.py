@@ -1,7 +1,7 @@
 '''
     File name: epo_rep_spider.py
     Author: Seraphina Anderson
-    Date last modified: 12/1/2017
+    Date last modified: 13/1/2017
     Python Version: 2.7
 '''
 
@@ -196,9 +196,16 @@ class EpoRepSpider(CrawlSpider):
             else:
                 item['telefax2'] = ''
             if data['resultList'][k]['email'] is not None:
-                item['email'] = data['resultList'][k]['email']
+                email = data['resultList'][k]['email']
+                item['email'] = email
+                try:
+                    re.match('.*?@(.*?)?\..*',email)
+                    item['company_name'] = re.match('.*?@(.*?)?\..*',email).group(1)
+                except:
+                    item['company_name'] = ''
             else:
                 item['email'] = ''
+                item['company_name'] = ''
             if data['resultList'][k]['sCity'] is not None:
                 item['s_city'] = data['resultList'][k]['sCity']
             else:
@@ -250,8 +257,8 @@ class EpoRepSpider(CrawlSpider):
  
             yield item
 
-#to output to csv: scrapy crawl epo_rep -o epo_rep.csv
-#no of data entries as of 11/1/2017 is 11749
+#to output to csv: scrapy crawl epo_rep
+#no of data entries as of 20/1/2017 is 11749
 
 
 
